@@ -1,0 +1,282 @@
+[Script Info]
+;本字幕檔案用 SrtEdit MPC播放版 Version 5.2 編輯製作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁衛國
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 400
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,simhei,22,&HFFFFEF,&H00FFFF,&HA44A40,&HA44A40,-1,0,1,2,1,2,30,30,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:01:51.24,0:01:55.01,Default,NTP,0000,0000,0000,!Effect,第三十四話\N劫財女飛賊 卷田操的真面目
+Dialogue: Marked=0,0:01:56.05,0:01:57.21,Default,NTP,0000,0000,0000,!Effect,覺悟吧
+Dialogue: Marked=0,0:01:57.25,0:02:00.55,Default,NTP,0000,0000,0000,!Effect,沒有一個男人可逃出我的手掌心
+Dialogue: Marked=0,0:02:00.58,0:02:01.85,Default,NTP,0000,0000,0000,!Effect,你也一樣
+Dialogue: Marked=0,0:02:02.75,0:02:05.38,Default,NTP,0000,0000,0000,!Effect,你的全部我都要
+Dialogue: Marked=0,0:02:09.69,0:02:11.16,Default,NTP,0000,0000,0000,!Effect,唉 你到底要怎樣
+Dialogue: Marked=0,0:02:11.19,0:02:12.72,Default,NTP,0000,0000,0000,!Effect,啊 哈哈
+Dialogue: Marked=0,0:02:12.76,0:02:15.36,Default,NTP,0000,0000,0000,!Effect,你一定是有無法忍受的痛楚
+Dialogue: Marked=0,0:02:15.40,0:02:17.73,Default,NTP,0000,0000,0000,!Effect,妻子逃跑了嗎
+Dialogue: Marked=0,0:02:17.77,0:02:19.29,Default,NTP,0000,0000,0000,!Effect,什麼 我還沒結婚呢
+Dialogue: Marked=0,0:02:19.34,0:02:21.17,Default,NTP,0000,0000,0000,!Effect,跟你開玩笑的啦
+Dialogue: Marked=0,0:02:21.20,0:02:23.43,Default,NTP,0000,0000,0000,!Effect,真拿你沒轍
+Dialogue: Marked=0,0:02:23.47,0:02:25.96,Default,NTP,0000,0000,0000,!Effect,那我要你的刀做替代品
+Dialogue: Marked=0,0:02:26.01,0:02:27.31,Default,NTP,0000,0000,0000,!Effect,咦 這個嗎
+Dialogue: Marked=0,0:02:27.34,0:02:31.54,Default,NTP,0000,0000,0000,!Effect,現在實施廢刀令\N你還故意配刀於腰間
+Dialogue: Marked=0,0:02:31.58,0:02:33.85,Default,NTP,0000,0000,0000,!Effect,這把刀一定價值非凡
+Dialogue: Marked=0,0:02:46.36,0:02:47.95,Default,NTP,0000,0000,0000,!Effect,如何啊
+Dialogue: Marked=0,0:02:48.00,0:02:49.52,Default,NTP,0000,0000,0000,!Effect,什麼如何
+Dialogue: Marked=0,0:02:49.57,0:02:52.59,Default,NTP,0000,0000,0000,!Effect,我的招術怎麼沒效呢 混蛋
+Dialogue: Marked=0,0:02:53.24,0:02:58.90,Default,NTP,0000,0000,0000,!Effect,你的力道太小 就算被打到也…
+Dialogue: Marked=0,0:02:58.94,0:03:00.50,Default,NTP,0000,0000,0000,!Effect,哼 剛才只是牛刀小試
+Dialogue: Marked=0,0:03:00.54,0:03:04.24,Default,NTP,0000,0000,0000,!Effect,這次可要來真的嘍\N可會致你於死地喔
+Dialogue: Marked=0,0:03:21.33,0:03:23.82,Default,NTP,0000,0000,0000,!Effect,你真的惹火我了
+Dialogue: Marked=0,0:03:23.87,0:03:26.46,Default,NTP,0000,0000,0000,!Effect,沒…沒有啦
+Dialogue: Marked=0,0:03:26.50,0:03:29.20,Default,NTP,0000,0000,0000,!Effect,看招 怪鳥踢
+Dialogue: Marked=0,0:03:32.04,0:03:34.57,Default,NTP,0000,0000,0000,!Effect,怪鳥踢…
+Dialogue: Marked=0,0:03:35.24,0:03:38.21,Default,NTP,0000,0000,0000,!Effect,餵你忘了這筆錢嗎
+Dialogue: Marked=0,0:03:40.42,0:03:44.01,Default,NTP,0000,0000,0000,!Effect,我生氣了 還給我 那是我的
+Dialogue: Marked=0,0:03:46.66,0:03:49.35,Default,NTP,0000,0000,0000,!Effect,接招 貫殺飛苦無
+Dialogue: Marked=0,0:03:54.23,0:03:57.93,Default,NTP,0000,0000,0000,!Effect,啊 我的披風
+Dialogue: Marked=0,0:03:58.97,0:04:00.96,Default,NTP,0000,0000,0000,!Effect,啊 對不起 一不小心就
+Dialogue: Marked=0,0:04:01.00,0:04:03.03,Default,NTP,0000,0000,0000,!Effect,把我的披風和錢還來
+Dialogue: Marked=0,0:04:03.07,0:04:05.77,Default,NTP,0000,0000,0000,!Effect,披風是你的 錢可不是吧
+Dialogue: Marked=0,0:04:05.81,0:04:09.34,Default,NTP,0000,0000,0000,!Effect,這筆錢是那些男的偷來的
+Dialogue: Marked=0,0:04:09.38,0:04:12.71,Default,NTP,0000,0000,0000,!Effect,是我的
+Dialogue: Marked=0,0:04:12.75,0:04:16.88,Default,NTP,0000,0000,0000,!Effect,是我拿到手的 所以是我的
+Dialogue: Marked=0,0:04:17.99,0:04:20.11,Default,NTP,0000,0000,0000,!Effect,少說廢話 陪錢陪我披風啦
+Dialogue: Marked=0,0:04:20.16,0:04:22.12,Default,NTP,0000,0000,0000,!Effect,用你的刀陪錢我
+Dialogue: Marked=0,0:04:22.16,0:04:23.39,Default,NTP,0000,0000,0000,!Effect,真麻煩啊
+Dialogue: Marked=0,0:04:24.69,0:04:25.79,Default,NTP,0000,0000,0000,!Effect,沒錯
+Dialogue: Marked=0,0:04:26.76,0:04:28.13,Default,NTP,0000,0000,0000,!Effect,讓我鑒定一下
+Dialogue: Marked=0,0:04:29.10,0:04:32.03,Default,NTP,0000,0000,0000,!Effect,咦 搞什麼玩意 刀刃是反的
+Dialogue: Marked=0,0:04:32.07,0:04:34.90,Default,NTP,0000,0000,0000,!Effect,如你所見 這不是一般的刀
+Dialogue: Marked=0,0:04:34.94,0:04:38.27,Default,NTP,0000,0000,0000,!Effect,賣也賣不到好價錢的
+Dialogue: Marked=0,0:04:38.31,0:04:40.78,Default,NTP,0000,0000,0000,!Effect,哼
+Dialogue: Marked=0,0:04:40.81,0:04:42.78,Default,NTP,0000,0000,0000,!Effect,沒關係 兩三文錢也可以
+Dialogue: Marked=0,0:04:42.81,0:04:44.01,Default,NTP,0000,0000,0000,!Effect,有總比沒有好
+Dialogue: Marked=0,0:04:44.05,0:04:45.24,Default,NTP,0000,0000,0000,!Effect,我要定了
+Dialogue: Marked=0,0:04:45.28,0:04:48.22,Default,NTP,0000,0000,0000,!Effect,等一等 那可是我寶貝的愛刀呀
+Dialogue: Marked=0,0:04:48.25,0:04:50.62,Default,NTP,0000,0000,0000,!Effect,這件披風也是我最心愛的呀
+Dialogue: Marked=0,0:04:50.65,0:04:52.52,Default,NTP,0000,0000,0000,!Effect,弄成這樣 丟掉算了
+Dialogue: Marked=0,0:04:52.56,0:04:56.89,Default,NTP,0000,0000,0000,!Effect,喂 我明白了 我有的錢都給你
+Dialogue: Marked=0,0:04:58.49,0:05:00.36,Default,NTP,0000,0000,0000,!Effect,那刀還你
+Dialogue: Marked=0,0:05:02.10,0:05:04.43,Default,NTP,0000,0000,0000,!Effect,窮就是窮
+Dialogue: Marked=0,0:05:05.30,0:05:06.50,Default,NTP,0000,0000,0000,!Effect,對啊
+Dialogue: Marked=0,0:05:06.54,0:05:10.44,Default,NTP,0000,0000,0000,!Effect,我要把這筆錢 還給它原來的主人
+Dialogue: Marked=0,0:05:11.87,0:05:14.24,Default,NTP,0000,0000,0000,!Effect,以後別在路上搶錢啦
+Dialogue: Marked=0,0:05:14.28,0:05:18.87,Default,NTP,0000,0000,0000,!Effect,等一等 我說那是我的…
+Dialogue: Marked=0,0:05:21.32,0:05:22.84,Default,NTP,0000,0000,0000,!Effect,混帳
+Dialogue: Marked=0,0:05:29.83,0:05:32.49,Default,NTP,0000,0000,0000,!Effect,小田宿 田村屋
+Dialogue: Marked=0,0:05:32.53,0:05:34.29,Default,NTP,0000,0000,0000,!Effect,就是這兒吧
+Dialogue: Marked=0,0:05:35.03,0:05:38.87,Default,NTP,0000,0000,0000,!Effect,他們好像還不知道錢被偷了呢
+Dialogue: Marked=0,0:05:39.47,0:05:41.44,Default,NTP,0000,0000,0000,!Effect,這樣也好
+Dialogue: Marked=0,0:05:48.64,0:05:50.77,Default,NTP,0000,0000,0000,!Effect,你也蠻厲害的嘛
+Dialogue: Marked=0,0:05:51.58,0:05:54.88,Default,NTP,0000,0000,0000,!Effect,我知道了 你也是盜賊出身 對吧
+Dialogue: Marked=0,0:05:54.92,0:05:57.94,Default,NTP,0000,0000,0000,!Effect,這種小技倆 我也會
+Dialogue: Marked=0,0:06:05.26,0:06:06.49,Default,NTP,0000,0000,0000,!Effect,哎呀
+Dialogue: Marked=0,0:06:08.73,0:06:10.16,Default,NTP,0000,0000,0000,!Effect,如何啊
+Dialogue: Marked=0,0:06:11.13,0:06:15.04,Default,NTP,0000,0000,0000,!Effect,剛剛的拳法 身手都不賴
+Dialogue: Marked=0,0:06:15.07,0:06:18.84,Default,NTP,0000,0000,0000,!Effect,這個小妮子來歷不凡
+Dialogue: Marked=0,0:06:18.88,0:06:22.47,Default,NTP,0000,0000,0000,!Effect,雖然外表不怎麼起眼
+Dialogue: Marked=0,0:06:22.51,0:06:23.81,Default,NTP,0000,0000,0000,!Effect,你在看什麼啦
+Dialogue: Marked=0,0:06:23.85,0:06:25.07,Default,NTP,0000,0000,0000,!Effect,沒有啊
+Dialogue: Marked=0,0:06:27.78,0:06:29.81,Default,NTP,0000,0000,0000,!Effect,有錢人果然不一樣
+Dialogue: Marked=0,0:06:29.85,0:06:31.58,Default,NTP,0000,0000,0000,!Effect,接下來…
+Dialogue: Marked=0,0:06:31.62,0:06:33.45,Default,NTP,0000,0000,0000,!Effect,就是那兒了
+Dialogue: Marked=0,0:06:35.49,0:06:36.86,Default,NTP,0000,0000,0000,!Effect,這樣就沒問題了
+Dialogue: Marked=0,0:06:38.03,0:06:39.39,Default,NTP,0000,0000,0000,!Effect,這樣就沒問題了
+Dialogue: Marked=0,0:06:39.43,0:06:40.40,Default,NTP,0000,0000,0000,!Effect,哇
+Dialogue: Marked=0,0:06:40.43,0:06:42.36,Default,NTP,0000,0000,0000,!Effect,你在想什麼啊 真受不了
+Dialogue: Marked=0,0:06:42.40,0:06:45.20,Default,NTP,0000,0000,0000,!Effect,沒事就走了啦
+Dialogue: Marked=0,0:06:45.23,0:06:48.40,Default,NTP,0000,0000,0000,!Effect,沒錢怎麼回京都
+Dialogue: Marked=0,0:06:48.44,0:06:49.80,Default,NTP,0000,0000,0000,!Effect,京都
+Dialogue: Marked=0,0:06:49.84,0:06:52.07,Default,NTP,0000,0000,0000,!Effect,對啊 京都
+Dialogue: Marked=0,0:07:11.06,0:07:14.86,Default,NTP,0000,0000,0000,!Effect,你老家在京都啊
+Dialogue: Marked=0,0:07:14.90,0:07:18.06,Default,NTP,0000,0000,0000,!Effect,對啊 因為有點事才來東京的
+Dialogue: Marked=0,0:07:18.10,0:07:21.30,Default,NTP,0000,0000,0000,!Effect,但我已身無分文 無法回家了
+Dialogue: Marked=0,0:07:21.34,0:07:25.60,Default,NTP,0000,0000,0000,!Effect,一個女孩子為什麼隻身來此呢
+Dialogue: Marked=0,0:07:25.64,0:07:29.34,Default,NTP,0000,0000,0000,!Effect,來找人啊
+Dialogue: Marked=0,0:07:29.38,0:07:34.65,Default,NTP,0000,0000,0000,!Effect,我一生下來就孤伶伶的一個
+Dialogue: Marked=0,0:07:34.68,0:07:38.28,Default,NTP,0000,0000,0000,!Effect,幸好有人收養了我
+Dialogue: Marked=0,0:07:38.32,0:07:41.81,Default,NTP,0000,0000,0000,!Effect,那是幕府末期時的事了
+Dialogue: Marked=0,0:07:41.86,0:07:43.92,Default,NTP,0000,0000,0000,!Effect,原來是要找那個人啊
+Dialogue: Marked=0,0:07:43.96,0:07:47.16,Default,NTP,0000,0000,0000,!Effect,對 找那個人和他的同伴
+Dialogue: Marked=0,0:07:47.20,0:07:49.66,Default,NTP,0000,0000,0000,!Effect,本來我們是一起 行走天涯的
+Dialogue: Marked=0,0:07:49.70,0:07:51.56,Default,NTP,0000,0000,0000,!Effect,但是有一天
+Dialogue: Marked=0,0:07:51.60,0:07:55.59,Default,NTP,0000,0000,0000,!Effect,只剩我被留在京都的老爺爺家中
+Dialogue: Marked=0,0:07:55.64,0:07:59.54,Default,NTP,0000,0000,0000,!Effect,但是 我真的很想再見他們一面
+Dialogue: Marked=0,0:07:59.58,0:08:04.77,Default,NTP,0000,0000,0000,!Effect,只要有他們的消息\N我就會四處打聽
+Dialogue: Marked=0,0:08:07.22,0:08:09.51,Default,NTP,0000,0000,0000,!Effect,可是每次都撲了空
+Dialogue: Marked=0,0:08:09.55,0:08:11.42,Default,NTP,0000,0000,0000,!Effect,這次也一樣
+Dialogue: Marked=0,0:08:11.95,0:08:14.95,Default,NTP,0000,0000,0000,!Effect,原來如此 我大概瞭解了
+Dialogue: Marked=0,0:08:17.39,0:08:21.33,Default,NTP,0000,0000,0000,!Effect,啊 我叫小操
+Dialogue: Marked=0,0:08:21.36,0:08:23.16,Default,NTP,0000,0000,0000,!Effect,卷田操
+Dialogue: Marked=0,0:08:23.90,0:08:24.96,Default,NTP,0000,0000,0000,!Effect,小操小姐
+Dialogue: Marked=0,0:08:25.00,0:08:29.34,Default,NTP,0000,0000,0000,!Effect,就算再沒錢 也不可劫人錢財喔
+Dialogue: Marked=0,0:08:29.37,0:08:36.84,Default,NTP,0000,0000,0000,!Effect,那你告訴我回京都的方法\N不吃不喝要熬幾天啊
+Dialogue: Marked=0,0:08:36.88,0:08:40.28,Default,NTP,0000,0000,0000,!Effect,用我給的錢 寄信給京都的老爺爺
+Dialogue: Marked=0,0:08:40.32,0:08:43.75,Default,NTP,0000,0000,0000,!Effect,叫他來接你回去
+Dialogue: Marked=0,0:08:43.79,0:08:45.25,Default,NTP,0000,0000,0000,!Effect,這樣啊
+Dialogue: Marked=0,0:08:45.29,0:08:46.55,Default,NTP,0000,0000,0000,!Effect,恩
+Dialogue: Marked=0,0:08:47.19,0:08:50.89,Default,NTP,0000,0000,0000,!Effect,還有 剛才打架的那群人
+Dialogue: Marked=0,0:08:50.93,0:08:55.42,Default,NTP,0000,0000,0000,!Effect,和宿場町的流氓混混 都有掛勾
+Dialogue: Marked=0,0:08:55.46,0:09:00.27,Default,NTP,0000,0000,0000,!Effect,你可要小心 最好快點離開這兒
+Dialogue: Marked=0,0:09:00.30,0:09:01.50,Default,NTP,0000,0000,0000,!Effect,在那
+Dialogue: Marked=0,0:09:01.54,0:09:03.30,Default,NTP,0000,0000,0000,!Effect,就是那個女的
+Dialogue: Marked=0,0:09:04.87,0:09:07.90,Default,NTP,0000,0000,0000,!Effect,剛才真氣不過
+Dialogue: Marked=0,0:09:09.15,0:09:11.14,Default,NTP,0000,0000,0000,!Effect,夾攻他們
+Dialogue: Marked=0,0:09:13.82,0:09:15.65,Default,NTP,0000,0000,0000,!Effect,絕不放過你
+Dialogue: Marked=0,0:09:17.15,0:09:18.98,Default,NTP,0000,0000,0000,!Effect,真討厭
+Dialogue: Marked=0,0:09:19.02,0:09:21.46,Default,NTP,0000,0000,0000,!Effect,大約有30人左右
+Dialogue: Marked=0,0:09:21.49,0:09:24.79,Default,NTP,0000,0000,0000,!Effect,你也是劍客吧 一半由你負責嘍
+Dialogue: Marked=0,0:09:24.83,0:09:26.39,Default,NTP,0000,0000,0000,!Effect,殺死你
+Dialogue: Marked=0,0:09:34.40,0:09:39.34,Default,NTP,0000,0000,0000,!Effect,真糟糕 不想和任何人有瓜葛卻又
+Dialogue: Marked=0,0:09:45.85,0:09:47.61,Default,NTP,0000,0000,0000,!Effect,你這小鬼 還裝
+Dialogue: Marked=0,0:09:47.65,0:09:49.17,Default,NTP,0000,0000,0000,!Effect,你也去死吧
+Dialogue: Marked=0,0:09:51.82,0:09:53.15,Default,NTP,0000,0000,0000,!Effect,什麼
+Dialogue: Marked=0,0:09:53.19,0:09:57.82,Default,NTP,0000,0000,0000,!Effect,你們偷錢也不對\N小操搶你們的錢也不對
+Dialogue: Marked=0,0:09:57.86,0:10:02.32,Default,NTP,0000,0000,0000,!Effect,今天就由我做個公道 了結這場是非吧
+Dialogue: Marked=0,0:10:26.46,0:10:30.82,Default,NTP,0000,0000,0000,!Effect,看不出來你還蠻行的嘛 雖然毛毛燥燥的
+Dialogue: Marked=0,0:10:30.86,0:10:36.77,Default,NTP,0000,0000,0000,!Effect,河邊及橋上的打鬥\N我早就習慣的不得了了
+Dialogue: Marked=0,0:10:36.80,0:10:39.86,Default,NTP,0000,0000,0000,!Effect,這種橋 只要站穩於中央
+Dialogue: Marked=0,0:10:39.90,0:10:46.21,Default,NTP,0000,0000,0000,!Effect,當敵人攻過來時 是很難比我們更佔上風的
+Dialogue: Marked=0,0:10:46.24,0:10:48.07,Default,NTP,0000,0000,0000,!Effect,原來如此
+Dialogue: Marked=0,0:10:48.11,0:10:53.10,Default,NTP,0000,0000,0000,!Effect,但我要找的那個人更厲害
+Dialogue: Marked=0,0:10:53.15,0:10:54.84,Default,NTP,0000,0000,0000,!Effect,是嗎
+Dialogue: Marked=0,0:10:54.88,0:11:00.05,Default,NTP,0000,0000,0000,!Effect,那一行人 在幕府末期的亂世中\N暗地保護著江戶城
+Dialogue: Marked=0,0:11:05.46,0:11:11.33,Default,NTP,0000,0000,0000,!Effect,蒼紫和御庭派的人 現在在做什麼呢
+Dialogue: Marked=0,0:11:15.87,0:11:17.74,Default,NTP,0000,0000,0000,!Effect,四乃森蒼紫
+Dialogue: Marked=0,0:11:27.42,0:11:29.82,Default,NTP,0000,0000,0000,!Effect,你認識蒼紫嗎
+Dialogue: Marked=0,0:11:31.52,0:11:32.92,Default,NTP,0000,0000,0000,!Effect,太好了
+Dialogue: Marked=0,0:11:32.96,0:11:35.05,Default,NTP,0000,0000,0000,!Effect,快告訴我 他在哪
+Dialogue: Marked=0,0:11:35.09,0:11:39.22,Default,NTP,0000,0000,0000,!Effect,御庭派的人好嗎 他們都好吧
+Dialogue: Marked=0,0:11:54.48,0:11:57.88,Default,NTP,0000,0000,0000,!Effect,拔刀齊 你在京都給我等著
+Dialogue: Marked=0,0:12:07.96,0:12:11.12,Default,NTP,0000,0000,0000,!Effect,幹嘛 突然都不說話
+Dialogue: Marked=0,0:12:11.16,0:12:14.15,Default,NTP,0000,0000,0000,!Effect,告訴我嘛 蒼紫君在哪
+Dialogue: Marked=0,0:12:14.20,0:12:19.66,Default,NTP,0000,0000,0000,!Effect,般若君好嗎 式尉 部口他們呢
+Dialogue: Marked=0,0:12:20.74,0:12:23.14,Default,NTP,0000,0000,0000,!Effect,好吧 我先說我的秘密好了
+Dialogue: Marked=0,0:12:23.17,0:12:27.20,Default,NTP,0000,0000,0000,!Effect,我的拳法是和般若君學的
+Dialogue: Marked=0,0:12:30.08,0:12:31.60,Default,NTP,0000,0000,0000,!Effect,你說句話嘛
+Dialogue: Marked=0,0:12:32.88,0:12:34.08,Default,NTP,0000,0000,0000,!Effect,小鬼 紅毛
+Dialogue: Marked=0,0:12:34.12,0:12:36.05,Default,NTP,0000,0000,0000,!Effect,不男不女 違反廢刀令
+Dialogue: Marked=0,0:12:36.09,0:12:38.88,Default,NTP,0000,0000,0000,!Effect,大烏龜 奇裝異服 窮鬼
+Dialogue: Marked=0,0:12:38.92,0:12:43.55,Default,NTP,0000,0000,0000,!Effect,我也是有名有姓的\N請叫我緋村劍心
+Dialogue: Marked=0,0:12:43.59,0:12:47.82,Default,NTP,0000,0000,0000,!Effect,我好好叫你的名字\N你就會告訴我他們的事嗎
+Dialogue: Marked=0,0:12:47.86,0:12:50.96,Default,NTP,0000,0000,0000,!Effect,那是兩碼子事
+Dialogue: Marked=0,0:12:51.00,0:12:53.09,Default,NTP,0000,0000,0000,!Effect,什麼嘛
+Dialogue: Marked=0,0:12:53.14,0:12:56.87,Default,NTP,0000,0000,0000,!Effect,不要耍我 王八蛋
+Dialogue: Marked=0,0:13:00.78,0:13:04.34,Default,NTP,0000,0000,0000,!Effect,給我說 蒼紫他們到底在哪
+Dialogue: Marked=0,0:13:04.38,0:13:07.08,Default,NTP,0000,0000,0000,!Effect,喂
+Dialogue: Marked=0,0:13:08.38,0:13:10.38,Default,NTP,0000,0000,0000,!Effect,你以為我會放棄嗎
+Dialogue: Marked=0,0:13:11.29,0:13:12.88,Default,NTP,0000,0000,0000,!Effect,絕不
+Dialogue: Marked=0,0:13:13.69,0:13:16.39,Default,NTP,0000,0000,0000,!Effect,好不容易有了可靠的線索
+Dialogue: Marked=0,0:13:42.08,0:13:44.42,Default,NTP,0000,0000,0000,!Effect,你在幹嘛 這邊啦
+Dialogue: Marked=0,0:13:59.64,0:14:02.04,Default,NTP,0000,0000,0000,!Effect,他還教我 如何判斷天氣好壞
+Dialogue: Marked=0,0:14:10.95,0:14:12.57,Default,NTP,0000,0000,0000,!Effect,啊 下雨了
+Dialogue: Marked=0,0:14:12.61,0:14:13.64,Default,NTP,0000,0000,0000,!Effect,對啊
+Dialogue: Marked=0,0:14:13.68,0:14:16.98,Default,NTP,0000,0000,0000,!Effect,劍心也在某處淋著雨吧
+Dialogue: Marked=0,0:14:17.65,0:14:21.71,Default,NTP,0000,0000,0000,!Effect,有一次也是這樣 突然下起雨來
+Dialogue: Marked=0,0:14:25.89,0:14:28.29,Default,NTP,0000,0000,0000,!Effect,小薰 這裏 這裏
+Dialogue: Marked=0,0:14:28.33,0:14:29.92,Default,NTP,0000,0000,0000,!Effect,討厭
+Dialogue: Marked=0,0:14:29.97,0:14:32.43,Default,NTP,0000,0000,0000,!Effect,剛才還出大太陽的
+Dialogue: Marked=0,0:14:33.10,0:14:36.80,Default,NTP,0000,0000,0000,!Effect,啊 這件衣服第一次穿就…
+Dialogue: Marked=0,0:14:36.84,0:14:38.24,Default,NTP,0000,0000,0000,!Effect,被雨淋濕了
+Dialogue: Marked=0,0:15:07.27,0:15:09.07,Default,NTP,0000,0000,0000,!Effect,你在想什麼
+Dialogue: Marked=0,0:15:09.64,0:15:10.83,Default,NTP,0000,0000,0000,!Effect,沒有
+Dialogue: Marked=0,0:15:11.07,0:15:14.10,Default,NTP,0000,0000,0000,!Effect,喂 我跟你說說 蒼紫君的故事吧
+Dialogue: Marked=0,0:15:14.74,0:15:16.71,Default,NTP,0000,0000,0000,!Effect,蒼紫
+Dialogue: Marked=0,0:15:16.75,0:15:18.94,Default,NTP,0000,0000,0000,!Effect,你或許知道他也說不定
+Dialogue: Marked=0,0:15:18.98,0:15:22.38,Default,NTP,0000,0000,0000,!Effect,他真的是最棒了
+Dialogue: Marked=0,0:15:22.42,0:15:27.95,Default,NTP,0000,0000,0000,!Effect,才15歲就成了御庭派堂主\N真是天才中的天才
+Dialogue: Marked=0,0:15:29.22,0:15:32.32,Default,NTP,0000,0000,0000,!Effect,有責任感又照顧同伴
+Dialogue: Marked=0,0:15:32.36,0:15:36.96,Default,NTP,0000,0000,0000,!Effect,雖然總是一付冷漠無情的樣子
+Dialogue: Marked=0,0:15:37.50,0:15:42.13,Default,NTP,0000,0000,0000,!Effect,和他相處8年 一次也沒看他笑過
+Dialogue: Marked=0,0:15:43.14,0:15:45.94,Default,NTP,0000,0000,0000,!Effect,現在的他 大概也是這樣吧
+Dialogue: Marked=0,0:15:48.68,0:15:49.77,Default,NTP,0000,0000,0000,!Effect,但是沒關係
+Dialogue: Marked=0,0:15:49.81,0:15:53.30,Default,NTP,0000,0000,0000,!Effect,有一天我一定會看到 蒼紫深藏的笑容
+Dialogue: Marked=0,0:15:53.35,0:15:54.71,Default,NTP,0000,0000,0000,!Effect,喂 渾球
+Dialogue: Marked=0,0:15:54.75,0:15:56.24,Default,NTP,0000,0000,0000,!Effect,雨停了
+Dialogue: Marked=0,0:15:56.29,0:15:57.48,Default,NTP,0000,0000,0000,!Effect,等等
+Dialogue: Marked=0,0:16:06.40,0:16:10.23,Default,NTP,0000,0000,0000,!Effect,把御庭派滅門一事告訴她的話
+Dialogue: Marked=0,0:16:10.27,0:16:13.03,Default,NTP,0000,0000,0000,!Effect,對她雖是痛苦的打擊
+Dialogue: Marked=0,0:16:13.07,0:16:16.40,Default,NTP,0000,0000,0000,!Effect,但或許比無止盡的找下去來得好吧
+Dialogue: Marked=0,0:16:17.27,0:16:18.64,Default,NTP,0000,0000,0000,!Effect,可是…
+Dialogue: Marked=0,0:16:18.67,0:16:23.17,Default,NTP,0000,0000,0000,!Effect,她視我為唯一的線索\N一定會死纏我不放
+Dialogue: Marked=0,0:16:24.45,0:16:29.15,Default,NTP,0000,0000,0000,!Effect,不管了 志志雄一幫人不知何時會突擊
+Dialogue: Marked=0,0:16:29.18,0:16:30.41,Default,NTP,0000,0000,0000,!Effect,在這趟旅程中
+Dialogue: Marked=0,0:16:30.45,0:16:33.75,Default,NTP,0000,0000,0000,!Effect,我可不能將她捲入是非之中
+Dialogue: Marked=0,0:16:33.79,0:16:35.85,Default,NTP,0000,0000,0000,!Effect,把她甩開吧
+Dialogue: Marked=0,0:16:35.89,0:16:37.09,Default,NTP,0000,0000,0000,!Effect,咦
+Dialogue: Marked=0,0:16:37.13,0:16:38.09,Default,NTP,0000,0000,0000,!Effect,等等
+Dialogue: Marked=0,0:16:40.03,0:16:44.09,Default,NTP,0000,0000,0000,!Effect,哈 笨蛋 你以為你逃得了嗎
+Dialogue: Marked=0,0:16:44.13,0:16:49.16,Default,NTP,0000,0000,0000,!Effect,我可是活躍於御庭派的女子唷
+Dialogue: Marked=0,0:16:49.20,0:16:52.64,Default,NTP,0000,0000,0000,!Effect,尤其是跑步 我可是充滿自信
+Dialogue: Marked=0,0:16:56.08,0:16:56.87,Default,NTP,0000,0000,0000,!Effect,王八蛋
+Dialogue: Marked=0,0:17:10.53,0:17:11.72,Default,NTP,0000,0000,0000,!Effect,她還不死心啊
+Dialogue: Marked=0,0:17:11.76,0:17:14.52,Default,NTP,0000,0000,0000,!Effect,我跑那麼快 還緊追不拾
+Dialogue: Marked=0,0:17:14.56,0:17:16.90,Default,NTP,0000,0000,0000,!Effect,真的那麼想見到蒼紫嗎
+Dialogue: Marked=0,0:17:20.37,0:17:24.47,Default,NTP,0000,0000,0000,!Effect,混蛋 怎麼跑那麼快 才剛追上又…
+Dialogue: Marked=0,0:17:25.41,0:17:27.88,Default,NTP,0000,0000,0000,!Effect,他果真不是泛泛之輩
+Dialogue: Marked=0,0:17:27.91,0:17:30.90,Default,NTP,0000,0000,0000,!Effect,說不定和蒼紫交手過呢
+Dialogue: Marked=0,0:17:34.82,0:17:36.94,Default,NTP,0000,0000,0000,!Effect,糟了 他跑哪兒去了
+Dialogue: Marked=0,0:17:41.69,0:17:44.02,Default,NTP,0000,0000,0000,!Effect,捉迷藏已經結束了
+Dialogue: Marked=0,0:17:44.06,0:17:47.32,Default,NTP,0000,0000,0000,!Effect,你在說什麼 好戲現在才開始呢
+Dialogue: Marked=0,0:17:47.36,0:17:49.66,Default,NTP,0000,0000,0000,!Effect,只要你一天不告訴我 蒼紫他們的消息
+Dialogue: Marked=0,0:17:49.70,0:17:54.50,Default,NTP,0000,0000,0000,!Effect,就算死…
+Dialogue: Marked=0,0:18:06.32,0:18:08.41,Default,NTP,0000,0000,0000,!Effect,什麼 怎麼可能
+Dialogue: Marked=0,0:18:08.45,0:18:11.39,Default,NTP,0000,0000,0000,!Effect,那小子竟然跳過了這個崖壁
+Dialogue: Marked=0,0:18:11.42,0:18:12.39,Default,NTP,0000,0000,0000,!Effect,怎麼辦
+Dialogue: Marked=0,0:18:12.42,0:18:15.22,Default,NTP,0000,0000,0000,!Effect,我根本無法跳到對面去
+Dialogue: Marked=0,0:18:15.26,0:18:17.59,Default,NTP,0000,0000,0000,!Effect,不把他留下的話…
+Dialogue: Marked=0,0:18:19.16,0:18:20.75,Default,NTP,0000,0000,0000,!Effect,貫殺飛苦無
+Dialogue: Marked=0,0:18:27.77,0:18:30.47,Default,NTP,0000,0000,0000,!Effect,光是拔刀的氣勢 貫殺飛苦無就無法…
+Dialogue: Marked=0,0:18:33.34,0:18:36.40,Default,NTP,0000,0000,0000,!Effect,打消念頭 乖乖回京都去吧
+Dialogue: Marked=0,0:18:41.28,0:18:46.05,Default,NTP,0000,0000,0000,!Effect,我雖然不清楚 蒼紫為何留下你一人
+Dialogue: Marked=0,0:18:46.09,0:18:51.08,Default,NTP,0000,0000,0000,!Effect,但是我能瞭解\N他為什麼一人出走的心情
+Dialogue: Marked=0,0:18:51.13,0:18:54.36,Default,NTP,0000,0000,0000,!Effect,和日夜處於打鬥中的御庭派在一起
+Dialogue: Marked=0,0:18:54.40,0:18:56.39,Default,NTP,0000,0000,0000,!Effect,對你是非常危險的
+Dialogue: Marked=0,0:18:56.43,0:19:02.56,Default,NTP,0000,0000,0000,!Effect,蒼紫考慮到這一點\N才把你留在京都的吧
+Dialogue: Marked=0,0:19:07.51,0:19:10.21,Default,NTP,0000,0000,0000,!Effect,斷了找他們的念頭吧
+Dialogue: Marked=0,0:19:13.12,0:19:15.41,Default,NTP,0000,0000,0000,!Effect,那是為了你的幸福著想
+Dialogue: Marked=0,0:19:25.53,0:19:26.62,Default,NTP,0000,0000,0000,!Effect,抱歉
+Dialogue: Marked=0,0:19:34.37,0:19:36.03,Default,NTP,0000,0000,0000,!Effect,你別在那說風涼話
+Dialogue: Marked=0,0:19:36.07,0:19:39.84,Default,NTP,0000,0000,0000,!Effect,你這個呆頭鵝 忘你個頭
+Dialogue: Marked=0,0:19:39.88,0:19:44.40,Default,NTP,0000,0000,0000,!Effect,就因為忘不了 才到處尋找的呀
+Dialogue: Marked=0,0:19:44.45,0:19:45.28,Default,NTP,0000,0000,0000,!Effect,別逞強
+Dialogue: Marked=0,0:19:45.31,0:19:46.30,Default,NTP,0000,0000,0000,!Effect,別這樣
+Dialogue: Marked=0,0:19:46.35,0:19:51.12,Default,NTP,0000,0000,0000,!Effect,忘記心愛的人稱的上什麼幸福
+Dialogue: Marked=0,0:20:19.25,0:20:20.77,Default,NTP,0000,0000,0000,!Effect,果真厲害
+Dialogue: Marked=0,0:20:20.82,0:20:21.98,Default,NTP,0000,0000,0000,!Effect,我知道了
+Dialogue: Marked=0,0:20:22.02,0:20:25.32,Default,NTP,0000,0000,0000,!Effect,他一定和蒼紫對決過
+Dialogue: Marked=0,0:20:25.35,0:20:28.45,Default,NTP,0000,0000,0000,!Effect,蒼紫一定不可能輸他的
+Dialogue: Marked=0,0:20:28.49,0:20:32.59,Default,NTP,0000,0000,0000,!Effect,蒼紫一定在某處好好的生活
+Dialogue: Marked=0,0:20:33.20,0:20:35.86,Default,NTP,0000,0000,0000,!Effect,和御庭派的人們一起
+Dialogue: Marked=0,0:20:45.24,0:20:48.00,Default,NTP,0000,0000,0000,!Effect,啊 奇怪 我昏過去了嗎
+Dialogue: Marked=0,0:20:48.04,0:20:50.81,Default,NTP,0000,0000,0000,!Effect,恩
+Dialogue: Marked=0,0:20:50.85,0:20:56.34,Default,NTP,0000,0000,0000,!Effect,我這趟旅途危機重重\N絕不可有人同行
+Dialogue: Marked=0,0:20:56.39,0:21:00.65,Default,NTP,0000,0000,0000,!Effect,你別再跟來了
+Dialogue: Marked=0,0:21:00.69,0:21:05.96,Default,NTP,0000,0000,0000,!Effect,就此分開吧 當做從來沒認識過一樣
+Dialogue: Marked=0,0:21:05.99,0:21:09.09,Default,NTP,0000,0000,0000,!Effect,你下次再這樣 我可顧不了你了
+Dialogue: Marked=0,0:21:11.60,0:21:13.12,Default,NTP,0000,0000,0000,!Effect,哎 不管我怎麼說
+Dialogue: Marked=0,0:21:13.17,0:21:17.83,Default,NTP,0000,0000,0000,!Effect,依你的脾氣 你還是會跟著來
+Dialogue: Marked=0,0:21:17.87,0:21:23.11,Default,NTP,0000,0000,0000,!Effect,當然嘍 我一定要再見蒼紫一面
+Dialogue: Marked=0,0:21:23.15,0:21:25.91,Default,NTP,0000,0000,0000,!Effect,我絕不服輸 不管你到哪我都要去
+Dialogue: Marked=0,0:21:25.95,0:21:27.81,Default,NTP,0000,0000,0000,!Effect,不管你到哪
+

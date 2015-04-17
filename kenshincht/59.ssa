@@ -1,0 +1,244 @@
+[Script Info]
+;本字幕檔案用 SrtEdit MPC播放版 Version 5.2 編輯製作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁衛國
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 400
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,simhei,22,&HFFFFEF,&H00FFFF,&HA44A40,&HA44A40,-1,0,1,2,1,2,30,30,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:01:50.00,0:01:53.26,Default,NTP,0000,0000,0000,!Effect,那就沒辦法了\N我會讓你痛快死的
+Dialogue: Marked=0,0:02:03.31,0:02:06.84,Default,NTP,0000,0000,0000,!Effect,貳之秘劍 紅蓮腕
+Dialogue: Marked=0,0:02:15.82,0:02:19.26,Default,NTP,0000,0000,0000,!Effect,志志雄真實 你的人頭我要了
+Dialogue: Marked=0,0:02:23.56,0:02:24.76,Default,NTP,0000,0000,0000,!Effect,牙突零式
+Dialogue: Marked=0,0:02:26.03,0:02:30.73,Default,NTP,0000,0000,0000,!Effect,大意？你在說什麼啊\N這叫做從容 知道嗎
+Dialogue: Marked=0,0:02:32.44,0:02:33.70,Default,NTP,0000,0000,0000,!Effect,二重極
+Dialogue: Marked=0,0:02:42.98,0:02:49.22,Default,NTP,0000,0000,0000,!Effect,不 要下殺手或\N品味勝利的餘韻都還太早了
+Dialogue: Marked=0,0:02:51.69,0:02:56.65,Default,NTP,0000,0000,0000,!Effect,第五十九話\N運氣未盡 鬥志復甦
+Dialogue: Marked=0,0:03:17.38,0:03:21.48,Default,NTP,0000,0000,0000,!Effect,你這喪家犬獨自跑來這兒 想做什麼
+Dialogue: Marked=0,0:03:26.56,0:03:29.25,Default,NTP,0000,0000,0000,!Effect,喪家犬\N對 志志雄大人說得對
+Dialogue: Marked=0,0:03:29.29,0:03:33.56,Default,NTP,0000,0000,0000,!Effect,四乃森蒼紫\N你是輸給緋村的喪家犬
+Dialogue: Marked=0,0:03:33.60,0:03:37.50,Default,NTP,0000,0000,0000,!Effect,一決雌雄的戰鬥\N沒你出場的份
+Dialogue: Marked=0,0:03:37.54,0:03:38.83,Default,NTP,0000,0000,0000,!Effect,你還是滾吧
+Dialogue: Marked=0,0:03:42.88,0:03:46.78,Default,NTP,0000,0000,0000,!Effect,你叫做方治是吧\N事實就是事實
+Dialogue: Marked=0,0:03:46.81,0:03:49.54,Default,NTP,0000,0000,0000,!Effect,我不否定你喊我喪家犬
+Dialogue: Marked=0,0:03:49.58,0:03:55.02,Default,NTP,0000,0000,0000,!Effect,但是 由於拔刀齊不避開\N與我這喪家犬的決鬥
+Dialogue: Marked=0,0:03:55.05,0:04:00.82,Default,NTP,0000,0000,0000,!Effect,而受了本來不該受的傷\N還連帶消耗體力
+Dialogue: Marked=0,0:04:01.46,0:04:04.59,Default,NTP,0000,0000,0000,!Effect,這件事 也是無法否定的事實
+Dialogue: Marked=0,0:04:05.73,0:04:07.43,Default,NTP,0000,0000,0000,!Effect,你到底想說什麼
+Dialogue: Marked=0,0:04:07.47,0:04:11.40,Default,NTP,0000,0000,0000,!Effect,意思是你要禰捕那個傷是嗎
+Dialogue: Marked=0,0:04:12.14,0:04:13.13,Default,NTP,0000,0000,0000,!Effect,無聊
+Dialogue: Marked=0,0:04:13.17,0:04:15.73,Default,NTP,0000,0000,0000,!Effect,就算拔刀齊處於最佳狀態
+Dialogue: Marked=0,0:04:15.77,0:04:18.68,Default,NTP,0000,0000,0000,!Effect,他與志志雄大人的力量差距\N也是顯而易見的
+Dialogue: Marked=0,0:04:18.71,0:04:21.14,Default,NTP,0000,0000,0000,!Effect,你的作法\N是無法產生別的結果的
+Dialogue: Marked=0,0:04:21.18,0:04:23.41,Default,NTP,0000,0000,0000,!Effect,沒關係的 方治
+Dialogue: Marked=0,0:04:23.45,0:04:24.78,Default,NTP,0000,0000,0000,!Effect,志志雄大人
+Dialogue: Marked=0,0:04:24.82,0:04:28.12,Default,NTP,0000,0000,0000,!Effect,我很久沒戰鬥了
+Dialogue: Marked=0,0:04:28.15,0:04:32.65,Default,NTP,0000,0000,0000,!Effect,誰是最強的人 這一點…\N我要讓他輸得心服口服
+Dialogue: Marked=0,0:04:34.93,0:04:39.89,Default,NTP,0000,0000,0000,!Effect,總之 我打倒了緋村這幫人\N所以目前最強的人是我
+Dialogue: Marked=0,0:04:44.24,0:04:47.60,Default,NTP,0000,0000,0000,!Effect,你想不想打倒我\N讓御庭番眾的在天之靈們
+Dialogue: Marked=0,0:04:47.64,0:04:49.50,Default,NTP,0000,0000,0000,!Effect,獲得慰藉呢
+Dialogue: Marked=0,0:04:58.08,0:04:59.85,Default,NTP,0000,0000,0000,!Effect,同盟決裂了
+Dialogue: Marked=0,0:05:00.69,0:05:01.58,Default,NTP,0000,0000,0000,!Effect,接招
+Dialogue: Marked=0,0:05:03.62,0:05:06.02,Default,NTP,0000,0000,0000,!Effect,太慢了 你的動作我全看清了
+Dialogue: Marked=0,0:05:11.26,0:05:13.60,Default,NTP,0000,0000,0000,!Effect,好 志志雄大人的猛攻
+Dialogue: Marked=0,0:05:13.63,0:05:16.93,Default,NTP,0000,0000,0000,!Effect,讓蒼紫那傢伙的兩把小太刀\N一點還擊餘地也沒有
+Dialogue: Marked=0,0:05:16.97,0:05:18.49,Default,NTP,0000,0000,0000,!Effect,只能忙著招架
+Dialogue: Marked=0,0:05:21.51,0:05:25.41,Default,NTP,0000,0000,0000,!Effect,不敢相信 竟然招架下來了
+Dialogue: Marked=0,0:05:25.44,0:05:29.35,Default,NTP,0000,0000,0000,!Effect,受了打倒宗次郎的\N拔刀齊的秘技天翔龍閃之後
+Dialogue: Marked=0,0:05:29.38,0:05:33.34,Default,NTP,0000,0000,0000,!Effect,照理來說\N他應該連站著都很勉強了
+Dialogue: Marked=0,0:05:33.39,0:05:36.82,Default,NTP,0000,0000,0000,!Effect,現在居然還能\N與志志雄大人決鬥
+Dialogue: Marked=0,0:05:36.86,0:05:41.42,Default,NTP,0000,0000,0000,!Effect,這男人的力量是從哪來的呢
+Dialogue: Marked=0,0:05:48.67,0:05:52.69,Default,NTP,0000,0000,0000,!Effect,四乃森蒼紫\N為什麼他能這樣打鬥
+Dialogue: Marked=0,0:05:52.74,0:05:55.00,Default,NTP,0000,0000,0000,!Effect,難道是因為他\N身為前御庭番眾的頭目
+Dialogue: Marked=0,0:05:55.04,0:05:58.74,Default,NTP,0000,0000,0000,!Effect,而執著於最強的稱號嗎\N還是說…
+Dialogue: Marked=0,0:06:10.96,0:06:14.89,Default,NTP,0000,0000,0000,!Effect,御庭番式小太刀二刀流\N吳鉤十字
+Dialogue: Marked=0,0:06:16.33,0:06:17.32,Default,NTP,0000,0000,0000,!Effect,蠢蛋
+Dialogue: Marked=0,0:06:30.14,0:06:32.54,Default,NTP,0000,0000,0000,!Effect,打不倒拔刀齊的絕招
+Dialogue: Marked=0,0:06:36.58,0:06:41.08,Default,NTP,0000,0000,0000,!Effect,你以為那種程度的絕招\N對我行得通？
+Dialogue: Marked=0,0:07:07.05,0:07:08.17,Default,NTP,0000,0000,0000,!Effect,跑到背後了
+Dialogue: Marked=0,0:07:11.32,0:07:16.72,Default,NTP,0000,0000,0000,!Effect,怎麼了 你把敵人逼到角落\N還使得敵人背向你了哦
+Dialogue: Marked=0,0:07:16.76,0:07:20.69,Default,NTP,0000,0000,0000,!Effect,站著發什麼呆\N這是最好的獲勝機會呀
+Dialogue: Marked=0,0:07:21.89,0:07:26.52,Default,NTP,0000,0000,0000,!Effect,無法攻擊嗎\N還是說你不想攻擊呀
+Dialogue: Marked=0,0:07:36.14,0:07:37.13,Default,NTP,0000,0000,0000,!Effect,那絕招是……
+Dialogue: Marked=0,0:07:38.78,0:07:43.11,Default,NTP,0000,0000,0000,!Effect,御庭番式小太刀二刀流\N回轉劍舞六連式
+Dialogue: Marked=0,0:07:44.78,0:07:45.61,Default,NTP,0000,0000,0000,!Effect,太慢了
+Dialogue: Marked=0,0:07:47.79,0:07:49.55,Default,NTP,0000,0000,0000,!Effect,回轉劍舞六連式
+Dialogue: Marked=0,0:07:49.59,0:07:53.18,Default,NTP,0000,0000,0000,!Effect,是左右二選一\N瞬間六回轉的絕招
+Dialogue: Marked=0,0:07:55.29,0:07:59.56,Default,NTP,0000,0000,0000,!Effect,如我所所料\N吃過天翔龍閃威力的你
+Dialogue: Marked=0,0:07:59.60,0:08:00.93,Default,NTP,0000,0000,0000,!Effect,攻擊力幾近於零
+Dialogue: Marked=0,0:08:00.97,0:08:04.42,Default,NTP,0000,0000,0000,!Effect,現在你能辦的事\N打一開始就只有一件
+Dialogue: Marked=0,0:08:04.47,0:08:06.13,Default,NTP,0000,0000,0000,!Effect,出來拖延時間
+Dialogue: Marked=0,0:08:14.18,0:08:16.15,Default,NTP,0000,0000,0000,!Effect,多悲慘的人呀
+Dialogue: Marked=0,0:08:16.18,0:08:19.41,Default,NTP,0000,0000,0000,!Effect,不只一次\N接近修羅地獄的男人
+Dialogue: Marked=0,0:08:19.45,0:08:23.35,Default,NTP,0000,0000,0000,!Effect,現在竭盡全力\N只能勉強來拖延時間
+Dialogue: Marked=0,0:08:23.39,0:08:28.26,Default,NTP,0000,0000,0000,!Effect,可是拔刀齊再也站不起來\N這不是一點意義也沒有嗎
+Dialogue: Marked=0,0:08:28.49,0:08:30.15,Default,NTP,0000,0000,0000,!Effect,拖延時間？
+Dialogue: Marked=0,0:08:30.20,0:08:32.60,Default,NTP,0000,0000,0000,!Effect,四乃森蒼紫\N是為了拔刀齊而…？
+Dialogue: Marked=0,0:08:33.93,0:08:36.13,Default,NTP,0000,0000,0000,!Effect,你終於瘋了 四乃森蒼紫
+Dialogue: Marked=0,0:08:36.17,0:08:39.33,Default,NTP,0000,0000,0000,!Effect,你沒看到拔刀齊那模樣嗎
+Dialogue: Marked=0,0:08:39.37,0:08:42.50,Default,NTP,0000,0000,0000,!Effect,志志雄大人說的沒錯\N你再怎樣拖延時間
+Dialogue: Marked=0,0:08:42.54,0:08:45.51,Default,NTP,0000,0000,0000,!Effect,拔刀齊也是不可能復活
+Dialogue: Marked=0,0:08:45.54,0:08:49.54,Default,NTP,0000,0000,0000,!Effect,你在做的事\N只是執迷不悟的掙扎罷了
+Dialogue: Marked=0,0:08:58.49,0:08:59.58,Default,NTP,0000,0000,0000,!Effect,拔刀齊…
+Dialogue: Marked=0,0:09:01.93,0:09:06.13,Default,NTP,0000,0000,0000,!Effect,在生與死的修行中掙扎\N一定要活下去的時候
+Dialogue: Marked=0,0:09:06.16,0:09:10.00,Default,NTP,0000,0000,0000,!Effect,我激發出與「捨身」截然不同的力量
+Dialogue: Marked=0,0:09:10.04,0:09:12.13,Default,NTP,0000,0000,0000,!Effect,學會最後的秘技
+Dialogue: Marked=0,0:09:13.57,0:09:16.10,Default,NTP,0000,0000,0000,!Effect,求生存的意志比什麼都強
+Dialogue: Marked=0,0:09:16.81,0:09:23.15,Default,NTP,0000,0000,0000,!Effect,那是師父犧牲身體\N來讓我領悟到的光明
+Dialogue: Marked=0,0:09:30.99,0:09:33.69,Default,NTP,0000,0000,0000,!Effect,身為斬人拔刀齊
+Dialogue: Marked=0,0:09:33.73,0:09:37.49,Default,NTP,0000,0000,0000,!Effect,我犯下了無法挽回的滔天大罪
+Dialogue: Marked=0,0:09:37.53,0:09:42.23,Default,NTP,0000,0000,0000,!Effect,所以過去我心中決定自己\N是個隨時可以死的人
+Dialogue: Marked=0,0:09:44.00,0:09:51.47,Default,NTP,0000,0000,0000,!Effect,但是現在不論發生什麼事\N我都絕不拋棄求生存的意志
+Dialogue: Marked=0,0:09:55.45,0:09:57.54,Default,NTP,0000,0000,0000,!Effect,他還想打
+Dialogue: Marked=0,0:09:57.58,0:10:02.58,Default,NTP,0000,0000,0000,!Effect,為什麼 為什麼要為\N不可能復活的拔刀齊而斗
+Dialogue: Marked=0,0:10:02.62,0:10:05.89,Default,NTP,0000,0000,0000,!Effect,到底是什麼支撐這男人站起來
+Dialogue: Marked=0,0:10:07.09,0:10:12.46,Default,NTP,0000,0000,0000,!Effect,四乃森蒼紫\N雖然你這個人格局小於緋村
+Dialogue: Marked=0,0:10:12.50,0:10:16.56,Default,NTP,0000,0000,0000,!Effect,但是在為人而動劍這點上面\N跟他屬於同類
+Dialogue: Marked=0,0:10:17.67,0:10:21.66,Default,NTP,0000,0000,0000,!Effect,你跟拔刀齊一樣\N在遇到我的時候
+Dialogue: Marked=0,0:10:21.71,0:10:23.94,Default,NTP,0000,0000,0000,!Effect,命運就走到盡頭了
+Dialogue: Marked=0,0:10:31.85,0:10:35.75,Default,NTP,0000,0000,0000,!Effect,我不知道\N我與拔刀齊是不是同類
+Dialogue: Marked=0,0:10:35.79,0:10:37.85,Default,NTP,0000,0000,0000,!Effect,但是有一點
+Dialogue: Marked=0,0:10:37.89,0:10:41.85,Default,NTP,0000,0000,0000,!Effect,我怎樣都不認為他比你弱
+Dialogue: Marked=0,0:10:48.23,0:10:51.13,Default,NTP,0000,0000,0000,!Effect,這就是喪家犬的遠吠呀…
+Dialogue: Marked=0,0:11:03.35,0:11:04.58,Default,NTP,0000,0000,0000,!Effect,拔刀齊…
+Dialogue: Marked=0,0:11:08.32,0:11:09.95,Default,NTP,0000,0000,0000,!Effect,沒問題的 志志雄大人
+Dialogue: Marked=0,0:11:09.99,0:11:12.68,Default,NTP,0000,0000,0000,!Effect,緋村還沒恢復意識
+Dialogue: Marked=0,0:11:12.72,0:11:18.36,Default,NTP,0000,0000,0000,!Effect,快給他斃命一擊 有那一擊\N國家就在我們手中了
+Dialogue: Marked=0,0:11:25.44,0:11:27.20,Default,NTP,0000,0000,0000,!Effect,現在是起來戰鬥的時刻
+Dialogue: Marked=0,0:11:27.24,0:11:31.87,Default,NTP,0000,0000,0000,!Effect,在場的任何一個人\N命運都並沒有走到盡頭
+Dialogue: Marked=0,0:11:38.15,0:11:40.85,Default,NTP,0000,0000,0000,!Effect,最終戰第二回合開始了嗎
+Dialogue: Marked=0,0:11:48.43,0:11:52.29,Default,NTP,0000,0000,0000,!Effect,樹葉對拔刀齊的劍氣產生反應
+Dialogue: Marked=0,0:11:56.97,0:12:00.43,Default,NTP,0000,0000,0000,!Effect,拔刀齊是不死怪物嗎\N不 我要冷靜
+Dialogue: Marked=0,0:12:00.47,0:12:04.20,Default,NTP,0000,0000,0000,!Effect,他身受焰靈的燒傷\N與紅蓮腕的炸傷
+Dialogue: Marked=0,0:12:04.24,0:12:07.58,Default,NTP,0000,0000,0000,!Effect,就算沒死 也是元氣大傷
+Dialogue: Marked=0,0:12:07.61,0:12:11.24,Default,NTP,0000,0000,0000,!Effect,就算他有秘招天翔龍閃
+Dialogue: Marked=0,0:12:11.28,0:12:14.65,Default,NTP,0000,0000,0000,!Effect,是否能出招都大有疑問
+Dialogue: Marked=0,0:12:16.19,0:12:19.88,Default,NTP,0000,0000,0000,!Effect,但是為何我會不寒而慄\N感到不安、恐懼…
+Dialogue: Marked=0,0:12:46.92,0:12:49.58,Default,NTP,0000,0000,0000,!Effect,不可小看…不可輕忽…
+Dialogue: Marked=0,0:12:49.62,0:12:53.02,Default,NTP,0000,0000,0000,!Effect,緋村拔刀齊的存在\N已超越人智了
+Dialogue: Marked=0,0:12:53.06,0:12:55.55,Default,NTP,0000,0000,0000,!Effect,我不認為志志雄大人會輸
+Dialogue: Marked=0,0:12:55.59,0:12:56.58,Default,NTP,0000,0000,0000,!Effect,但是…
+Dialogue: Marked=0,0:13:02.97,0:13:08.30,Default,NTP,0000,0000,0000,!Effect,還能站起來嘛\N害我為他白擔心一場
+Dialogue: Marked=0,0:13:08.94,0:13:10.87,Default,NTP,0000,0000,0000,!Effect,我反而完蛋了
+Dialogue: Marked=0,0:13:12.68,0:13:16.48,Default,NTP,0000,0000,0000,!Effect,戰鬥之前他說不必插手
+Dialogue: Marked=0,0:13:16.51,0:13:20.21,Default,NTP,0000,0000,0000,!Effect,看來最後還是只能依賴他了
+Dialogue: Marked=0,0:13:26.79,0:13:28.28,Default,NTP,0000,0000,0000,!Effect,很爽快的劍氣
+Dialogue: Marked=0,0:13:28.33,0:13:35.53,Default,NTP,0000,0000,0000,!Effect,對 全力對抗我\N就是得超越一兩次界限才行
+Dialogue: Marked=0,0:13:36.37,0:13:42.83,Default,NTP,0000,0000,0000,!Effect,好了 讓我這灼熱的血肉\N更灼熱、更痛快吧
+Dialogue: Marked=0,0:13:51.95,0:13:53.32,Default,NTP,0000,0000,0000,!Effect,怎麼了
+Dialogue: Marked=0,0:13:56.82,0:13:58.85,Default,NTP,0000,0000,0000,!Effect,不行 阻止這場戰鬥
+Dialogue: Marked=0,0:13:58.89,0:14:02.72,Default,NTP,0000,0000,0000,!Effect,已經超出15分鐘了\N再打下去很危險
+Dialogue: Marked=0,0:14:02.76,0:14:03.59,Default,NTP,0000,0000,0000,!Effect,什麼
+Dialogue: Marked=0,0:14:03.63,0:14:06.72,Default,NTP,0000,0000,0000,!Effect,你忘了嗎？\N志志雄大人全身燒傷
+Dialogue: Marked=0,0:14:06.77,0:14:09.53,Default,NTP,0000,0000,0000,!Effect,流汗會使他無法調節體溫
+Dialogue: Marked=0,0:14:09.57,0:14:13.40,Default,NTP,0000,0000,0000,!Effect,他的身體被致命性的高熱所纏身呀
+Dialogue: Marked=0,0:14:16.37,0:14:19.71,Default,NTP,0000,0000,0000,!Effect,這是人類的體溫嗎
+Dialogue: Marked=0,0:14:20.28,0:14:21.40,Default,NTP,0000,0000,0000,!Effect,到底…
+Dialogue: Marked=0,0:14:22.65,0:14:28.52,Default,NTP,0000,0000,0000,!Effect,十年前全身燒傷後\N我的汗腺組織幾乎全死光
+Dialogue: Marked=0,0:14:28.55,0:14:34.86,Default,NTP,0000,0000,0000,!Effect,我被致命性的高熱所纏身
+Dialogue: Marked=0,0:14:34.89,0:14:38.45,Default,NTP,0000,0000,0000,!Effect,可以說  那是地獄業火的餘燼
+Dialogue: Marked=0,0:14:39.53,0:14:41.86,Default,NTP,0000,0000,0000,!Effect,餘燼…
+Dialogue: Marked=0,0:14:43.37,0:14:44.93,Default,NTP,0000,0000,0000,!Effect,地獄的餘燼
+Dialogue: Marked=0,0:14:46.87,0:14:48.20,Default,NTP,0000,0000,0000,!Effect,志志雄大人
+Dialogue: Marked=0,0:14:50.68,0:14:55.34,Default,NTP,0000,0000,0000,!Effect,醫生估計志志雄大人\N只可以全力行動15分鐘
+Dialogue: Marked=0,0:14:55.38,0:14:59.58,Default,NTP,0000,0000,0000,!Effect,再持續下去  身體會持續高熱\N沒人知道後果會如何呀
+Dialogue: Marked=0,0:15:09.79,0:15:10.99,Default,NTP,0000,0000,0000,!Effect,快阻止他
+Dialogue: Marked=0,0:15:11.46,0:15:15.13,Default,NTP,0000,0000,0000,!Effect,原來…這是他擁有壓倒性的力量
+Dialogue: Marked=0,0:15:15.17,0:15:20.66,Default,NTP,0000,0000,0000,!Effect,卻得吸收十本刀 並成立組織\N來代替自己手足的理由
+Dialogue: Marked=0,0:15:21.47,0:15:22.60,Default,NTP,0000,0000,0000,!Effect,志志雄大人
+Dialogue: Marked=0,0:15:31.72,0:15:33.24,Default,NTP,0000,0000,0000,!Effect,相信他 由美
+Dialogue: Marked=0,0:15:33.28,0:15:35.78,Default,NTP,0000,0000,0000,!Effect,我們是志志雄大人選的臣子
+Dialogue: Marked=0,0:15:35.82,0:15:38.91,Default,NTP,0000,0000,0000,!Effect,相信主人 是臣子應盡的義務
+Dialogue: Marked=0,0:15:42.76,0:15:46.42,Default,NTP,0000,0000,0000,!Effect,如同蒸氣機燃燒煤炭\N利用蒸氣產生動力
+Dialogue: Marked=0,0:15:46.46,0:15:49.80,Default,NTP,0000,0000,0000,!Effect,「熱」是產生力量的重要因素
+Dialogue: Marked=0,0:15:49.83,0:15:54.64,Default,NTP,0000,0000,0000,!Effect,志志雄大人這爆發性的力量\N是因異常體熱而生的話
+Dialogue: Marked=0,0:15:54.67,0:15:58.94,Default,NTP,0000,0000,0000,!Effect,志志雄大人越是發熱\N他的實力就越是強大
+Dialogue: Marked=0,0:15:59.91,0:16:02.57,Default,NTP,0000,0000,0000,!Effect,可是身體是有極限的
+Dialogue: Marked=0,0:16:02.61,0:16:05.52,Default,NTP,0000,0000,0000,!Effect,極限又怎樣？\N緋村那種人能超越極限
+Dialogue: Marked=0,0:16:05.55,0:16:08.14,Default,NTP,0000,0000,0000,!Effect,志志雄大人\N更沒理由超越不了
+Dialogue: Marked=0,0:16:11.09,0:16:11.82,Default,NTP,0000,0000,0000,!Effect,抓住了
+Dialogue: Marked=0,0:16:21.33,0:16:23.96,Default,NTP,0000,0000,0000,!Effect,還早呢 還不夠
+Dialogue: Marked=0,0:16:24.00,0:16:28.00,Default,NTP,0000,0000,0000,!Effect,如果不讓你痛一回\N你就拿不出實力的話
+Dialogue: Marked=0,0:16:28.04,0:16:29.90,Default,NTP,0000,0000,0000,!Effect,我會再幫你一次
+Dialogue: Marked=0,0:16:30.88,0:16:35.24,Default,NTP,0000,0000,0000,!Effect,用我的紅蓮腕\N讓你再瀕死一次
+Dialogue: Marked=0,0:17:40.78,0:17:41.84,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:17:52.92,0:17:53.95,Default,NTP,0000,0000,0000,!Effect,志志雄大人
+Dialogue: Marked=0,0:17:56.09,0:17:57.89,Default,NTP,0000,0000,0000,!Effect,飛天御劍流
+Dialogue: Marked=0,0:17:58.46,0:17:59.56,Default,NTP,0000,0000,0000,!Effect,我要相信！！
+Dialogue: Marked=0,0:17:59.60,0:18:04.33,Default,NTP,0000,0000,0000,!Effect,不管拔刀齊使出什麼絕招\N志志雄大人都不可能被打敗
+Dialogue: Marked=0,0:18:05.07,0:18:06.73,Default,NTP,0000,0000,0000,!Effect,不可能被打敗的
+Dialogue: Marked=0,0:18:07.97,0:18:08.90,Default,NTP,0000,0000,0000,!Effect,志志雄大人
+Dialogue: Marked=0,0:18:08.94,0:18:09.96,Default,NTP,0000,0000,0000,!Effect,龍槌
+Dialogue: Marked=0,0:18:12.11,0:18:13.20,Default,NTP,0000,0000,0000,!Effect,翔閃
+Dialogue: Marked=0,0:18:14.98,0:18:15.84,Default,NTP,0000,0000,0000,!Effect,二連擊
+Dialogue: Marked=0,0:18:15.95,0:18:17.68,Default,NTP,0000,0000,0000,!Effect,笨蛋 別放過機會
+Dialogue: Marked=0,0:18:18.18,0:18:19.17,Default,NTP,0000,0000,0000,!Effect,還有後續的
+Dialogue: Marked=0,0:18:20.65,0:18:22.35,Default,NTP,0000,0000,0000,!Effect,龍卷閃秋風
+Dialogue: Marked=0,0:18:23.49,0:18:24.46,Default,NTP,0000,0000,0000,!Effect,旋風
+Dialogue: Marked=0,0:18:24.99,0:18:25.98,Default,NTP,0000,0000,0000,!Effect,狂風暴雨
+Dialogue: Marked=0,0:18:27.46,0:18:28.32,Default,NTP,0000,0000,0000,!Effect,五連擊
+Dialogue: Marked=0,0:18:28.36,0:18:29.49,Default,NTP,0000,0000,0000,!Effect,志志雄大人
+Dialogue: Marked=0,0:18:34.93,0:18:36.13,Default,NTP,0000,0000,0000,!Effect,怎麼了 沒了嗎
+Dialogue: Marked=0,0:18:37.50,0:18:39.97,Default,NTP,0000,0000,0000,!Effect,可怕的傢伙  受到劍心五連擊
+Dialogue: Marked=0,0:18:40.00,0:18:40.90,Default,NTP,0000,0000,0000,!Effect,居然沒倒下
+Dialogue: Marked=0,0:18:44.38,0:18:45.36,Default,NTP,0000,0000,0000,!Effect,中了 是焰靈
+Dialogue: Marked=0,0:18:50.18,0:18:51.05,Default,NTP,0000,0000,0000,!Effect,沒生效？
+Dialogue: Marked=0,0:18:51.08,0:18:54.42,Default,NTP,0000,0000,0000,!Effect,怎麼可能 應該有擊中\N為什麼會這樣
+Dialogue: Marked=0,0:18:55.09,0:18:59.39,Default,NTP,0000,0000,0000,!Effect,傷口痛楚 只要以超越痛楚\N的氣迫與覺悟忍耐就行
+Dialogue: Marked=0,0:18:59.42,0:19:03.55,Default,NTP,0000,0000,0000,!Effect,對置身戰鬥的人而言\N那是很理所當然的
+Dialogue: Marked=0,0:19:03.59,0:19:07.46,Default,NTP,0000,0000,0000,!Effect,但是 對力量弱小而\N拚命求生存的人們
+Dialogue: Marked=0,0:19:07.50,0:19:10.16,Default,NTP,0000,0000,0000,!Effect,也理所當然強迫他們承受痛楚
+Dialogue: Marked=0,0:19:10.20,0:19:14.19,Default,NTP,0000,0000,0000,!Effect,像你這種人只要我命還在\N就絕不讓你的時代來臨
+Dialogue: Marked=0,0:19:14.74,0:19:18.70,Default,NTP,0000,0000,0000,!Effect,飛天御劍流 九頭龍閃
+Dialogue: Marked=0,0:19:29.79,0:19:32.19,Default,NTP,0000,0000,0000,!Effect,果然 不可能沒有效果
+Dialogue: Marked=0,0:19:32.22,0:19:36.59,Default,NTP,0000,0000,0000,!Effect,志志雄大人的每一擊\N都使他更靠近死亡一步
+Dialogue: Marked=0,0:19:37.13,0:19:39.22,Default,NTP,0000,0000,0000,!Effect,可是這男人\N還是一心一意拼上老命
+Dialogue: Marked=0,0:19:39.26,0:19:44.76,Default,NTP,0000,0000,0000,!Effect,為保護這國家\N柔弱無力的人們
+Dialogue: Marked=0,0:19:44.80,0:19:46.39,Default,NTP,0000,0000,0000,!Effect,而忍耐焰靈、紅蓮腕
+Dialogue: Marked=0,0:19:46.44,0:19:49.00,Default,NTP,0000,0000,0000,!Effect,打倒了不可能被打倒的志志雄大人
+Dialogue: Marked=0,0:19:49.54,0:19:52.57,Default,NTP,0000,0000,0000,!Effect,過去志志雄大人\N把打倒這男人之事
+Dialogue: Marked=0,0:19:52.61,0:19:56.74,Default,NTP,0000,0000,0000,!Effect,看得跟創設國家一樣重\N原來他是對的
+Dialogue: Marked=0,0:19:56.78,0:19:59.68,Default,NTP,0000,0000,0000,!Effect,打倒緋村拔刀齊\N不 打倒緋村劍心的話
+Dialogue: Marked=0,0:19:59.72,0:20:04.95,Default,NTP,0000,0000,0000,!Effect,就可以奪得日本\N打倒他就等於獲得了日本
+Dialogue: Marked=0,0:20:10.26,0:20:11.06,Default,NTP,0000,0000,0000,!Effect,這是什麼
+Dialogue: Marked=0,0:20:12.36,0:20:14.96,Default,NTP,0000,0000,0000,!Effect,火焰更猛烈了
+Dialogue: Marked=0,0:20:15.90,0:20:19.96,Default,NTP,0000,0000,0000,!Effect,與先前的拔刀齊一樣\N對志志雄的劍氣產生反應
+Dialogue: Marked=0,0:20:20.51,0:20:23.70,Default,NTP,0000,0000,0000,!Effect,同樣？樹葉與火焰\N等級差太多了
+Dialogue: Marked=0,0:20:25.81,0:20:27.64,Default,NTP,0000,0000,0000,!Effect,最終局面到了
+Dialogue: Marked=0,0:20:33.92,0:20:35.39,Default,NTP,0000,0000,0000,!Effect,志志雄大人…
+Dialogue: Marked=0,0:20:35.42,0:20:38.65,Default,NTP,0000,0000,0000,!Effect,終極秘劍 火崖靈神
+Dialogue: Marked=0,0:20:43.13,0:20:44.49,Default,NTP,0000,0000,0000,!Effect,終極秘劍？
+Dialogue: Marked=0,0:20:44.53,0:20:46.79,Default,NTP,0000,0000,0000,!Effect,連由美都不知道\N名符其實的秘招
+Dialogue: Marked=0,0:20:46.83,0:20:49.63,Default,NTP,0000,0000,0000,!Effect,恐怕這才是志志雄大人\N最強的絕招
+Dialogue: Marked=0,0:20:50.47,0:20:53.84,Default,NTP,0000,0000,0000,!Effect,最強的絕招…劍心也有
+Dialogue: Marked=0,0:20:53.87,0:20:57.03,Default,NTP,0000,0000,0000,!Effect,飛天御劍流奧義
+Dialogue: Marked=0,0:21:32.91,0:21:35.00,Default,NTP,0000,0000,0000,!Effect,天翔龍閃
+Dialogue: Marked=0,0:21:55.30,0:21:59.20,Default,NTP,0000,0000,0000,!Effect,以他那個狀態\N到底能不能成功出招呢
+Dialogue: Marked=0,0:22:01.34,0:22:04.31,Default,NTP,0000,0000,0000,!Effect,看來 這會是最後一擊了
+Dialogue: Marked=0,0:25:11.40,0:25:12.99,Default,NTP,0000,0000,0000,!Effect,死鬥緊接著死鬥
+Dialogue: Marked=0,0:25:13.03,0:25:15.09,Default,NTP,0000,0000,0000,!Effect,激鬥緊接著激鬥
+Dialogue: Marked=0,0:25:15.13,0:25:18.26,Default,NTP,0000,0000,0000,!Effect,兩人的戰鬥終於快到結尾
+Dialogue: Marked=0,0:25:18.30,0:25:20.13,Default,NTP,0000,0000,0000,!Effect,當兩人都超越極限時
+Dialogue: Marked=0,0:25:20.17,0:25:21.93,Default,NTP,0000,0000,0000,!Effect,最後會留下什麼呢？
+Dialogue: Marked=0,0:25:27.78,0:25:30.21,Default,NTP,0000,0000,0000,!Effect,下集 唯一的勝利者
+Dialogue: Marked=0,0:25:30.25,0:25:32.27,Default,NTP,0000,0000,0000,!Effect,志志雄對抗劍心的最後一幕
+Dialogue: Marked=0,0:25:32.32,0:25:33.48,Default,NTP,0000,0000,0000,!Effect,敬請期待
+

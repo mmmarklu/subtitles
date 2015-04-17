@@ -1,0 +1,232 @@
+[Script Info]
+;本字幕檔案用 SrtEdit MPC播放版 Version 5.2 編輯製作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁衛國
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 400
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,simhei,22,&HFFFFEF,&H00FFFF,&HA44A40,&HA44A40,-1,0,1,2,1,2,30,30,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:01:44.51,0:01:48.71,Default,NTP,0000,0000,0000,!Effect,第六十三話\N許願螢火蟲的傳說\N等待某位劍客的少女
+Dialogue: Marked=0,0:01:58.22,0:02:00.45,Default,NTP,0000,0000,0000,!Effect,終於回到自己家了
+Dialogue: Marked=0,0:02:10.00,0:02:12.77,Default,NTP,0000,0000,0000,!Effect,一點也沒變…   一切都如往昔
+Dialogue: Marked=0,0:02:14.57,0:02:19.41,Default,NTP,0000,0000,0000,!Effect,看不出那就是經歷了\N足以改變日本激烈戰鬥的男人
+Dialogue: Marked=0,0:02:22.81,0:02:24.51,Default,NTP,0000,0000,0000,!Effect,劍心哥哥 好舒服
+Dialogue: Marked=0,0:02:24.55,0:02:25.21,Default,NTP,0000,0000,0000,!Effect,好白耶
+Dialogue: Marked=0,0:02:25.25,0:02:27.08,Default,NTP,0000,0000,0000,!Effect,是呀 洗得很白
+Dialogue: Marked=0,0:02:27.65,0:02:30.38,Default,NTP,0000,0000,0000,!Effect,對了 小姐 今晚的菜是什麼
+Dialogue: Marked=0,0:02:30.42,0:02:33.95,Default,NTP,0000,0000,0000,!Effect,伊勢蝦？還是鯛魚？\N鰻魚的話我勉強忍受啦
+Dialogue: Marked=0,0:02:35.76,0:02:37.89,Default,NTP,0000,0000,0000,!Effect,你不中用得讓人想哭
+Dialogue: Marked=0,0:02:37.93,0:02:42.33,Default,NTP,0000,0000,0000,!Effect,還是那樣愛敲詐\N一點長進也沒有
+Dialogue: Marked=0,0:02:42.37,0:02:45.80,Default,NTP,0000,0000,0000,!Effect,你這樣算是\N學得二重極的男人嗎
+Dialogue: Marked=0,0:02:45.84,0:02:47.86,Default,NTP,0000,0000,0000,!Effect,這與那是兩回事
+Dialogue: Marked=0,0:02:47.91,0:02:51.10,Default,NTP,0000,0000,0000,!Effect,你再回京都去修行吧  佐之助
+Dialogue: Marked=0,0:02:51.14,0:02:54.13,Default,NTP,0000,0000,0000,!Effect,你這臭小鬼\N竟然爬到我頭上來了
+Dialogue: Marked=0,0:02:54.18,0:02:55.58,Default,NTP,0000,0000,0000,!Effect,別吵了
+Dialogue: Marked=0,0:02:55.61,0:02:58.21,Default,NTP,0000,0000,0000,!Effect,總之你們倆先來這裏
+Dialogue: Marked=0,0:03:00.55,0:03:04.18,Default,NTP,0000,0000,0000,!Effect,你聽好了\N佐之助請你先修理這面牆
+Dialogue: Marked=0,0:03:04.22,0:03:07.78,Default,NTP,0000,0000,0000,!Effect,這是去京都之前你破壞的\N一直沒有修補
+Dialogue: Marked=0,0:03:07.83,0:03:11.99,Default,NTP,0000,0000,0000,!Effect,不是我 牆壁是齊藤那傢伙…
+Dialogue: Marked=0,0:03:12.50,0:03:13.69,Default,NTP,0000,0000,0000,!Effect,你別嘍嗦那麼多
+Dialogue: Marked=0,0:03:15.50,0:03:16.30,Default,NTP,0000,0000,0000,!Effect,活該
+Dialogue: Marked=0,0:03:17.30,0:03:20.13,Default,NTP,0000,0000,0000,!Effect,禰彥 你跟我大掃除
+Dialogue: Marked=0,0:03:20.17,0:03:22.87,Default,NTP,0000,0000,0000,!Effect,長久沒人在家 到處都是灰塵
+Dialogue: Marked=0,0:03:22.91,0:03:25.40,Default,NTP,0000,0000,0000,!Effect,你必需在今天\N用抹布擦全屋子一百次
+Dialogue: Marked=0,0:03:25.94,0:03:26.97,Default,NTP,0000,0000,0000,!Effect,一百次？
+Dialogue: Marked=0,0:03:28.21,0:03:31.77,Default,NTP,0000,0000,0000,!Effect,阿薰 衣服洗完了…
+Dialogue: Marked=0,0:03:31.82,0:03:33.01,Default,NTP,0000,0000,0000,!Effect,劍心你來這裏
+Dialogue: Marked=0,0:03:41.46,0:03:42.69,Default,NTP,0000,0000,0000,!Effect,這個
+Dialogue: Marked=0,0:03:42.73,0:03:44.79,Default,NTP,0000,0000,0000,!Effect,好奇特的竹刀呀
+Dialogue: Marked=0,0:03:44.83,0:03:46.35,Default,NTP,0000,0000,0000,!Effect,這是釣竿
+Dialogue: Marked=0,0:03:46.40,0:03:47.26,Default,NTP,0000,0000,0000,!Effect,釣竿？
+Dialogue: Marked=0,0:03:47.97,0:03:49.87,Default,NTP,0000,0000,0000,!Effect,是這樣的 劍心
+Dialogue: Marked=0,0:03:49.90,0:03:52.50,Default,NTP,0000,0000,0000,!Effect,因為長途旅行的關係\N現在手頭很拮据
+Dialogue: Marked=0,0:03:52.54,0:03:55.97,Default,NTP,0000,0000,0000,!Effect,拜託你去釣來今夜的菜吧
+Dialogue: Marked=0,0:04:00.58,0:04:03.38,Default,NTP,0000,0000,0000,!Effect,看你的嘍 劍心 釣大尾的
+Dialogue: Marked=0,0:04:03.88,0:04:07.91,Default,NTP,0000,0000,0000,!Effect,被迫做這麼多工作\N肚子一定餓得慌
+Dialogue: Marked=0,0:04:07.95,0:04:11.35,Default,NTP,0000,0000,0000,!Effect,你不釣來兩三隻鯨魚\N我絕不原諒你
+Dialogue: Marked=0,0:04:12.72,0:04:14.21,Default,NTP,0000,0000,0000,!Effect,我們出門了
+Dialogue: Marked=0,0:04:14.26,0:04:15.56,Default,NTP,0000,0000,0000,!Effect,路上小心
+Dialogue: Marked=0,0:04:19.53,0:04:20.69,Default,NTP,0000,0000,0000,!Effect,那邊拜託你了
+Dialogue: Marked=0,0:04:30.24,0:04:34.91,Default,NTP,0000,0000,0000,!Effect,對 這個家的時間\N還停留在那一天
+Dialogue: Marked=0,0:04:57.57,0:05:01.90,Default,NTP,0000,0000,0000,!Effect,傷腦筋 我沒學過釣魚…
+Dialogue: Marked=0,0:05:16.52,0:05:18.68,Default,NTP,0000,0000,0000,!Effect,劍心哥哥\N什麼時候能釣到鯨魚呢
+Dialogue: Marked=0,0:05:18.72,0:05:19.71,Default,NTP,0000,0000,0000,!Effect,章魚呢？
+Dialogue: Marked=0,0:05:19.76,0:05:21.05,Default,NTP,0000,0000,0000,!Effect,這個嘛…
+Dialogue: Marked=0,0:05:25.53,0:05:29.36,Default,NTP,0000,0000,0000,!Effect,是釣魚的叔叔\N他常常釣到很多魚哦
+Dialogue: Marked=0,0:05:34.51,0:05:36.87,Default,NTP,0000,0000,0000,!Effect,叔叔  叔叔
+Dialogue: Marked=0,0:05:40.51,0:05:43.38,Default,NTP,0000,0000,0000,!Effect,撞上來的人是你
+Dialogue: Marked=0,0:05:43.41,0:05:46.11,Default,NTP,0000,0000,0000,!Effect,我們叫你拿錢道歉
+Dialogue: Marked=0,0:05:46.15,0:05:49.18,Default,NTP,0000,0000,0000,!Effect,你不是非常有錢嗎  小少爺
+Dialogue: Marked=0,0:05:49.22,0:05:52.12,Default,NTP,0000,0000,0000,!Effect,救命呀 誰來救救我
+Dialogue: Marked=0,0:06:07.57,0:06:08.47,Default,NTP,0000,0000,0000,!Effect,你幹什麼
+Dialogue: Marked=0,0:06:08.51,0:06:09.63,Default,NTP,0000,0000,0000,!Effect,不是我啦
+Dialogue: Marked=0,0:06:10.37,0:06:12.24,Default,NTP,0000,0000,0000,!Effect,我的刀子不見了  跑哪去了
+Dialogue: Marked=0,0:06:16.71,0:06:17.61,Default,NTP,0000,0000,0000,!Effect,剛才那是…
+Dialogue: Marked=0,0:06:22.85,0:06:24.79,Default,NTP,0000,0000,0000,!Effect,那麼快速又利落
+Dialogue: Marked=0,0:06:25.42,0:06:29.45,Default,NTP,0000,0000,0000,!Effect,那男人若是拿刀的話\N他…到底是誰？
+Dialogue: Marked=0,0:06:32.96,0:06:35.99,Default,NTP,0000,0000,0000,!Effect,剛才是怎麼回事 遇到妖怪了
+Dialogue: Marked=0,0:06:36.67,0:06:37.63,Default,NTP,0000,0000,0000,!Effect,你們這些人
+Dialogue: Marked=0,0:06:39.50,0:06:44.41,Default,NTP,0000,0000,0000,!Effect,你是他們同伴嗎\N這隻老山羊 可惡
+Dialogue: Marked=0,0:06:48.15,0:06:49.54,Default,NTP,0000,0000,0000,!Effect,第二次再這樣我可不放過你
+Dialogue: Marked=0,0:06:49.58,0:06:51.01,Default,NTP,0000,0000,0000,!Effect,太弱了吧
+Dialogue: Marked=0,0:06:56.62,0:06:58.14,Default,NTP,0000,0000,0000,!Effect,叔叔  叔叔
+Dialogue: Marked=0,0:06:59.69,0:07:01.16,Default,NTP,0000,0000,0000,!Effect,死掉了
+Dialogue: Marked=0,0:07:01.19,0:07:03.02,Default,NTP,0000,0000,0000,!Effect,是誰在哭呀
+Dialogue: Marked=0,0:07:05.26,0:07:07.20,Default,NTP,0000,0000,0000,!Effect,上次不是約定好的嗎
+Dialogue: Marked=0,0:07:08.37,0:07:09.30,Default,NTP,0000,0000,0000,!Effect,謝謝你
+Dialogue: Marked=0,0:07:11.77,0:07:14.40,Default,NTP,0000,0000,0000,!Effect,看你那樣子似乎挺辛苦的
+Dialogue: Marked=0,0:07:17.48,0:07:19.84,Default,NTP,0000,0000,0000,!Effect,要來嗎  我知道一個絕佳場所
+Dialogue: Marked=0,0:07:26.08,0:07:26.71,Default,NTP,0000,0000,0000,!Effect,好了
+Dialogue: Marked=0,0:07:39.03,0:07:41.12,Default,NTP,0000,0000,0000,!Effect,這是最好的釣魚日子
+Dialogue: Marked=0,0:07:44.27,0:07:47.07,Default,NTP,0000,0000,0000,!Effect,老先生你很厲害
+Dialogue: Marked=0,0:07:47.91,0:07:50.10,Default,NTP,0000,0000,0000,!Effect,你是何時放棄殺人的
+Dialogue: Marked=0,0:07:51.81,0:07:54.71,Default,NTP,0000,0000,0000,!Effect,我還是頭次遇見像你這樣
+Dialogue: Marked=0,0:07:54.75,0:07:59.15,Default,NTP,0000,0000,0000,!Effect,同時具備溫和與強烈\N 兩種極端劍氣的男人
+Dialogue: Marked=0,0:07:59.75,0:08:03.65,Default,NTP,0000,0000,0000,!Effect,老先生您什麼都看出來了
+Dialogue: Marked=0,0:08:03.69,0:08:07.45,Default,NTP,0000,0000,0000,!Effect,兩個拋棄獠牙的劍客呀…
+Dialogue: Marked=0,0:08:07.49,0:08:08.82,Default,NTP,0000,0000,0000,!Effect,會在這裏碰面
+Dialogue: Marked=0,0:08:08.86,0:08:12.56,Default,NTP,0000,0000,0000,!Effect,算是過於漫長的人生中\N有某種緣份吧
+Dialogue: Marked=0,0:08:13.30,0:08:14.99,Default,NTP,0000,0000,0000,!Effect,過於漫長？
+Dialogue: Marked=0,0:08:18.00,0:08:21.03,Default,NTP,0000,0000,0000,!Effect,你曾在初夏夜晚來這裏嗎
+Dialogue: Marked=0,0:08:21.54,0:08:23.60,Default,NTP,0000,0000,0000,!Effect,一片望去都是螢火蟲呀
+Dialogue: Marked=0,0:08:24.54,0:08:26.31,Default,NTP,0000,0000,0000,!Effect,那個叫做許願螢火蟲
+Dialogue: Marked=0,0:08:27.21,0:08:28.34,Default,NTP,0000,0000,0000,!Effect,許願螢火蟲？
+Dialogue: Marked=0,0:08:29.28,0:08:31.21,Default,NTP,0000,0000,0000,!Effect,恩 人們是這麼稱呼
+Dialogue: Marked=0,0:08:31.25,0:08:33.65,Default,NTP,0000,0000,0000,!Effect,那是在江戶時代\N還沒結束的很久以前
+Dialogue: Marked=0,0:08:33.68,0:08:39.62,Default,NTP,0000,0000,0000,!Effect,一位現在已經年老的男人\N還充滿希望的年代的故事了
+Dialogue: Marked=0,0:08:43.73,0:08:44.75,Default,NTP,0000,0000,0000,!Effect,面！
+Dialogue: Marked=0,0:08:46.03,0:08:47.50,Default,NTP,0000,0000,0000,!Effect,好厲害的刀法
+Dialogue: Marked=0,0:08:48.37,0:08:50.23,Default,NTP,0000,0000,0000,!Effect,看不出來才17歲
+Dialogue: Marked=0,0:08:55.74,0:08:57.33,Default,NTP,0000,0000,0000,!Effect,恭喜
+Dialogue: Marked=0,0:08:57.37,0:08:59.97,Default,NTP,0000,0000,0000,!Effect,好厲害 您又得冠軍了
+Dialogue: Marked=0,0:09:00.85,0:09:05.61,Default,NTP,0000,0000,0000,!Effect,江戶雖大 可是我覺得龍之助\N你已經天下無敵了
+Dialogue: Marked=0,0:09:05.65,0:09:10.02,Default,NTP,0000,0000,0000,!Effect,聽說下次您要在將軍面前\N做示範賽 是真的嗎
+Dialogue: Marked=0,0:09:10.82,0:09:13.69,Default,NTP,0000,0000,0000,!Effect,那個我拒絕了 無聊
+Dialogue: Marked=0,0:09:13.72,0:09:16.12,Default,NTP,0000,0000,0000,!Effect,為什麼？
+Dialogue: Marked=0,0:09:17.19,0:09:20.53,Default,NTP,0000,0000,0000,!Effect,我厭倦現在的我了
+Dialogue: Marked=0,0:09:20.56,0:09:23.62,Default,NTP,0000,0000,0000,!Effect,那股厭倦感一日比一日強烈
+Dialogue: Marked=0,0:09:23.67,0:09:25.13,Default,NTP,0000,0000,0000,!Effect,我想變得更強
+Dialogue: Marked=0,0:09:25.57,0:09:27.13,Default,NTP,0000,0000,0000,!Effect,光是竹刀無法滿足我
+Dialogue: Marked=0,0:09:28.21,0:09:36.27,Default,NTP,0000,0000,0000,!Effect,武士必需拿真刀搏命\N才可能達到真正厲害的境界
+Dialogue: Marked=0,0:09:36.88,0:09:39.11,Default,NTP,0000,0000,0000,!Effect,你已經很強了呀…
+Dialogue: Marked=0,0:09:39.15,0:09:43.28,Default,NTP,0000,0000,0000,!Effect,我想追求最強的終極境界
+Dialogue: Marked=0,0:09:52.26,0:09:53.20,Default,NTP,0000,0000,0000,!Effect,是你朋友？
+Dialogue: Marked=0,0:09:53.23,0:09:56.53,Default,NTP,0000,0000,0000,!Effect,我姐啦 都跟你介紹過好幾次了
+Dialogue: Marked=0,0:09:56.57,0:09:57.36,Default,NTP,0000,0000,0000,!Effect,姐姐
+Dialogue: Marked=0,0:09:58.10,0:09:59.50,Default,NTP,0000,0000,0000,!Effect,走吧 快過來
+Dialogue: Marked=0,0:10:00.80,0:10:02.74,Default,NTP,0000,0000,0000,!Effect,等一下啦
+Dialogue: Marked=0,0:10:04.48,0:10:06.91,Default,NTP,0000,0000,0000,!Effect,真是 你什麼也沒注意到
+Dialogue: Marked=0,0:10:10.01,0:10:11.95,Default,NTP,0000,0000,0000,!Effect,你知道許願螢火蟲嗎
+Dialogue: Marked=0,0:10:13.62,0:10:17.71,Default,NTP,0000,0000,0000,!Effect,傳說只要全年不休\N每天都到那裏祈禱
+Dialogue: Marked=0,0:10:17.76,0:10:21.02,Default,NTP,0000,0000,0000,!Effect,初夏時候\N螢火蟲就會達成那個人的願望
+Dialogue: Marked=0,0:10:22.16,0:10:23.02,Default,NTP,0000,0000,0000,!Effect,螢火蟲嗎
+Dialogue: Marked=0,0:10:26.53,0:10:33.20,Default,NTP,0000,0000,0000,!Effect,姐姐連續來兩個月了\N想要龍之助瞭解她的心意呢
+Dialogue: Marked=0,0:10:34.04,0:10:36.44,Default,NTP,0000,0000,0000,!Effect,那女人叫做阿娟
+Dialogue: Marked=0,0:10:37.34,0:10:39.14,Default,NTP,0000,0000,0000,!Effect,男人猶豫了
+Dialogue: Marked=0,0:10:39.18,0:10:43.61,Default,NTP,0000,0000,0000,!Effect,雖然猶豫 但還是漸漸接受了阿絹的感情
+Dialogue: Marked=0,0:10:44.18,0:10:49.02,Default,NTP,0000,0000,0000,!Effect,這位專注劍道的男人身上\N點起了微微的光亮
+Dialogue: Marked=0,0:10:49.05,0:10:50.11,Default,NTP,0000,0000,0000,!Effect,象螢火蟲一樣
+Dialogue: Marked=0,0:10:50.85,0:10:53.29,Default,NTP,0000,0000,0000,!Effect,就在後來不久
+Dialogue: Marked=0,0:10:53.32,0:10:57.32,Default,NTP,0000,0000,0000,!Effect,光明轉為黑暗的命運日子到了
+Dialogue: Marked=0,0:11:02.97,0:11:05.90,Default,NTP,0000,0000,0000,!Effect,強盜呀 大家快來
+Dialogue: Marked=0,0:11:20.99,0:11:21.88,Default,NTP,0000,0000,0000,!Effect,可惡
+Dialogue: Marked=0,0:11:46.51,0:11:49.31,Default,NTP,0000,0000,0000,!Effect,那簡直是雷神之劍
+Dialogue: Marked=0,0:11:50.18,0:11:54.01,Default,NTP,0000,0000,0000,!Effect,由被殺的三人神情可看出
+Dialogue: Marked=0,0:11:54.05,0:11:56.78,Default,NTP,0000,0000,0000,!Effect,他們是瞬間斃命\N沒察覺自己已被殺死
+Dialogue: Marked=0,0:11:57.45,0:12:01.02,Default,NTP,0000,0000,0000,!Effect,男人興奮得戰慄了\N這才是劍的極致
+Dialogue: Marked=0,0:12:01.06,0:12:04.86,Default,NTP,0000,0000,0000,!Effect,只在真正過招\N決生死的一剎那
+Dialogue: Marked=0,0:12:04.90,0:12:07.19,Default,NTP,0000,0000,0000,!Effect,才能找到真正的究極
+Dialogue: Marked=0,0:12:28.55,0:12:33.18,Default,NTP,0000,0000,0000,!Effect,那一夜 男人首次殺人
+Dialogue: Marked=0,0:12:45.24,0:12:47.47,Default,NTP,0000,0000,0000,!Effect,然後在隔天…
+Dialogue: Marked=0,0:12:50.47,0:12:52.20,Default,NTP,0000,0000,0000,!Effect,騙人 不是真的吧
+Dialogue: Marked=0,0:12:54.18,0:12:56.67,Default,NTP,0000,0000,0000,!Effect,龍之助你殺了人了？
+Dialogue: Marked=0,0:12:56.71,0:12:58.71,Default,NTP,0000,0000,0000,!Effect,我要拋棄這個地方
+Dialogue: Marked=0,0:12:58.75,0:13:02.74,Default,NTP,0000,0000,0000,!Effect,就算讓我的劍染滿鮮血\N我也要鑽研出究極的劍道
+Dialogue: Marked=0,0:13:03.55,0:13:07.62,Default,NTP,0000,0000,0000,!Effect,龍之助 不行 不可以 殺人是不對的
+Dialogue: Marked=0,0:13:07.66,0:13:08.35,Default,NTP,0000,0000,0000,!Effect,讓開
+Dialogue: Marked=0,0:13:09.26,0:13:10.39,Default,NTP,0000,0000,0000,!Effect,求求你
+Dialogue: Marked=0,0:13:10.43,0:13:13.62,Default,NTP,0000,0000,0000,!Effect,如果你堅持要再殺人\N就請先殺我吧
+Dialogue: Marked=0,0:13:25.94,0:13:27.38,Default,NTP,0000,0000,0000,!Effect,你什麼都不懂
+Dialogue: Marked=0,0:13:28.78,0:13:31.04,Default,NTP,0000,0000,0000,!Effect,龍之助
+Dialogue: Marked=0,0:13:37.02,0:13:41.62,Default,NTP,0000,0000,0000,!Effect,從那天開始 男人一再殺人
+Dialogue: Marked=0,0:13:41.66,0:13:44.53,Default,NTP,0000,0000,0000,!Effect,他眼中沒看到被他殺死的人
+Dialogue: Marked=0,0:13:44.56,0:13:48.09,Default,NTP,0000,0000,0000,!Effect,他一味追逐那天晚上\N他看到的究極之劍
+Dialogue: Marked=0,0:13:49.60,0:13:53.83,Default,NTP,0000,0000,0000,!Effect,不對 那天晚上我看到的劍法\N不是這樣子
+Dialogue: Marked=0,0:14:43.89,0:14:45.95,Default,NTP,0000,0000,0000,!Effect,不對 還是不對
+Dialogue: Marked=0,0:14:47.06,0:14:50.32,Default,NTP,0000,0000,0000,!Effect,十年 十五年了\N他一直在迷惘
+Dialogue: Marked=0,0:14:50.36,0:14:55.42,Default,NTP,0000,0000,0000,!Effect,不對 離究極還很遠\N我到底是缺少什麼呢
+Dialogue: Marked=0,0:14:55.93,0:14:58.87,Default,NTP,0000,0000,0000,!Effect,第21年的某個傍晚
+Dialogue: Marked=0,0:14:58.90,0:15:01.89,Default,NTP,0000,0000,0000,!Effect,感到絕望的男人\N甚至起了自殺念頭
+Dialogue: Marked=0,0:15:04.07,0:15:06.51,Default,NTP,0000,0000,0000,!Effect,強盜 誰來救救我
+Dialogue: Marked=0,0:15:12.28,0:15:13.44,Default,NTP,0000,0000,0000,!Effect,那是
+Dialogue: Marked=0,0:15:13.48,0:15:16.78,Default,NTP,0000,0000,0000,!Effect,讓他忘不了的\N暴風雨夜的那個男人
+Dialogue: Marked=0,0:15:22.16,0:15:25.53,Default,NTP,0000,0000,0000,!Effect,等他發覺時 他已經拔劍了
+Dialogue: Marked=0,0:16:12.41,0:16:15.85,Default,NTP,0000,0000,0000,!Effect,那神情…一點痛楚也沒有
+Dialogue: Marked=0,0:16:15.88,0:16:18.75,Default,NTP,0000,0000,0000,!Effect,表示他是瞬間斃命的
+Dialogue: Marked=0,0:16:19.28,0:16:24.05,Default,NTP,0000,0000,0000,!Effect,男人知道了\N他早已超越了究極的劍法
+Dialogue: Marked=0,0:16:24.09,0:16:27.78,Default,NTP,0000,0000,0000,!Effect,不 不對 究極這東西\N打一開始就不存在了
+Dialogue: Marked=0,0:16:28.33,0:16:30.38,Default,NTP,0000,0000,0000,!Effect,在暴風雨中他看到的
+Dialogue: Marked=0,0:16:30.43,0:16:35.36,Default,NTP,0000,0000,0000,!Effect,只是潛伏心中\N黑暗處的幻影罷了
+Dialogue: Marked=0,0:16:54.75,0:16:58.02,Default,NTP,0000,0000,0000,!Effect,男人從漫長的夢中清醒了
+Dialogue: Marked=0,0:16:58.06,0:17:02.58,Default,NTP,0000,0000,0000,!Effect,殺人的沉重罪惡感\N把男人壓得幾乎崩潰
+Dialogue: Marked=0,0:17:19.88,0:17:22.90,Default,NTP,0000,0000,0000,!Effect,怎樣做…怎樣做才能贖罪呢
+Dialogue: Marked=0,0:17:22.95,0:17:27.25,Default,NTP,0000,0000,0000,!Effect,誰來教教我 誰來教教我
+Dialogue: Marked=0,0:17:27.28,0:17:35.56,Default,NTP,0000,0000,0000,!Effect,教教我…教教我…
+Dialogue: Marked=0,0:17:52.38,0:17:55.40,Default,NTP,0000,0000,0000,!Effect,龍之助 龍之助
+Dialogue: Marked=0,0:18:12.80,0:18:13.79,Default,NTP,0000,0000,0000,!Effect,龍之助
+Dialogue: Marked=0,0:18:14.83,0:18:19.60,Default,NTP,0000,0000,0000,!Effect,終於結束了\N漫長的靈魂之旅…
+Dialogue: Marked=0,0:18:30.85,0:18:33.94,Default,NTP,0000,0000,0000,!Effect,我一直在等你 等了好久
+Dialogue: Marked=0,0:19:06.28,0:19:07.77,Default,NTP,0000,0000,0000,!Effect,男人回來了
+Dialogue: Marked=0,0:19:08.52,0:19:11.15,Default,NTP,0000,0000,0000,!Effect,回到21年前那地方
+Dialogue: Marked=0,0:19:13.76,0:19:15.88,Default,NTP,0000,0000,0000,!Effect,你是旅行者嗎
+Dialogue: Marked=0,0:19:15.93,0:19:18.42,Default,NTP,0000,0000,0000,!Effect,你也是聽到\N許願螢火蟲的傳說的嗎
+Dialogue: Marked=0,0:19:19.40,0:19:20.80,Default,NTP,0000,0000,0000,!Effect,新啊
+Dialogue: Marked=0,0:19:21.97,0:19:25.83,Default,NTP,0000,0000,0000,!Effect,我的姐姐一直在等待某個人
+Dialogue: Marked=0,0:19:25.87,0:19:28.06,Default,NTP,0000,0000,0000,!Effect,相信那個人\N一定會回來在這裏許願
+Dialogue: Marked=0,0:19:29.57,0:19:32.94,Default,NTP,0000,0000,0000,!Effect,20年來 她每天在這裏等待
+Dialogue: Marked=0,0:19:35.91,0:19:37.54,Default,NTP,0000,0000,0000,!Effect,今天是姐姐的忌日
+Dialogue: Marked=0,0:19:53.60,0:19:56.09,Default,NTP,0000,0000,0000,!Effect,歡迎回來 龍之助
+Dialogue: Marked=0,0:19:57.90,0:20:01.20,Default,NTP,0000,0000,0000,!Effect,我再也不離開你 永遠地…
+Dialogue: Marked=0,0:20:14.08,0:20:19.42,Default,NTP,0000,0000,0000,!Effect,那是許願螢火蟲的故事\N好幾十年前的事了
+Dialogue: Marked=0,0:20:20.06,0:20:21.35,Default,NTP,0000,0000,0000,!Effect,許願螢火蟲…
+Dialogue: Marked=0,0:20:34.24,0:20:35.36,Default,NTP,0000,0000,0000,!Effect,接著嘛…
+Dialogue: Marked=0,0:20:36.41,0:20:38.40,Default,NTP,0000,0000,0000,!Effect,已經這麼晚了
+Dialogue: Marked=0,0:20:39.51,0:20:41.20,Default,NTP,0000,0000,0000,!Effect,你要回去啦？
+Dialogue: Marked=0,0:20:41.24,0:20:42.51,Default,NTP,0000,0000,0000,!Effect,要當乖小孩哦
+Dialogue: Marked=0,0:20:43.08,0:20:45.27,Default,NTP,0000,0000,0000,!Effect,明天要再來哦 就這麼約定
+Dialogue: Marked=0,0:20:47.35,0:20:50.84,Default,NTP,0000,0000,0000,!Effect,我可以問一個問題嗎
+Dialogue: Marked=0,0:20:51.76,0:20:55.89,Default,NTP,0000,0000,0000,!Effect,男人的人生有悔嗎
+Dialogue: Marked=0,0:21:01.57,0:21:06.30,Default,NTP,0000,0000,0000,!Effect,就算後悔 也無法從頭再來
+Dialogue: Marked=0,0:21:06.34,0:21:09.20,Default,NTP,0000,0000,0000,!Effect,但是我想…
+Dialogue: Marked=0,0:21:09.24,0:21:14.97,Default,NTP,0000,0000,0000,!Effect,那男人遇見生涯之中\N唯一一個無法忘懷的女人
+Dialogue: Marked=0,0:21:15.01,0:21:19.88,Default,NTP,0000,0000,0000,!Effect,很想讓那女人像螢火蟲一樣\N短暫的生命光輝
+Dialogue: Marked=0,0:21:19.92,0:21:25.35,Default,NTP,0000,0000,0000,!Effect,停留在別人心中片刻\N而不只是停留在自己心中
+Dialogue: Marked=0,0:21:28.23,0:21:31.35,Default,NTP,0000,0000,0000,!Effect,謝謝你聽我講這麼長的故事
+Dialogue: Marked=0,0:21:31.39,0:21:34.76,Default,NTP,0000,0000,0000,!Effect,我想以後是不會再見到你了
+Dialogue: Marked=0,0:21:51.78,0:21:53.34,Default,NTP,0000,0000,0000,!Effect,歡迎回家 劍心
+Dialogue: Marked=0,0:21:57.89,0:21:59.41,Default,NTP,0000,0000,0000,!Effect,你怎麼了啦 劍心
+Dialogue: Marked=0,0:22:00.52,0:22:02.12,Default,NTP,0000,0000,0000,!Effect,不…
+Dialogue: Marked=0,0:22:02.16,0:22:04.09,Default,NTP,0000,0000,0000,!Effect,有釣到魚嗎
+Dialogue: Marked=0,0:22:04.13,0:22:07.59,Default,NTP,0000,0000,0000,!Effect,對不起 一條魚也沒釣到
+Dialogue: Marked=0,0:22:07.63,0:22:12.00,Default,NTP,0000,0000,0000,!Effect,沒問題的\N玄齊先生把菜拿來了
+Dialogue: Marked=0,0:22:12.04,0:22:15.97,Default,NTP,0000,0000,0000,!Effect,好了 小綾跟小雀都餓了吧\N我們來吃飯了
+Dialogue: Marked=0,0:22:16.01,0:22:18.10,Default,NTP,0000,0000,0000,!Effect,吃飯了
+

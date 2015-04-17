@@ -1,0 +1,228 @@
+[Script Info]
+;本字幕檔案用 SrtEdit MPC播放版 Version 5.2 編輯製作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁衛國
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 400
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,simhei,22,&HFFFFEF,&H00FFFF,&HA44A40,&HA44A40,-1,0,1,2,1,2,30,30,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:02:35.20,0:02:38.29,Default,NTP,0000,0000,0000,!Effect,聖母小姐\N下次在天國見面吧
+Dialogue: Marked=0,0:02:46.44,0:02:51.43,Default,NTP,0000,0000,0000,!Effect,第七十三話\N惡鬼的嘲笑\N莊三 死於爆炎中的火龍
+Dialogue: Marked=0,0:02:57.75,0:03:00.55,Default,NTP,0000,0000,0000,!Effect,傀王大人
+Dialogue: Marked=0,0:03:02.52,0:03:06.39,Default,NTP,0000,0000,0000,!Effect,去吧 殺死聖母小姐他們
+Dialogue: Marked=0,0:03:06.43,0:03:07.05,Default,NTP,0000,0000,0000,!Effect,是
+Dialogue: Marked=0,0:03:26.08,0:03:26.88,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:03:35.69,0:03:38.89,Default,NTP,0000,0000,0000,!Effect,你為何對我下手
+Dialogue: Marked=0,0:03:39.49,0:03:41.48,Default,NTP,0000,0000,0000,!Effect,這是傀王大人命令
+Dialogue: Marked=0,0:03:42.20,0:03:46.26,Default,NTP,0000,0000,0000,!Effect,妨礙我們計劃的人就該死
+Dialogue: Marked=0,0:03:46.93,0:03:50.17,Default,NTP,0000,0000,0000,!Effect,果然傀王是背後幕後主使者
+Dialogue: Marked=0,0:03:50.94,0:03:53.93,Default,NTP,0000,0000,0000,!Effect,你說的計劃\N是連軍隊也捲入的陰謀？
+Dialogue: Marked=0,0:03:54.78,0:03:57.68,Default,NTP,0000,0000,0000,!Effect,你不必知道這麼多
+Dialogue: Marked=0,0:04:00.41,0:04:02.01,Default,NTP,0000,0000,0000,!Effect,貫殺飛飛鏢
+Dialogue: Marked=0,0:04:34.65,0:04:35.38,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:04:42.82,0:04:44.69,Default,NTP,0000,0000,0000,!Effect,可惡…
+Dialogue: Marked=0,0:04:46.09,0:04:46.92,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:04:56.34,0:04:57.63,Default,NTP,0000,0000,0000,!Effect,地震？
+Dialogue: Marked=0,0:04:57.67,0:04:58.47,Default,NTP,0000,0000,0000,!Effect,不是…
+Dialogue: Marked=0,0:04:59.14,0:05:00.37,Default,NTP,0000,0000,0000,!Effect,那你說是什麼
+Dialogue: Marked=0,0:05:00.91,0:05:02.74,Default,NTP,0000,0000,0000,!Effect,傳自地底正下方
+Dialogue: Marked=0,0:05:03.28,0:05:06.71,Default,NTP,0000,0000,0000,!Effect,很靠近與左之助\N最後分手的場所  快走
+Dialogue: Marked=0,0:05:20.79,0:05:21.59,Default,NTP,0000,0000,0000,!Effect,你還好吧
+Dialogue: Marked=0,0:05:24.97,0:05:25.90,Default,NTP,0000,0000,0000,!Effect,莊三
+Dialogue: Marked=0,0:05:26.50,0:05:27.26,Default,NTP,0000,0000,0000,!Effect,莊三
+Dialogue: Marked=0,0:05:29.37,0:05:30.60,Default,NTP,0000,0000,0000,!Effect,莊三 莊三
+Dialogue: Marked=0,0:05:31.27,0:05:33.97,Default,NTP,0000,0000,0000,!Effect,這小子為了保護我們…
+Dialogue: Marked=0,0:05:40.48,0:05:43.18,Default,NTP,0000,0000,0000,!Effect,莊三 振作起來呀
+Dialogue: Marked=0,0:05:44.25,0:05:46.55,Default,NTP,0000,0000,0000,!Effect,聖母小姐
+Dialogue: Marked=0,0:05:49.52,0:05:50.55,Default,NTP,0000,0000,0000,!Effect,你沒事
+Dialogue: Marked=0,0:05:52.03,0:05:53.12,Default,NTP,0000,0000,0000,!Effect,多虧你了
+Dialogue: Marked=0,0:05:55.96,0:06:01.92,Default,NTP,0000,0000,0000,!Effect,莊三\N你從小就捨身保護大家…
+Dialogue: Marked=0,0:06:02.50,0:06:08.37,Default,NTP,0000,0000,0000,!Effect,我只是遵循聖母小姐的教導
+Dialogue: Marked=0,0:06:09.01,0:06:10.37,Default,NTP,0000,0000,0000,!Effect,直到現在…
+Dialogue: Marked=0,0:06:14.25,0:06:17.27,Default,NTP,0000,0000,0000,!Effect,你是我的寶物
+Dialogue: Marked=0,0:06:24.79,0:06:28.75,Default,NTP,0000,0000,0000,!Effect,太可惜了 別流淚
+Dialogue: Marked=0,0:06:28.80,0:06:34.32,Default,NTP,0000,0000,0000,!Effect,而且我還沒有死\N不  我不能死
+Dialogue: Marked=0,0:06:35.94,0:06:39.46,Default,NTP,0000,0000,0000,!Effect,我現在就救你出來\N再忍耐一下
+Dialogue: Marked=0,0:06:49.25,0:06:54.65,Default,NTP,0000,0000,0000,!Effect,他救的人不光是你\N我也幫忙
+Dialogue: Marked=0,0:07:04.00,0:07:08.09,Default,NTP,0000,0000,0000,!Effect,聖母小姐…\N為了我這麼微小的人…
+Dialogue: Marked=0,0:07:24.82,0:07:26.95,Default,NTP,0000,0000,0000,!Effect,好就是這樣 加油
+Dialogue: Marked=0,0:07:31.69,0:07:32.82,Default,NTP,0000,0000,0000,!Effect,還差一口氣
+Dialogue: Marked=0,0:07:49.24,0:07:50.00,Default,NTP,0000,0000,0000,!Effect,聖母小姐
+Dialogue: Marked=0,0:07:53.38,0:07:54.40,Default,NTP,0000,0000,0000,!Effect,振作起來
+Dialogue: Marked=0,0:07:56.72,0:07:58.01,Default,NTP,0000,0000,0000,!Effect,莊三 這是…
+Dialogue: Marked=0,0:07:59.22,0:08:01.62,Default,NTP,0000,0000,0000,!Effect,聖母小姐帶病在身
+Dialogue: Marked=0,0:08:03.19,0:08:07.52,Default,NTP,0000,0000,0000,!Effect,她那麼虛弱還為了我…
+Dialogue: Marked=0,0:08:10.96,0:08:12.09,Default,NTP,0000,0000,0000,!Effect,你別擔心
+Dialogue: Marked=0,0:08:13.17,0:08:16.03,Default,NTP,0000,0000,0000,!Effect,倒是…拜託你 莊三
+Dialogue: Marked=0,0:08:16.07,0:08:20.30,Default,NTP,0000,0000,0000,!Effect,去通知哥哥  傀王背叛了
+Dialogue: Marked=0,0:08:20.84,0:08:24.37,Default,NTP,0000,0000,0000,!Effect,可是聖母小姐我不能留下你
+Dialogue: Marked=0,0:08:24.41,0:08:26.04,Default,NTP,0000,0000,0000,!Effect,別管我 快去
+Dialogue: Marked=0,0:08:34.32,0:08:35.05,Default,NTP,0000,0000,0000,!Effect,那是！
+Dialogue: Marked=0,0:08:47.00,0:08:48.02,Default,NTP,0000,0000,0000,!Effect,你這傢伙
+Dialogue: Marked=0,0:08:49.04,0:08:52.37,Default,NTP,0000,0000,0000,!Effect,聖母小姐 原來你還活著
+Dialogue: Marked=0,0:08:52.91,0:08:55.47,Default,NTP,0000,0000,0000,!Effect,你對世上還有眷念呀
+Dialogue: Marked=0,0:08:55.81,0:08:57.30,Default,NTP,0000,0000,0000,!Effect,可惡
+Dialogue: Marked=0,0:08:57.34,0:09:00.18,Default,NTP,0000,0000,0000,!Effect,慢著 現在的你是打不倒他的
+Dialogue: Marked=0,0:09:00.21,0:09:04.08,Default,NTP,0000,0000,0000,!Effect,你去找翔伍\N阻止傀王的陰謀
+Dialogue: Marked=0,0:09:05.39,0:09:08.62,Default,NTP,0000,0000,0000,!Effect,我跟你保證\N我會守護好你的小姐的
+Dialogue: Marked=0,0:09:10.36,0:09:13.79,Default,NTP,0000,0000,0000,!Effect,這是\N我的朋友交給我的炸裂彈
+Dialogue: Marked=0,0:09:13.83,0:09:16.06,Default,NTP,0000,0000,0000,!Effect,為了以防萬一你帶去
+Dialogue: Marked=0,0:09:18.40,0:09:20.83,Default,NTP,0000,0000,0000,!Effect,知道了 我相信你
+Dialogue: Marked=0,0:09:21.47,0:09:23.96,Default,NTP,0000,0000,0000,!Effect,聖母小姐\N我一定會向翔伍大人報告
+Dialogue: Marked=0,0:09:30.48,0:09:33.31,Default,NTP,0000,0000,0000,!Effect,大個子 你的對手在這邊哦
+Dialogue: Marked=0,0:09:43.56,0:09:46.49,Default,NTP,0000,0000,0000,!Effect,你別離開這裏
+Dialogue: Marked=0,0:09:46.53,0:09:49.46,Default,NTP,0000,0000,0000,!Effect,我不會讓他碰你一根汗毛的
+Dialogue: Marked=0,0:09:53.27,0:09:55.46,Default,NTP,0000,0000,0000,!Effect,我有話問你
+Dialogue: Marked=0,0:09:58.14,0:10:00.54,Default,NTP,0000,0000,0000,!Effect,聖母小姐的項鏈到哪去了
+Dialogue: Marked=0,0:10:01.41,0:10:03.38,Default,NTP,0000,0000,0000,!Effect,這跟你無關啦
+Dialogue: Marked=0,0:10:15.86,0:10:17.38,Default,NTP,0000,0000,0000,!Effect,去死
+Dialogue: Marked=0,0:10:22.23,0:10:24.93,Default,NTP,0000,0000,0000,!Effect,讓你死！
+Dialogue: Marked=0,0:10:36.04,0:10:38.57,Default,NTP,0000,0000,0000,!Effect,招吧 項鏈在哪裏
+Dialogue: Marked=0,0:10:41.68,0:10:42.44,Default,NTP,0000,0000,0000,!Effect,在哪裏
+Dialogue: Marked=0,0:10:47.25,0:10:50.25,Default,NTP,0000,0000,0000,!Effect,山…山東先生那裏
+Dialogue: Marked=0,0:10:50.69,0:10:51.95,Default,NTP,0000,0000,0000,!Effect,山東？
+Dialogue: Marked=0,0:11:10.98,0:11:12.74,Default,NTP,0000,0000,0000,!Effect,聖母小姐！
+Dialogue: Marked=0,0:11:25.73,0:11:26.78,Default,NTP,0000,0000,0000,!Effect,你醒了
+Dialogue: Marked=0,0:11:32.13,0:11:35.57,Default,NTP,0000,0000,0000,!Effect,你還好吧\N我看你好像病得很重
+Dialogue: Marked=0,0:11:37.54,0:11:41.03,Default,NTP,0000,0000,0000,!Effect,我就快上天國了
+Dialogue: Marked=0,0:11:42.08,0:11:43.06,Default,NTP,0000,0000,0000,!Effect,這是命運
+Dialogue: Marked=0,0:11:44.11,0:11:49.71,Default,NTP,0000,0000,0000,!Effect,除非是神創造奇跡\N不然我是絕不可能好的
+Dialogue: Marked=0,0:11:50.15,0:11:54.11,Default,NTP,0000,0000,0000,!Effect,胡說 說什麼奇跡命運
+Dialogue: Marked=0,0:11:54.15,0:11:57.61,Default,NTP,0000,0000,0000,!Effect,能救自己的命的\N不是奇跡也不是神
+Dialogue: Marked=0,0:11:57.66,0:11:58.68,Default,NTP,0000,0000,0000,!Effect,是自己！
+Dialogue: Marked=0,0:11:59.19,0:12:02.42,Default,NTP,0000,0000,0000,!Effect,想要拚命活下去的\N自己求生的意志力
+Dialogue: Marked=0,0:12:02.46,0:12:04.59,Default,NTP,0000,0000,0000,!Effect,以及週遭的人的關心
+Dialogue: Marked=0,0:12:04.63,0:12:06.79,Default,NTP,0000,0000,0000,!Effect,人的命是人在救的
+Dialogue: Marked=0,0:12:08.67,0:12:09.76,Default,NTP,0000,0000,0000,!Effect,我有好同伴
+Dialogue: Marked=0,0:12:10.30,0:12:15.64,Default,NTP,0000,0000,0000,!Effect,劍心 小姐 彌彥\N還有叫做小操的潑辣丫頭
+Dialogue: Marked=0,0:12:15.68,0:12:17.77,Default,NTP,0000,0000,0000,!Effect,他們不會創造奇跡
+Dialogue: Marked=0,0:12:17.81,0:12:21.18,Default,NTP,0000,0000,0000,!Effect,可是他們會盡力幫到最後
+Dialogue: Marked=0,0:12:21.21,0:12:23.44,Default,NTP,0000,0000,0000,!Effect,我會一直相信我的同伴下去
+Dialogue: Marked=0,0:12:23.48,0:12:26.94,Default,NTP,0000,0000,0000,!Effect,現在幫助你的我\N也只是個普通人
+Dialogue: Marked=0,0:12:29.02,0:12:30.65,Default,NTP,0000,0000,0000,!Effect,你不願意相信我嗎
+Dialogue: Marked=0,0:13:04.46,0:13:05.19,Default,NTP,0000,0000,0000,!Effect,禰彥
+Dialogue: Marked=0,0:13:05.79,0:13:08.23,Default,NTP,0000,0000,0000,!Effect,你的同伴？
+Dialogue: Marked=0,0:13:09.90,0:13:11.23,Default,NTP,0000,0000,0000,!Effect,太好了 趕上了
+Dialogue: Marked=0,0:13:12.17,0:13:16.57,Default,NTP,0000,0000,0000,!Effect,左之助 我知道\N以你的能力是不會有事的
+Dialogue: Marked=0,0:13:17.67,0:13:19.73,Default,NTP,0000,0000,0000,!Effect,劍心 你的眼睛
+Dialogue: Marked=0,0:13:20.17,0:13:21.73,Default,NTP,0000,0000,0000,!Effect,你放心吧
+Dialogue: Marked=0,0:13:22.54,0:13:24.27,Default,NTP,0000,0000,0000,!Effect,對啊  沒問題的
+Dialogue: Marked=0,0:13:24.31,0:13:27.91,Default,NTP,0000,0000,0000,!Effect,對呀 來這裏的時候\N劍心可是非常活躍呢
+Dialogue: Marked=0,0:13:28.31,0:13:30.28,Default,NTP,0000,0000,0000,!Effect,左之助 聖母小姐她…
+Dialogue: Marked=0,0:13:36.06,0:13:38.32,Default,NTP,0000,0000,0000,!Effect,傀王背叛天草翔伍了
+Dialogue: Marked=0,0:13:38.96,0:13:44.73,Default,NTP,0000,0000,0000,!Effect,他想以傳說中救世主的死法\N來殺死天草翔伍
+Dialogue: Marked=0,0:13:45.93,0:13:52.30,Default,NTP,0000,0000,0000,!Effect,傀王一定是向長崎縣令\N密告島原有人想謀反
+Dialogue: Marked=0,0:13:53.17,0:13:58.20,Default,NTP,0000,0000,0000,!Effect,以圖讓軍隊出動\N逼死天草翔伍
+Dialogue: Marked=0,0:13:58.24,0:14:02.08,Default,NTP,0000,0000,0000,!Effect,再給信徒們製造\N天草翔伍已神聖殉教的印象
+Dialogue: Marked=0,0:14:02.12,0:14:03.98,Default,NTP,0000,0000,0000,!Effect,凝聚信徒的向心力
+Dialogue: Marked=0,0:14:04.02,0:14:09.55,Default,NTP,0000,0000,0000,!Effect,自己代替翔伍成為領導者
+Dialogue: Marked=0,0:14:11.46,0:14:14.92,Default,NTP,0000,0000,0000,!Effect,他想藉此\N領導日本各地數萬信徒
+Dialogue: Marked=0,0:14:14.96,0:14:18.06,Default,NTP,0000,0000,0000,!Effect,把國家納為已有
+Dialogue: Marked=0,0:14:18.53,0:14:19.93,Default,NTP,0000,0000,0000,!Effect,不可原諒
+Dialogue: Marked=0,0:14:19.97,0:14:22.09,Default,NTP,0000,0000,0000,!Effect,軍隊很快就攻擊這裏了
+Dialogue: Marked=0,0:14:24.90,0:14:27.34,Default,NTP,0000,0000,0000,!Effect,哥哥在聖靈之丘
+Dialogue: Marked=0,0:14:27.37,0:14:28.97,Default,NTP,0000,0000,0000,!Effect,村人也在一起
+Dialogue: Marked=0,0:14:29.84,0:14:32.71,Default,NTP,0000,0000,0000,!Effect,現在受到攻擊 村人們會…
+Dialogue: Marked=0,0:14:35.92,0:14:37.35,Default,NTP,0000,0000,0000,!Effect,這是肺癆呀
+Dialogue: Marked=0,0:14:38.18,0:14:39.15,Default,NTP,0000,0000,0000,!Effect,你說什麼
+Dialogue: Marked=0,0:14:41.65,0:14:43.59,Default,NTP,0000,0000,0000,!Effect,帶他去給愛爾思坦先生看吧
+Dialogue: Marked=0,0:14:44.36,0:14:47.79,Default,NTP,0000,0000,0000,!Effect,對哦 那個荷蘭人是醫生
+Dialogue: Marked=0,0:14:48.23,0:14:50.63,Default,NTP,0000,0000,0000,!Effect,左之助 快點去
+Dialogue: Marked=0,0:14:50.66,0:14:51.36,Default,NTP,0000,0000,0000,!Effect,好
+Dialogue: Marked=0,0:14:54.90,0:15:01.03,Default,NTP,0000,0000,0000,!Effect,見到愛爾思坦的話\N幫我拜託他阻止軍隊行動
+Dialogue: Marked=0,0:15:01.07,0:15:05.98,Default,NTP,0000,0000,0000,!Effect,以他荷蘭領事館長的身份\N或許可以暫緩軍隊的出擊
+Dialogue: Marked=0,0:15:07.68,0:15:09.05,Default,NTP,0000,0000,0000,!Effect,我們也去吧
+Dialogue: Marked=0,0:15:09.08,0:15:10.64,Default,NTP,0000,0000,0000,!Effect,到聖靈之丘
+Dialogue: Marked=0,0:15:10.68,0:15:13.28,Default,NTP,0000,0000,0000,!Effect,我們必需阻止村人被犧牲掉
+Dialogue: Marked=0,0:15:14.29,0:15:18.82,Default,NTP,0000,0000,0000,!Effect,對 去說服天草翔伍
+Dialogue: Marked=0,0:15:58.73,0:16:02.06,Default,NTP,0000,0000,0000,!Effect,第12部隊繞過山丘往西去
+Dialogue: Marked=0,0:16:10.88,0:16:12.81,Default,NTP,0000,0000,0000,!Effect,今天似乎也是大熱天
+Dialogue: Marked=0,0:17:05.06,0:17:07.09,Default,NTP,0000,0000,0000,!Effect,很嚴重的高燒
+Dialogue: Marked=0,0:17:07.13,0:17:09.43,Default,NTP,0000,0000,0000,!Effect,從島原到這裏
+Dialogue: Marked=0,0:17:09.47,0:17:11.90,Default,NTP,0000,0000,0000,!Effect,對小夜來講\N這段旅程太辛苦了
+Dialogue: Marked=0,0:17:13.81,0:17:17.67,Default,NTP,0000,0000,0000,!Effect,叔叔 請教我飛天御劍流吧
+Dialogue: Marked=0,0:17:19.61,0:17:23.48,Default,NTP,0000,0000,0000,!Effect,我想成為神
+Dialogue: Marked=0,0:17:23.52,0:17:25.31,Default,NTP,0000,0000,0000,!Effect,我要超越人
+Dialogue: Marked=0,0:17:25.99,0:17:28.92,Default,NTP,0000,0000,0000,!Effect,成為神 保護小夜
+Dialogue: Marked=0,0:17:28.96,0:17:30.05,Default,NTP,0000,0000,0000,!Effect,拯救人們
+Dialogue: Marked=0,0:17:30.86,0:17:35.73,Default,NTP,0000,0000,0000,!Effect,懲罰那些欺負爸爸媽媽\N跟許多無辜人們的人
+Dialogue: Marked=0,0:17:41.60,0:17:43.93,Default,NTP,0000,0000,0000,!Effect,我以你為榮
+Dialogue: Marked=0,0:17:45.20,0:17:51.61,Default,NTP,0000,0000,0000,!Effect,將飛天御劍流傳授給你\N這個神所特別選上的子民
+Dialogue: Marked=0,0:17:51.64,0:17:53.87,Default,NTP,0000,0000,0000,!Effect,是我的天命
+Dialogue: Marked=0,0:17:55.38,0:17:56.61,Default,NTP,0000,0000,0000,!Effect,但是翔伍
+Dialogue: Marked=0,0:17:59.02,0:18:02.15,Default,NTP,0000,0000,0000,!Effect,飛天御劍流的主旨
+Dialogue: Marked=0,0:18:02.19,0:18:05.18,Default,NTP,0000,0000,0000,!Effect,是救助人們脫離時代的苦難
+Dialogue: Marked=0,0:18:06.09,0:18:10.05,Default,NTP,0000,0000,0000,!Effect,只要你不拋棄\N心中沸騰的恨意一天
+Dialogue: Marked=0,0:18:10.10,0:18:13.36,Default,NTP,0000,0000,0000,!Effect,你就不可能真正\N學會御劍流的究極
+Dialogue: Marked=0,0:18:13.40,0:18:15.53,Default,NTP,0000,0000,0000,!Effect,別說是成為神了
+Dialogue: Marked=0,0:18:15.57,0:18:18.40,Default,NTP,0000,0000,0000,!Effect,連小夜的命你可能都守不住
+Dialogue: Marked=0,0:18:25.98,0:18:29.11,Default,NTP,0000,0000,0000,!Effect,不管你說什麼 我…
+Dialogue: Marked=0,0:18:29.15,0:18:30.58,Default,NTP,0000,0000,0000,!Effect,一定要成為神給你看
+Dialogue: Marked=0,0:18:37.32,0:18:40.78,Default,NTP,0000,0000,0000,!Effect,你連小夜的命都可能守不住
+Dialogue: Marked=0,0:18:42.10,0:18:46.69,Default,NTP,0000,0000,0000,!Effect,連小夜的命…都守不住…
+Dialogue: Marked=0,0:18:50.20,0:18:53.80,Default,NTP,0000,0000,0000,!Effect,我就快要可以上天堂了
+Dialogue: Marked=0,0:18:55.04,0:18:57.24,Default,NTP,0000,0000,0000,!Effect,到爸爸媽媽的身邊
+Dialogue: Marked=0,0:18:58.68,0:18:59.54,Default,NTP,0000,0000,0000,!Effect,小夜
+Dialogue: Marked=0,0:19:07.12,0:19:10.25,Default,NTP,0000,0000,0000,!Effect,看來要暫時告別島原了
+Dialogue: Marked=0,0:19:10.29,0:19:15.78,Default,NTP,0000,0000,0000,!Effect,幾年後傀王大人就是\N率領數萬信徒的大司教了
+Dialogue: Marked=0,0:19:16.30,0:19:19.03,Default,NTP,0000,0000,0000,!Effect,一切都如傀王大人計劃的
+Dialogue: Marked=0,0:19:19.07,0:19:21.40,Default,NTP,0000,0000,0000,!Effect,不久後軍隊就會開始攻擊
+Dialogue: Marked=0,0:19:21.43,0:19:22.42,Default,NTP,0000,0000,0000,!Effect,把天草翔伍跟
+Dialogue: Marked=0,0:19:22.47,0:19:27.20,Default,NTP,0000,0000,0000,!Effect,聚集在聖靈之丘的\N信徒88人全部槍斃
+Dialogue: Marked=0,0:19:28.37,0:19:30.27,Default,NTP,0000,0000,0000,!Effect,88人嗎
+Dialogue: Marked=0,0:19:30.31,0:19:31.74,Default,NTP,0000,0000,0000,!Effect,這個數字不錯
+Dialogue: Marked=0,0:19:31.78,0:19:35.61,Default,NTP,0000,0000,0000,!Effect,正好方便以後\N我們傳頌神聖的殉教
+Dialogue: Marked=0,0:19:36.12,0:19:38.35,Default,NTP,0000,0000,0000,!Effect,我只遺憾一件事
+Dialogue: Marked=0,0:19:38.38,0:19:43.79,Default,NTP,0000,0000,0000,!Effect,無法親眼看到那以神自居\N自信過剩的人的死狀
+Dialogue: Marked=0,0:19:45.56,0:19:49.39,Default,NTP,0000,0000,0000,!Effect,差不多該走了吧\N蒸氣船到海面了
+Dialogue: Marked=0,0:19:50.50,0:19:51.46,Default,NTP,0000,0000,0000,!Effect,傀王
+Dialogue: Marked=0,0:19:52.70,0:19:56.50,Default,NTP,0000,0000,0000,!Effect,我從小到大\N一直遵循聖母小姐的教誨
+Dialogue: Marked=0,0:19:56.54,0:19:58.87,Default,NTP,0000,0000,0000,!Effect,絕不殺人
+Dialogue: Marked=0,0:19:58.91,0:20:00.24,Default,NTP,0000,0000,0000,!Effect,那是我的誓願
+Dialogue: Marked=0,0:20:00.27,0:20:02.37,Default,NTP,0000,0000,0000,!Effect,如果沒有那誓言的話…
+Dialogue: Marked=0,0:20:03.71,0:20:07.74,Default,NTP,0000,0000,0000,!Effect,沒想到你還活著呀\N天草兄妹的走狗
+Dialogue: Marked=0,0:20:08.85,0:20:09.75,Default,NTP,0000,0000,0000,!Effect,可惡
+Dialogue: Marked=0,0:20:19.33,0:20:20.66,Default,NTP,0000,0000,0000,!Effect,這隻狗！
+Dialogue: Marked=0,0:20:27.27,0:20:29.79,Default,NTP,0000,0000,0000,!Effect,怎麼啦 這麼快就完啦？
+Dialogue: Marked=0,0:20:32.27,0:20:36.23,Default,NTP,0000,0000,0000,!Effect,一隻狗很痛苦的\N像條野狗陳屍在路邊啦
+Dialogue: Marked=0,0:20:39.68,0:20:41.77,Default,NTP,0000,0000,0000,!Effect,天下是我的了
+Dialogue: Marked=0,0:20:55.13,0:20:56.25,Default,NTP,0000,0000,0000,!Effect,聖母小姐
+Dialogue: Marked=0,0:20:57.60,0:20:58.72,Default,NTP,0000,0000,0000,!Effect,請原諒我
+Dialogue: Marked=0,0:21:51.35,0:21:52.65,Default,NTP,0000,0000,0000,!Effect,剛才的聲音是什麼
+Dialogue: Marked=0,0:21:53.99,0:21:54.95,Default,NTP,0000,0000,0000,!Effect,翔伍大人
+Dialogue: Marked=0,0:22:05.36,0:22:07.39,Default,NTP,0000,0000,0000,!Effect,全體人員部署完畢
+Dialogue: Marked=0,0:22:14.47,0:22:17.20,Default,NTP,0000,0000,0000,!Effect,不行 緋村 山丘被包圍了
+Dialogue: Marked=0,0:22:17.24,0:22:18.07,Default,NTP,0000,0000,0000,!Effect,怎麼這樣
+Dialogue: Marked=0,0:22:18.11,0:22:20.01,Default,NTP,0000,0000,0000,!Effect,總攻擊開始了嗎
+Dialogue: Marked=0,0:22:20.85,0:22:21.47,Default,NTP,0000,0000,0000,!Effect,怎麼辦
+Dialogue: Marked=0,0:22:22.88,0:22:24.14,Default,NTP,0000,0000,0000,!Effect,快點
+Dialogue: Marked=0,0:22:28.99,0:22:32.42,Default,NTP,0000,0000,0000,!Effect,不能死 我不會讓你死的
+Dialogue: Marked=0,0:22:32.46,0:22:37.16,Default,NTP,0000,0000,0000,!Effect,我跟莊三約好了\N我一定要守住你的命
+Dialogue: Marked=0,0:25:10.08,0:25:13.31,Default,NTP,0000,0000,0000,!Effect,大地被硝煙之雷給震裂
+Dialogue: Marked=0,0:25:13.35,0:25:16.98,Default,NTP,0000,0000,0000,!Effect,鋼鐵的火焰圍住殉教者
+Dialogue: Marked=0,0:25:17.02,0:25:20.39,Default,NTP,0000,0000,0000,!Effect,神聖之劍虛無地\N在空中發出亮光
+Dialogue: Marked=0,0:25:20.43,0:25:22.12,Default,NTP,0000,0000,0000,!Effect,然後
+Dialogue: Marked=0,0:25:22.16,0:25:25.03,Default,NTP,0000,0000,0000,!Effect,當光芒充滿通往天空的道路
+Dialogue: Marked=0,0:25:25.06,0:25:27.62,Default,NTP,0000,0000,0000,!Effect,一個靈魂回到那片海洋
+Dialogue: Marked=0,0:25:28.27,0:25:30.57,Default,NTP,0000,0000,0000,!Effect,下一集 左之助的淚水
+Dialogue: Marked=0,0:25:30.60,0:25:32.70,Default,NTP,0000,0000,0000,!Effect,永遠的分離造訪二人
+Dialogue: Marked=0,0:25:32.74,0:25:34.07,Default,NTP,0000,0000,0000,!Effect,敬請期待
+

@@ -1,0 +1,272 @@
+[Script Info]
+;本字幕檔案用 SrtEdit MPC播放版 Version 5.2 編輯製作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁衛國
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 400
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,simhei,22,&HFFFFEF,&H00FFFF,&HA44A40,&HA44A40,-1,0,1,2,1,2,30,30,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:01:58.00,0:02:00.73,Default,NTP,0000,0000,0000,!Effect,劍心 他果然不對勁
+Dialogue: Marked=0,0:02:08.07,0:02:12.17,Default,NTP,0000,0000,0000,!Effect,在那青年的內心\N有樣東西突然脫軌了
+Dialogue: Marked=0,0:02:12.21,0:02:16.34,Default,NTP,0000,0000,0000,!Effect,他可能窮於處理那狀況
+Dialogue: Marked=0,0:02:16.38,0:02:21.58,Default,NTP,0000,0000,0000,!Effect,草鞋的鞋帶斷掉\N恐怕不是單純的偶然
+Dialogue: Marked=0,0:02:22.55,0:02:26.89,Default,NTP,0000,0000,0000,!Effect,小弟弟 你到底在想什麼呀
+Dialogue: Marked=0,0:02:27.83,0:02:31.92,Default,NTP,0000,0000,0000,!Effect,緋村遠比我料想的還要強
+Dialogue: Marked=0,0:02:31.96,0:02:35.59,Default,NTP,0000,0000,0000,!Effect,不愧是傳說中的斬人拔刀齊
+Dialogue: Marked=0,0:02:37.13,0:02:38.36,Default,NTP,0000,0000,0000,!Effect,可是…
+Dialogue: Marked=0,0:02:38.40,0:02:42.81,Default,NTP,0000,0000,0000,!Effect,不管再厲害也不可能\N敵得過我與志志雄
+Dialogue: Marked=0,0:02:42.84,0:02:44.64,Default,NTP,0000,0000,0000,!Effect,因為
+Dialogue: Marked=0,0:02:44.68,0:02:48.17,Default,NTP,0000,0000,0000,!Effect,保護弱者的劍 是錯誤的
+Dialogue: Marked=0,0:02:50.11,0:02:52.31,Default,NTP,0000,0000,0000,!Effect,保護弱者
+Dialogue: Marked=0,0:02:53.38,0:02:55.38,Default,NTP,0000,0000,0000,!Effect,是錯的
+Dialogue: Marked=0,0:02:55.42,0:02:58.05,Default,NTP,0000,0000,0000,!Effect,第五十五話\N狂風暴雨夜的慘劇\N宗次郎的過去
+Dialogue: Marked=0,0:03:02.59,0:03:04.69,Default,NTP,0000,0000,0000,!Effect,這個小鬼
+Dialogue: Marked=0,0:03:06.40,0:03:07.96,Default,NTP,0000,0000,0000,!Effect,我說過要在今天以內
+Dialogue: Marked=0,0:03:08.00,0:03:11.16,Default,NTP,0000,0000,0000,!Effect,把一百桶米搬到西邊倉庫的
+Dialogue: Marked=0,0:03:11.20,0:03:13.33,Default,NTP,0000,0000,0000,!Effect,不可能辦到的
+Dialogue: Marked=0,0:03:13.37,0:03:15.77,Default,NTP,0000,0000,0000,!Effect,我叫你辦 你就得辦到
+Dialogue: Marked=0,0:03:22.15,0:03:24.24,Default,NTP,0000,0000,0000,!Effect,你笑什麼笑
+Dialogue: Marked=0,0:03:26.28,0:03:28.95,Default,NTP,0000,0000,0000,!Effect,聽好 沒做完工作
+Dialogue: Marked=0,0:03:28.99,0:03:31.32,Default,NTP,0000,0000,0000,!Effect,不准進入屋子
+Dialogue: Marked=0,0:03:33.36,0:03:35.72,Default,NTP,0000,0000,0000,!Effect,今天你就睡外面
+Dialogue: Marked=0,0:03:35.76,0:03:37.59,Default,NTP,0000,0000,0000,!Effect,別罵了 老公
+Dialogue: Marked=0,0:03:37.63,0:03:40.50,Default,NTP,0000,0000,0000,!Effect,別忘記廚房的工作
+Dialogue: Marked=0,0:03:40.53,0:03:43.09,Default,NTP,0000,0000,0000,!Effect,記得來替我槌背哦
+Dialogue: Marked=0,0:03:49.61,0:03:51.90,Default,NTP,0000,0000,0000,!Effect,真是 在外面生雜種
+Dialogue: Marked=0,0:03:51.94,0:03:54.97,Default,NTP,0000,0000,0000,!Effect,老爸怎麼留下這個麻煩
+Dialogue: Marked=0,0:03:55.01,0:03:57.00,Default,NTP,0000,0000,0000,!Effect,沒關係啦 老爸
+Dialogue: Marked=0,0:03:57.05,0:03:58.57,Default,NTP,0000,0000,0000,!Effect,把他當成不領錢的
+Dialogue: Marked=0,0:03:58.62,0:04:02.21,Default,NTP,0000,0000,0000,!Effect,供我們奴役一輩子的傭人就可以了
+Dialogue: Marked=0,0:04:02.25,0:04:06.48,Default,NTP,0000,0000,0000,!Effect,可是那孩子也真是\N老是掛著一張笑臉
+Dialogue: Marked=0,0:04:06.52,0:04:11.65,Default,NTP,0000,0000,0000,!Effect,我們為了體面 領養他進來\N好像讓他有點誤解了
+Dialogue: Marked=0,0:04:12.93,0:04:14.63,Default,NTP,0000,0000,0000,!Effect,你說什麼
+Dialogue: Marked=0,0:04:14.67,0:04:18.10,Default,NTP,0000,0000,0000,!Effect,別說笑了 我們的財產
+Dialogue: Marked=0,0:04:18.14,0:04:20.23,Default,NTP,0000,0000,0000,!Effect,一毛錢也不分給他
+Dialogue: Marked=0,0:04:20.27,0:04:22.30,Default,NTP,0000,0000,0000,!Effect,肥水不落外人田嘛
+Dialogue: Marked=0,0:06:07.04,0:06:08.84,Default,NTP,0000,0000,0000,!Effect,你看見了
+Dialogue: Marked=0,0:06:09.98,0:06:11.47,Default,NTP,0000,0000,0000,!Effect,小鬼…
+Dialogue: Marked=0,0:06:18.56,0:06:20.18,Default,NTP,0000,0000,0000,!Effect,既然被你看見
+Dialogue: Marked=0,0:06:20.22,0:06:21.56,Default,NTP,0000,0000,0000,!Effect,沒有辦法
+Dialogue: Marked=0,0:06:23.93,0:06:25.59,Default,NTP,0000,0000,0000,!Effect,殺
+Dialogue: Marked=0,0:06:36.17,0:06:38.37,Default,NTP,0000,0000,0000,!Effect,你那麼高興死掉嗎
+Dialogue: Marked=0,0:06:38.41,0:06:39.88,Default,NTP,0000,0000,0000,!Effect,啊？
+Dialogue: Marked=0,0:06:47.42,0:06:49.98,Default,NTP,0000,0000,0000,!Effect,小鬼
+Dialogue: Marked=0,0:06:50.02,0:06:54.86,Default,NTP,0000,0000,0000,!Effect,拿繃帶跟食物來\N這樣我就饒你一命
+Dialogue: Marked=0,0:07:01.73,0:07:03.86,Default,NTP,0000,0000,0000,!Effect,好
+Dialogue: Marked=0,0:07:03.90,0:07:06.33,Default,NTP,0000,0000,0000,!Effect,這樣就好活動了
+Dialogue: Marked=0,0:07:06.37,0:07:08.00,Default,NTP,0000,0000,0000,!Effect,叔叔
+Dialogue: Marked=0,0:07:10.77,0:07:13.17,Default,NTP,0000,0000,0000,!Effect,我不是叔叔 我有名字
+Dialogue: Marked=0,0:07:15.25,0:07:18.48,Default,NTP,0000,0000,0000,!Effect,志志雄真實 那是我的名字
+Dialogue: Marked=0,0:07:24.25,0:07:26.38,Default,NTP,0000,0000,0000,!Effect,志志雄大人
+Dialogue: Marked=0,0:07:26.42,0:07:30.38,Default,NTP,0000,0000,0000,!Effect,志志雄大人 你殺警官
+Dialogue: Marked=0,0:07:30.43,0:07:33.23,Default,NTP,0000,0000,0000,!Effect,你是壞人嗎
+Dialogue: Marked=0,0:07:33.26,0:07:36.76,Default,NTP,0000,0000,0000,!Effect,壞的是明治政府
+Dialogue: Marked=0,0:07:36.80,0:07:39.53,Default,NTP,0000,0000,0000,!Effect,利用我 等我沒利用價值
+Dialogue: Marked=0,0:07:39.57,0:07:41.47,Default,NTP,0000,0000,0000,!Effect,就放火想燒死我
+Dialogue: Marked=0,0:07:42.74,0:07:44.26,Default,NTP,0000,0000,0000,!Effect,那…你是好人了
+Dialogue: Marked=0,0:07:44.31,0:07:47.33,Default,NTP,0000,0000,0000,!Effect,不 我是大壞蛋
+Dialogue: Marked=0,0:07:49.58,0:07:53.61,Default,NTP,0000,0000,0000,!Effect,別逃 別逃 我說過不取你性命的
+Dialogue: Marked=0,0:07:55.52,0:08:01.01,Default,NTP,0000,0000,0000,!Effect,我喜歡這地方\N這裏不容易被找到
+Dialogue: Marked=0,0:08:07.26,0:08:09.86,Default,NTP,0000,0000,0000,!Effect,我要暫時住在這裏
+Dialogue: Marked=0,0:08:11.30,0:08:14.46,Default,NTP,0000,0000,0000,!Effect,果然 這個人是壞人
+Dialogue: Marked=0,0:08:17.41,0:08:19.03,Default,NTP,0000,0000,0000,!Effect,可是…
+Dialogue: Marked=0,0:08:24.48,0:08:27.04,Default,NTP,0000,0000,0000,!Effect,他是非常厲害的人
+Dialogue: Marked=0,0:08:29.12,0:08:31.78,Default,NTP,0000,0000,0000,!Effect,你聽說沒有 大哥
+Dialogue: Marked=0,0:08:31.82,0:08:36.66,Default,NTP,0000,0000,0000,!Effect,聽說明治政府的叛徒\N逃到這一帶
+Dialogue: Marked=0,0:08:36.69,0:08:40.56,Default,NTP,0000,0000,0000,!Effect,剛才警察也到\N老爸那裏問話呢
+Dialogue: Marked=0,0:08:40.60,0:08:43.62,Default,NTP,0000,0000,0000,!Effect,沒想到連搜山也找不到線索
+Dialogue: Marked=0,0:08:46.74,0:08:49.10,Default,NTP,0000,0000,0000,!Effect,宗次郎
+Dialogue: Marked=0,0:08:49.14,0:08:50.50,Default,NTP,0000,0000,0000,!Effect,是
+Dialogue: Marked=0,0:08:50.54,0:08:54.07,Default,NTP,0000,0000,0000,!Effect,從三天前開始\N晚上你都在外面睡覺
+Dialogue: Marked=0,0:08:54.11,0:08:56.77,Default,NTP,0000,0000,0000,!Effect,你有沒有看到什麼聽到什麼啊
+Dialogue: Marked=0,0:08:56.81,0:08:59.48,Default,NTP,0000,0000,0000,!Effect,有看到什麼就立刻說
+Dialogue: Marked=0,0:08:59.52,0:09:02.78,Default,NTP,0000,0000,0000,!Effect,敢隱瞞我就不饒你
+Dialogue: Marked=0,0:09:02.82,0:09:05.72,Default,NTP,0000,0000,0000,!Effect,這是展露我的劍術的最佳機會
+Dialogue: Marked=0,0:09:05.76,0:09:08.59,Default,NTP,0000,0000,0000,!Effect,那個叛徒我要親手砍死他
+Dialogue: Marked=0,0:09:08.63,0:09:13.26,Default,NTP,0000,0000,0000,!Effect,大哥 你那不顧前後\N隨便動劍的習慣
+Dialogue: Marked=0,0:09:13.30,0:09:14.76,Default,NTP,0000,0000,0000,!Effect,還是改掉吧
+Dialogue: Marked=0,0:09:14.80,0:09:16.46,Default,NTP,0000,0000,0000,!Effect,真拿你沒辦法
+Dialogue: Marked=0,0:09:23.14,0:09:27.44,Default,NTP,0000,0000,0000,!Effect,宗次郎這傢伙\N又弄壞一桶米了 真是
+Dialogue: Marked=0,0:09:29.11,0:09:30.60,Default,NTP,0000,0000,0000,!Effect,你說什麼
+Dialogue: Marked=0,0:09:30.65,0:09:33.34,Default,NTP,0000,0000,0000,!Effect,宗次郎 又是你
+Dialogue: Marked=0,0:09:33.38,0:09:36.88,Default,NTP,0000,0000,0000,!Effect,你知道一桶米值多少錢嗎
+Dialogue: Marked=0,0:09:36.92,0:09:39.89,Default,NTP,0000,0000,0000,!Effect,今天我再不會忍耐了
+Dialogue: Marked=0,0:09:41.99,0:09:43.79,Default,NTP,0000,0000,0000,!Effect,原來如此
+Dialogue: Marked=0,0:09:43.83,0:09:47.26,Default,NTP,0000,0000,0000,!Effect,他們是相當壞的小壞蛋嘛
+Dialogue: Marked=0,0:09:47.30,0:09:51.20,Default,NTP,0000,0000,0000,!Effect,你被打成這樣\N怎麼還笑得出來呢
+Dialogue: Marked=0,0:09:51.23,0:09:53.00,Default,NTP,0000,0000,0000,!Effect,啊？
+Dialogue: Marked=0,0:09:55.97,0:09:59.17,Default,NTP,0000,0000,0000,!Effect,說的也是 是很奇怪
+Dialogue: Marked=0,0:09:59.21,0:10:01.73,Default,NTP,0000,0000,0000,!Effect,一開始不是這樣的
+Dialogue: Marked=0,0:10:01.78,0:10:07.91,Default,NTP,0000,0000,0000,!Effect,剛來這裏時 被欺負了\N我會生氣 會哭
+Dialogue: Marked=0,0:10:07.95,0:10:13.98,Default,NTP,0000,0000,0000,!Effect,可是我越是生氣 越是哭\N他們就會說我太自大 太吵
+Dialogue: Marked=0,0:10:14.02,0:10:18.93,Default,NTP,0000,0000,0000,!Effect,變得更憤怒 更惡劣
+Dialogue: Marked=0,0:10:18.96,0:10:23.26,Default,NTP,0000,0000,0000,!Effect,忍耐下來 以笑容對他們\N他們愣了一下就走開了
+Dialogue: Marked=0,0:10:23.30,0:10:27.07,Default,NTP,0000,0000,0000,!Effect,不管多痛、多不甘心\N只要我保持笑容的話…
+Dialogue: Marked=0,0:10:32.04,0:10:35.14,Default,NTP,0000,0000,0000,!Effect,沒有辦法 雖說是兄弟
+Dialogue: Marked=0,0:10:35.18,0:10:38.48,Default,NTP,0000,0000,0000,!Effect,誰叫我不是這個家真正的小孩
+Dialogue: Marked=0,0:10:38.52,0:10:41.48,Default,NTP,0000,0000,0000,!Effect,不對
+Dialogue: Marked=0,0:10:41.52,0:10:47.35,Default,NTP,0000,0000,0000,!Effect,不是身份怎樣\N錯在你太過弱小
+Dialogue: Marked=0,0:10:48.43,0:10:50.89,Default,NTP,0000,0000,0000,!Effect,這世間是弱肉強食
+Dialogue: Marked=0,0:10:50.93,0:10:54.69,Default,NTP,0000,0000,0000,!Effect,強者活 弱者死
+Dialogue: Marked=0,0:10:54.73,0:10:58.33,Default,NTP,0000,0000,0000,!Effect,不管你偽造的笑容多成功
+Dialogue: Marked=0,0:10:58.37,0:11:01.60,Default,NTP,0000,0000,0000,!Effect,也逃避不了這個真理
+Dialogue: Marked=0,0:11:01.64,0:11:06.60,Default,NTP,0000,0000,0000,!Effect,強者活 弱者死
+Dialogue: Marked=0,0:11:09.61,0:11:12.61,Default,NTP,0000,0000,0000,!Effect,這個送你
+Dialogue: Marked=0,0:11:12.65,0:11:15.17,Default,NTP,0000,0000,0000,!Effect,當作這裏的房租
+Dialogue: Marked=0,0:11:25.36,0:11:27.35,Default,NTP,0000,0000,0000,!Effect,你要磨蹭到什麼時候
+Dialogue: Marked=0,0:11:27.40,0:11:30.89,Default,NTP,0000,0000,0000,!Effect,他把感情封印起來？   為什麼
+Dialogue: Marked=0,0:11:30.93,0:11:34.13,Default,NTP,0000,0000,0000,!Effect,這我也不知道 但是
+Dialogue: Marked=0,0:11:35.84,0:11:40.78,Default,NTP,0000,0000,0000,!Effect,我很肯定宗次郎以前絕不幸福
+Dialogue: Marked=0,0:11:42.88,0:11:48.82,Default,NTP,0000,0000,0000,!Effect,弱者死 強者生
+Dialogue: Marked=0,0:11:50.85,0:11:53.72,Default,NTP,0000,0000,0000,!Effect,這是宗次郎說的
+Dialogue: Marked=0,0:11:53.76,0:11:57.06,Default,NTP,0000,0000,0000,!Effect,大概是因為過去從沒有人
+Dialogue: Marked=0,0:11:57.09,0:12:00.09,Default,NTP,0000,0000,0000,!Effect,為宗次郎流下熱淚吧
+Dialogue: Marked=0,0:12:03.03,0:12:05.73,Default,NTP,0000,0000,0000,!Effect,如果他有遇到那樣的人
+Dialogue: Marked=0,0:12:05.77,0:12:09.30,Default,NTP,0000,0000,0000,!Effect,現在應該過著完全不同的人生了
+Dialogue: Marked=0,0:12:12.74,0:12:14.94,Default,NTP,0000,0000,0000,!Effect,這把刀送給你
+Dialogue: Marked=0,0:12:43.17,0:12:47.84,Default,NTP,0000,0000,0000,!Effect,這世間是弱肉強食
+Dialogue: Marked=0,0:12:47.88,0:12:54.51,Default,NTP,0000,0000,0000,!Effect,強者活 弱者死
+Dialogue: Marked=0,0:13:04.43,0:13:07.23,Default,NTP,0000,0000,0000,!Effect,可是…
+Dialogue: Marked=0,0:13:14.57,0:13:17.51,Default,NTP,0000,0000,0000,!Effect,你們有沒有看到繃帶
+Dialogue: Marked=0,0:13:17.54,0:13:20.44,Default,NTP,0000,0000,0000,!Effect,我沒看到啦
+Dialogue: Marked=0,0:13:20.48,0:13:23.81,Default,NTP,0000,0000,0000,!Effect,奇怪 跑哪去了
+Dialogue: Marked=0,0:13:23.85,0:13:26.34,Default,NTP,0000,0000,0000,!Effect,最近飯鍋的飯常常少一些
+Dialogue: Marked=0,0:13:26.38,0:13:29.41,Default,NTP,0000,0000,0000,!Effect,我猜一定是宗次郎偷吃
+Dialogue: Marked=0,0:13:29.45,0:13:31.22,Default,NTP,0000,0000,0000,!Effect,可是繃帶…
+Dialogue: Marked=0,0:13:31.25,0:13:35.92,Default,NTP,0000,0000,0000,!Effect,大家常揍他 他需要使用嘛
+Dialogue: Marked=0,0:13:35.96,0:13:40.06,Default,NTP,0000,0000,0000,!Effect,可是連備用的份\N也全部不見了呀
+Dialogue: Marked=0,0:13:40.10,0:13:42.79,Default,NTP,0000,0000,0000,!Effect,他怎麼有辦法用那麼多
+Dialogue: Marked=0,0:13:42.83,0:13:46.53,Default,NTP,0000,0000,0000,!Effect,老爸 聽說逃走的叛亂份子
+Dialogue: Marked=0,0:13:46.57,0:13:49.83,Default,NTP,0000,0000,0000,!Effect,全身嚴重灼傷
+Dialogue: Marked=0,0:13:49.87,0:13:52.17,Default,NTP,0000,0000,0000,!Effect,是呀 怎麼了？
+Dialogue: Marked=0,0:13:53.78,0:13:56.01,Default,NTP,0000,0000,0000,!Effect,宗次郎那小子
+Dialogue: Marked=0,0:14:04.85,0:14:09.29,Default,NTP,0000,0000,0000,!Effect,燒傷癢癢的 今晚有場暴風雨了
+Dialogue: Marked=0,0:14:22.04,0:14:24.91,Default,NTP,0000,0000,0000,!Effect,果然…
+Dialogue: Marked=0,0:14:24.94,0:14:29.67,Default,NTP,0000,0000,0000,!Effect,被刀砍到一定非常痛
+Dialogue: Marked=0,0:14:29.71,0:14:32.88,Default,NTP,0000,0000,0000,!Effect,因為 挨揍就這麼痛了
+Dialogue: Marked=0,0:14:32.92,0:14:35.15,Default,NTP,0000,0000,0000,!Effect,用刀的話…
+Dialogue: Marked=0,0:14:40.72,0:14:43.45,Default,NTP,0000,0000,0000,!Effect,不行 還是把刀還給他
+Dialogue: Marked=0,0:14:45.30,0:14:48.75,Default,NTP,0000,0000,0000,!Effect,我不像志志雄那麼強嘛
+Dialogue: Marked=0,0:14:48.80,0:14:51.39,Default,NTP,0000,0000,0000,!Effect,弱小也沒關係\N只要像過去那樣就行了
+Dialogue: Marked=0,0:14:52.54,0:14:55.73,Default,NTP,0000,0000,0000,!Effect,宗次郎 你在哪裏 宗次郎
+Dialogue: Marked=0,0:14:57.07,0:14:59.17,Default,NTP,0000,0000,0000,!Effect,深夜找我做什麼啊
+Dialogue: Marked=0,0:15:03.41,0:15:06.31,Default,NTP,0000,0000,0000,!Effect,宗次郎
+Dialogue: Marked=0,0:15:06.35,0:15:09.88,Default,NTP,0000,0000,0000,!Effect,你這小子居然欺騙我
+Dialogue: Marked=0,0:15:12.19,0:15:14.32,Default,NTP,0000,0000,0000,!Effect,宗次郎 這種局勢下
+Dialogue: Marked=0,0:15:14.36,0:15:16.76,Default,NTP,0000,0000,0000,!Effect,你還敢做出反政府的事
+Dialogue: Marked=0,0:15:16.79,0:15:19.89,Default,NTP,0000,0000,0000,!Effect,臭小子 想害垮我的店嗎
+Dialogue: Marked=0,0:15:19.93,0:15:22.59,Default,NTP,0000,0000,0000,!Effect,你想得美
+Dialogue: Marked=0,0:15:22.63,0:15:25.23,Default,NTP,0000,0000,0000,!Effect,說 叛亂份子在哪裏
+Dialogue: Marked=0,0:15:29.54,0:15:33.10,Default,NTP,0000,0000,0000,!Effect,這個小鬼 不可原諒
+Dialogue: Marked=0,0:15:33.14,0:15:35.08,Default,NTP,0000,0000,0000,!Effect,我要殺你
+Dialogue: Marked=0,0:15:36.65,0:15:41.05,Default,NTP,0000,0000,0000,!Effect,等等 不管怎樣\N殺死他不太好吧
+Dialogue: Marked=0,0:15:41.08,0:15:45.95,Default,NTP,0000,0000,0000,!Effect,放心 沒問題\N兇惡犯人躲在這裏嘛
+Dialogue: Marked=0,0:15:45.99,0:15:50.72,Default,NTP,0000,0000,0000,!Effect,死一個小孩\N沒有人會覺得奇怪的
+Dialogue: Marked=0,0:15:50.76,0:15:53.42,Default,NTP,0000,0000,0000,!Effect,殺完再報警就沒事了
+Dialogue: Marked=0,0:15:53.46,0:15:57.30,Default,NTP,0000,0000,0000,!Effect,說的也是\N我們提供犯人的線索給警方
+Dialogue: Marked=0,0:15:57.33,0:16:00.60,Default,NTP,0000,0000,0000,!Effect,一定會獲得獎賞的
+Dialogue: Marked=0,0:16:00.64,0:16:03.33,Default,NTP,0000,0000,0000,!Effect,我不會讓米店垮掉的
+Dialogue: Marked=0,0:16:03.37,0:16:05.77,Default,NTP,0000,0000,0000,!Effect,居然忘記我們養大你的恩惠
+Dialogue: Marked=0,0:16:05.81,0:16:07.71,Default,NTP,0000,0000,0000,!Effect,給全家製造麻煩
+Dialogue: Marked=0,0:16:07.74,0:16:09.58,Default,NTP,0000,0000,0000,!Effect,大哥  下手
+Dialogue: Marked=0,0:16:09.61,0:16:11.84,Default,NTP,0000,0000,0000,!Effect,好 我要殺死他
+Dialogue: Marked=0,0:16:11.88,0:16:13.91,Default,NTP,0000,0000,0000,!Effect,殺完再報警就沒事了
+Dialogue: Marked=0,0:16:13.95,0:16:16.92,Default,NTP,0000,0000,0000,!Effect,我們一定會獲得獎賞的
+Dialogue: Marked=0,0:16:16.95,0:16:19.85,Default,NTP,0000,0000,0000,!Effect,我不會讓米店垮掉的
+Dialogue: Marked=0,0:16:19.89,0:16:23.42,Default,NTP,0000,0000,0000,!Effect,居然忘記我們養大你的恩惠
+Dialogue: Marked=0,0:16:34.54,0:16:36.94,Default,NTP,0000,0000,0000,!Effect,休想逃  殺死他
+Dialogue: Marked=0,0:16:36.97,0:16:38.91,Default,NTP,0000,0000,0000,!Effect,救命呀
+Dialogue: Marked=0,0:16:38.94,0:16:44.61,Default,NTP,0000,0000,0000,!Effect,來人呀 誰來都好\N來人救救我呀
+Dialogue: Marked=0,0:16:50.09,0:16:51.11,Default,NTP,0000,0000,0000,!Effect,不在
+Dialogue: Marked=0,0:16:51.15,0:16:53.38,Default,NTP,0000,0000,0000,!Effect,可惡 躲哪去了
+Dialogue: Marked=0,0:17:03.37,0:17:06.39,Default,NTP,0000,0000,0000,!Effect,我會被殺死 救命 志志雄
+Dialogue: Marked=0,0:17:06.44,0:17:10.70,Default,NTP,0000,0000,0000,!Effect,找到了 躲進這裏了
+Dialogue: Marked=0,0:17:12.88,0:17:15.47,Default,NTP,0000,0000,0000,!Effect,什麼   那把小刀看起來很昂貴
+Dialogue: Marked=0,0:17:15.51,0:17:17.54,Default,NTP,0000,0000,0000,!Effect,放在米倉裏面的嗎
+Dialogue: Marked=0,0:17:17.58,0:17:19.07,Default,NTP,0000,0000,0000,!Effect,我看看
+Dialogue: Marked=0,0:17:19.12,0:17:22.64,Default,NTP,0000,0000,0000,!Effect,這世間是弱肉強食
+Dialogue: Marked=0,0:17:22.69,0:17:26.31,Default,NTP,0000,0000,0000,!Effect,強者活 弱者…
+Dialogue: Marked=0,0:17:26.36,0:17:28.45,Default,NTP,0000,0000,0000,!Effect,死
+Dialogue: Marked=0,0:17:30.23,0:17:31.96,Default,NTP,0000,0000,0000,!Effect,死了嗎
+Dialogue: Marked=0,0:17:32.00,0:17:34.26,Default,NTP,0000,0000,0000,!Effect,難聽的聲音
+Dialogue: Marked=0,0:17:34.30,0:17:37.20,Default,NTP,0000,0000,0000,!Effect,可見他多沒家教
+Dialogue: Marked=0,0:17:38.84,0:17:40.60,Default,NTP,0000,0000,0000,!Effect,出來了
+Dialogue: Marked=0,0:17:43.74,0:17:45.83,Default,NTP,0000,0000,0000,!Effect,八之助
+Dialogue: Marked=0,0:17:51.68,0:17:57.95,Default,NTP,0000,0000,0000,!Effect,這世間是弱肉強食  強者活
+Dialogue: Marked=0,0:17:57.99,0:17:59.68,Default,NTP,0000,0000,0000,!Effect,這小鬼   該死
+Dialogue: Marked=0,0:17:59.72,0:18:01.69,Default,NTP,0000,0000,0000,!Effect,弱的話…
+Dialogue: Marked=0,0:18:49.71,0:18:51.77,Default,NTP,0000,0000,0000,!Effect,你在哭嗎
+Dialogue: Marked=0,0:19:04.55,0:19:06.42,Default,NTP,0000,0000,0000,!Effect,沒有
+Dialogue: Marked=0,0:19:11.09,0:19:13.09,Default,NTP,0000,0000,0000,!Effect,要跟我走嗎
+Dialogue: Marked=0,0:19:15.30,0:19:16.70,Default,NTP,0000,0000,0000,!Effect,志志雄
+Dialogue: Marked=0,0:19:18.63,0:19:22.16,Default,NTP,0000,0000,0000,!Effect,我可以變強嗎
+Dialogue: Marked=0,0:19:22.21,0:19:24.20,Default,NTP,0000,0000,0000,!Effect,這個嘛…
+Dialogue: Marked=0,0:19:24.24,0:19:28.57,Default,NTP,0000,0000,0000,!Effect,你的話 可以變強   僅次於我
+Dialogue: Marked=0,0:19:37.22,0:19:41.45,Default,NTP,0000,0000,0000,!Effect,這世間是弱肉強食
+Dialogue: Marked=0,0:19:41.49,0:19:45.86,Default,NTP,0000,0000,0000,!Effect,為弱者揮劍是錯的
+Dialogue: Marked=0,0:19:45.90,0:19:49.09,Default,NTP,0000,0000,0000,!Effect,他說的事跟做的事…
+Dialogue: Marked=0,0:19:50.47,0:19:52.66,Default,NTP,0000,0000,0000,!Effect,如果他是錯的話
+Dialogue: Marked=0,0:19:52.70,0:19:55.64,Default,NTP,0000,0000,0000,!Effect,那時候他應該是會保護我
+Dialogue: Marked=0,0:19:55.67,0:19:57.54,Default,NTP,0000,0000,0000,!Effect,宗次郎
+Dialogue: Marked=0,0:19:59.01,0:20:01.84,Default,NTP,0000,0000,0000,!Effect,可是…跟他交手
+Dialogue: Marked=0,0:20:01.88,0:20:04.37,Default,NTP,0000,0000,0000,!Effect,我…會…
+Dialogue: Marked=0,0:20:06.42,0:20:08.25,Default,NTP,0000,0000,0000,!Effect,心裏很煩躁
+Dialogue: Marked=0,0:20:09.72,0:20:11.71,Default,NTP,0000,0000,0000,!Effect,煩躁？
+Dialogue: Marked=0,0:20:11.75,0:20:13.88,Default,NTP,0000,0000,0000,!Effect,臉上還是掛著一樣的笑容
+Dialogue: Marked=0,0:20:13.92,0:20:15.39,Default,NTP,0000,0000,0000,!Effect,但是他心裏…
+Dialogue: Marked=0,0:20:15.43,0:20:19.79,Default,NTP,0000,0000,0000,!Effect,小弟弟  後面還有別的敵人呢
+Dialogue: Marked=0,0:20:19.83,0:20:21.06,Default,NTP,0000,0000,0000,!Effect,這次一定要使用縮地
+Dialogue: Marked=0,0:20:21.10,0:20:22.96,Default,NTP,0000,0000,0000,!Effect,一擊就打倒他
+Dialogue: Marked=0,0:20:23.00,0:20:24.69,Default,NTP,0000,0000,0000,!Effect,一擊斃命
+Dialogue: Marked=0,0:20:24.73,0:20:26.83,Default,NTP,0000,0000,0000,!Effect,我當然那麼打算了
+Dialogue: Marked=0,0:20:26.87,0:20:31.53,Default,NTP,0000,0000,0000,!Effect,以比縮地慢一步的速度
+Dialogue: Marked=0,0:20:31.57,0:20:34.91,Default,NTP,0000,0000,0000,!Effect,慢一步？你到底在說什麼
+Dialogue: Marked=0,0:20:34.94,0:20:38.57,Default,NTP,0000,0000,0000,!Effect,討厭 別又生氣了
+Dialogue: Marked=0,0:20:38.61,0:20:40.10,Default,NTP,0000,0000,0000,!Effect,使用縮地的話
+Dialogue: Marked=0,0:20:40.15,0:20:42.95,Default,NTP,0000,0000,0000,!Effect,我確實有自信能贏緋村
+Dialogue: Marked=0,0:20:42.99,0:20:44.15,Default,NTP,0000,0000,0000,!Effect,可是
+Dialogue: Marked=0,0:20:46.72,0:20:49.59,Default,NTP,0000,0000,0000,!Effect,對他錯誤的劍法使出全力
+Dialogue: Marked=0,0:20:54.03,0:20:55.66,Default,NTP,0000,0000,0000,!Effect,我會更煩躁
+Dialogue: Marked=0,0:20:55.70,0:20:57.56,Default,NTP,0000,0000,0000,!Effect,要來了
+Dialogue: Marked=0,0:20:57.60,0:20:59.86,Default,NTP,0000,0000,0000,!Effect,你沒問題嗎
+Dialogue: Marked=0,0:20:59.90,0:21:03.27,Default,NTP,0000,0000,0000,!Effect,我無法多說什麼 但是
+Dialogue: Marked=0,0:21:04.47,0:21:08.67,Default,NTP,0000,0000,0000,!Effect,不打倒那個青年\N我就無法到志志雄所在之處
+Dialogue: Marked=0,0:21:08.71,0:21:12.01,Default,NTP,0000,0000,0000,!Effect,那當然 也回不去啊薰身邊
+Dialogue: Marked=0,0:21:12.05,0:21:15.48,Default,NTP,0000,0000,0000,!Effect,我必需使出全力\N除此之外別無他法
+Dialogue: Marked=0,0:21:20.49,0:21:22.25,Default,NTP,0000,0000,0000,!Effect,比縮地慢一步的速度
+Dialogue: Marked=0,0:21:22.29,0:21:23.99,Default,NTP,0000,0000,0000,!Effect,要去了
+Dialogue: Marked=0,0:21:25.36,0:21:27.23,Default,NTP,0000,0000,0000,!Effect,是右邊或左邊呢
+Dialogue: Marked=0,0:21:34.90,0:21:39.60,Default,NTP,0000,0000,0000,!Effect,這不只是橫向的\N而是全方位的空間攻擊
+Dialogue: Marked=0,0:21:39.64,0:21:42.41,Default,NTP,0000,0000,0000,!Effect,糟了 這下子無處可逃了
+Dialogue: Marked=0,0:21:42.45,0:21:45.14,Default,NTP,0000,0000,0000,!Effect,世間是弱肉強食
+Dialogue: Marked=0,0:21:45.18,0:21:47.71,Default,NTP,0000,0000,0000,!Effect,強者生 弱者…
+Dialogue: Marked=0,0:21:53.02,0:21:57.55,Default,NTP,0000,0000,0000,!Effect,不殺人 保護弱者\N你說的話是錯的
+Dialogue: Marked=0,0:22:04.13,0:22:10.50,Default,NTP,0000,0000,0000,!Effect,那時候你並沒有保護我
+Dialogue: Marked=0,0:22:12.54,0:22:16.64,Default,NTP,0000,0000,0000,!Effect,如果你是正確的…
+Dialogue: Marked=0,0:22:16.68,0:22:19.77,Default,NTP,0000,0000,0000,!Effect,為什麼沒有保護我
+Dialogue: Marked=0,0:22:21.08,0:22:24.05,Default,NTP,0000,0000,0000,!Effect,那時候我沒保護你？
+Dialogue: Marked=0,0:22:26.89,0:22:28.91,Default,NTP,0000,0000,0000,!Effect,宗次郎
+Dialogue: Marked=0,0:22:28.96,0:22:30.52,Default,NTP,0000,0000,0000,!Effect,那時候…
+Dialogue: Marked=0,0:22:30.56,0:22:32.79,Default,NTP,0000,0000,0000,!Effect,沒有任何人救我
+Dialogue: Marked=0,0:22:32.83,0:22:34.35,Default,NTP,0000,0000,0000,!Effect,宗次郎
+Dialogue: Marked=0,0:22:36.20,0:22:38.96,Default,NTP,0000,0000,0000,!Effect,沒有保護我
+Dialogue: Marked=0,0:22:41.87,0:22:43.84,Default,NTP,0000,0000,0000,!Effect,宗次郎
+

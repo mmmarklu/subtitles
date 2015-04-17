@@ -1,0 +1,240 @@
+[Script Info]
+;本字幕檔案用 SrtEdit MPC播放版 Version 5.2 編輯製作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁衛國
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 400
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,simhei,22,&HFFFFEF,&H00FFFF,&HA44A40,&HA44A40,-1,0,1,2,1,2,30,30,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:01:59.14,0:01:59.76,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:02:10.88,0:02:11.75,Default,NTP,0000,0000,0000,!Effect,看上面
+Dialogue: Marked=0,0:02:15.72,0:02:16.65,Default,NTP,0000,0000,0000,!Effect,別過來
+Dialogue: Marked=0,0:02:17.19,0:02:18.38,Default,NTP,0000,0000,0000,!Effect,可惡
+Dialogue: Marked=0,0:02:55.59,0:03:00.53,Default,NTP,0000,0000,0000,!Effect,第八十七話\N修奈特的賭注  黑騎士團的崩潰
+Dialogue: Marked=0,0:03:05.74,0:03:08.30,Default,NTP,0000,0000,0000,!Effect,我們真田三人眾是無敵的
+Dialogue: Marked=0,0:03:08.34,0:03:10.60,Default,NTP,0000,0000,0000,!Effect,這裏將成為你們的葬身之地
+Dialogue: Marked=0,0:03:12.28,0:03:13.07,Default,NTP,0000,0000,0000,!Effect,覺悟吧
+Dialogue: Marked=0,0:03:13.51,0:03:15.24,Default,NTP,0000,0000,0000,!Effect,你少說大話了
+Dialogue: Marked=0,0:03:15.28,0:03:17.61,Default,NTP,0000,0000,0000,!Effect,劍心組才不會輸給你們
+Dialogue: Marked=0,0:03:17.65,0:03:22.99,Default,NTP,0000,0000,0000,!Effect,喂 輸贏現在才開始呢\N過來啊
+Dialogue: Marked=0,0:03:31.03,0:03:32.26,Default,NTP,0000,0000,0000,!Effect,左之助是怎麼了
+Dialogue: Marked=0,0:03:32.30,0:03:35.86,Default,NTP,0000,0000,0000,!Effect,敵人用那種武器\N使他沒辦法近身
+Dialogue: Marked=0,0:03:35.90,0:03:37.87,Default,NTP,0000,0000,0000,!Effect,而且右手不能用
+Dialogue: Marked=0,0:03:37.90,0:03:39.06,Default,NTP,0000,0000,0000,!Effect,也使不出二重極
+Dialogue: Marked=0,0:03:40.64,0:03:42.13,Default,NTP,0000,0000,0000,!Effect,看來會成為持久戰了
+Dialogue: Marked=0,0:04:06.60,0:04:09.09,Default,NTP,0000,0000,0000,!Effect,他…發出奇怪聲音了
+Dialogue: Marked=0,0:04:09.94,0:04:16.14,Default,NTP,0000,0000,0000,!Effect,暗使者「漠」\N可以跟自己飼養的蝙蝠講話
+Dialogue: Marked=0,0:04:16.18,0:04:17.64,Default,NTP,0000,0000,0000,!Effect,跟蝙蝠講話？
+Dialogue: Marked=0,0:04:17.68,0:04:18.77,Default,NTP,0000,0000,0000,!Effect,不可能！
+Dialogue: Marked=0,0:04:24.32,0:04:25.21,Default,NTP,0000,0000,0000,!Effect,我知道了
+Dialogue: Marked=0,0:04:25.25,0:04:26.98,Default,NTP,0000,0000,0000,!Effect,怎麼了 由太郎
+Dialogue: Marked=0,0:04:27.02,0:04:30.96,Default,NTP,0000,0000,0000,!Effect,蝙蝠會發出一般人\N聽不到的特殊聲音
+Dialogue: Marked=0,0:04:30.99,0:04:34.62,Default,NTP,0000,0000,0000,!Effect,他可能是利用這點跟蝙蝠講話
+Dialogue: Marked=0,0:04:37.03,0:04:38.36,Default,NTP,0000,0000,0000,!Effect,有可能
+Dialogue: Marked=0,0:04:38.40,0:04:41.49,Default,NTP,0000,0000,0000,!Effect,如同我們\N御庭番眾使用傳信鴿一樣
+Dialogue: Marked=0,0:04:41.53,0:04:44.59,Default,NTP,0000,0000,0000,!Effect,他利用蝙蝠當通訊手段
+Dialogue: Marked=0,0:04:44.64,0:04:45.87,Default,NTP,0000,0000,0000,!Effect,沒錯
+Dialogue: Marked=0,0:04:46.31,0:04:48.64,Default,NTP,0000,0000,0000,!Effect,但是\N他的力量不光是那個而已
+Dialogue: Marked=0,0:05:02.89,0:05:04.25,Default,NTP,0000,0000,0000,!Effect,剛才那是什麼
+Dialogue: Marked=0,0:05:24.64,0:05:25.34,Default,NTP,0000,0000,0000,!Effect,劍心！
+Dialogue: Marked=0,0:05:34.55,0:05:36.99,Default,NTP,0000,0000,0000,!Effect,那到底是…是幻術嗎
+Dialogue: Marked=0,0:05:40.69,0:05:41.46,Default,NTP,0000,0000,0000,!Effect,緋村
+Dialogue: Marked=0,0:05:43.40,0:05:44.02,Default,NTP,0000,0000,0000,!Effect,煉
+Dialogue: Marked=0,0:05:46.50,0:05:49.19,Default,NTP,0000,0000,0000,!Effect,我不會再讓你錯下去的
+Dialogue: Marked=0,0:05:50.37,0:05:51.34,Default,NTP,0000,0000,0000,!Effect,戒太
+Dialogue: Marked=0,0:05:51.37,0:05:52.96,Default,NTP,0000,0000,0000,!Effect,太勉強了 你受傷了…
+Dialogue: Marked=0,0:05:53.67,0:05:56.97,Default,NTP,0000,0000,0000,!Effect,戒太 為什麼反抗頭目
+Dialogue: Marked=0,0:05:57.01,0:05:58.14,Default,NTP,0000,0000,0000,!Effect,你不認為現在這時刻正是
+Dialogue: Marked=0,0:05:58.18,0:06:03.77,Default,NTP,0000,0000,0000,!Effect,我們真田忍者群\N站上光明舞台的最好機會嗎
+Dialogue: Marked=0,0:06:05.18,0:06:09.62,Default,NTP,0000,0000,0000,!Effect,守護神聖的靈藥是我們的使命
+Dialogue: Marked=0,0:06:09.66,0:06:12.68,Default,NTP,0000,0000,0000,!Effect,也是真田忍者群的榮耀
+Dialogue: Marked=0,0:06:12.73,0:06:14.72,Default,NTP,0000,0000,0000,!Effect,而…
+Dialogue: Marked=0,0:06:14.76,0:06:20.46,Default,NTP,0000,0000,0000,!Effect,而把靈藥賣給黑騎士團\N站上光明舞台又怎樣呢
+Dialogue: Marked=0,0:06:20.50,0:06:22.52,Default,NTP,0000,0000,0000,!Effect,頭目她錯了
+Dialogue: Marked=0,0:06:22.57,0:06:28.30,Default,NTP,0000,0000,0000,!Effect,對 你知道讓黑騎士團得到\N神聖的靈藥會有什麼後果嗎
+Dialogue: Marked=0,0:06:28.34,0:06:32.40,Default,NTP,0000,0000,0000,!Effect,全世界會被那些人統治哦
+Dialogue: Marked=0,0:06:33.25,0:06:34.97,Default,NTP,0000,0000,0000,!Effect,這也不錯啊
+Dialogue: Marked=0,0:06:35.01,0:06:36.28,Default,NTP,0000,0000,0000,!Effect,你說什麼
+Dialogue: Marked=0,0:06:36.95,0:06:41.51,Default,NTP,0000,0000,0000,!Effect,爭論正義或邪惡是沒意義的
+Dialogue: Marked=0,0:06:41.55,0:06:45.42,Default,NTP,0000,0000,0000,!Effect,就算是邪惡\N只要打贏就可以成為正義
+Dialogue: Marked=0,0:06:45.46,0:06:47.98,Default,NTP,0000,0000,0000,!Effect,這是世間的法則
+Dialogue: Marked=0,0:06:48.03,0:06:52.86,Default,NTP,0000,0000,0000,!Effect,從太古持續至今的歷史\N不是證明這一點了嗎
+Dialogue: Marked=0,0:06:52.90,0:06:54.16,Default,NTP,0000,0000,0000,!Effect,不對！
+Dialogue: Marked=0,0:06:54.20,0:06:56.69,Default,NTP,0000,0000,0000,!Effect,現在我們能活著
+Dialogue: Marked=0,0:06:56.74,0:07:00.67,Default,NTP,0000,0000,0000,!Effect,是因為有一群相信正義\N為正義奮鬥的人
+Dialogue: Marked=0,0:07:00.71,0:07:04.67,Default,NTP,0000,0000,0000,!Effect,如果世界是壞人猖獗的話\N人類早就滅亡了
+Dialogue: Marked=0,0:07:05.54,0:07:07.74,Default,NTP,0000,0000,0000,!Effect,有意思
+Dialogue: Marked=0,0:07:07.78,0:07:12.11,Default,NTP,0000,0000,0000,!Effect,如果你們是正義的話\N那就證明這一點啊
+Dialogue: Marked=0,0:07:12.15,0:07:17.11,Default,NTP,0000,0000,0000,!Effect,只是此時能證明的方法\N只有一個
+Dialogue: Marked=0,0:07:17.16,0:07:20.35,Default,NTP,0000,0000,0000,!Effect,那就是打倒我們真田三人眾
+Dialogue: Marked=0,0:07:20.39,0:07:23.59,Default,NTP,0000,0000,0000,!Effect,不然的話 你們說的全是廢話
+Dialogue: Marked=0,0:07:23.80,0:07:24.85,Default,NTP,0000,0000,0000,!Effect,住口
+Dialogue: Marked=0,0:07:29.60,0:07:30.40,Default,NTP,0000,0000,0000,!Effect,戒太
+Dialogue: Marked=0,0:07:36.28,0:07:37.00,Default,NTP,0000,0000,0000,!Effect,由太郎
+Dialogue: Marked=0,0:07:37.04,0:07:39.31,Default,NTP,0000,0000,0000,!Effect,別這樣 你會被打中的
+Dialogue: Marked=0,0:07:41.18,0:07:42.17,Default,NTP,0000,0000,0000,!Effect,你別妨礙我
+Dialogue: Marked=0,0:07:42.21,0:07:44.15,Default,NTP,0000,0000,0000,!Effect,你說什麼 我是幫助你耶
+Dialogue: Marked=0,0:07:44.18,0:07:45.31,Default,NTP,0000,0000,0000,!Effect,那個我自己會躲啦
+Dialogue: Marked=0,0:07:45.35,0:07:46.28,Default,NTP,0000,0000,0000,!Effect,你說謊
+Dialogue: Marked=0,0:07:48.52,0:07:51.58,Default,NTP,0000,0000,0000,!Effect,你們兩個\N現在不是吵架的時候
+Dialogue: Marked=0,0:07:51.62,0:07:52.95,Default,NTP,0000,0000,0000,!Effect,快趁現在救戒太呀！
+Dialogue: Marked=0,0:08:06.67,0:08:10.40,Default,NTP,0000,0000,0000,!Effect,不妙 雙手沒力氣了
+Dialogue: Marked=0,0:08:19.12,0:08:20.21,Default,NTP,0000,0000,0000,!Effect,我當你的對手
+Dialogue: Marked=0,0:08:35.80,0:08:37.77,Default,NTP,0000,0000,0000,!Effect,手肘的二重極
+Dialogue: Marked=0,0:08:38.74,0:08:43.04,Default,NTP,0000,0000,0000,!Effect,威力沒拳頭的大\N可是還是有點效用
+Dialogue: Marked=0,0:08:44.88,0:08:45.74,Default,NTP,0000,0000,0000,!Effect,左之助
+Dialogue: Marked=0,0:08:47.35,0:08:48.61,Default,NTP,0000,0000,0000,!Effect,戒太 振作點
+Dialogue: Marked=0,0:08:48.65,0:08:49.51,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:08:51.05,0:08:55.32,Default,NTP,0000,0000,0000,!Effect,斬人拔刀齊的人頭\N我大蛇「煉」拿走了
+Dialogue: Marked=0,0:08:56.12,0:09:02.42,Default,NTP,0000,0000,0000,!Effect,我的對手不是你\N真正的敵人在別處
+Dialogue: Marked=0,0:09:02.90,0:09:07.89,Default,NTP,0000,0000,0000,!Effect,你都這樣子了還敢說\N要說就等破解我們忍術再說
+Dialogue: Marked=0,0:09:07.93,0:09:09.30,Default,NTP,0000,0000,0000,!Effect,我們忍術？
+Dialogue: Marked=0,0:09:10.10,0:09:10.86,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:09:12.00,0:09:14.56,Default,NTP,0000,0000,0000,!Effect,緋村…蝙蝠…
+Dialogue: Marked=0,0:09:26.99,0:09:27.97,Default,NTP,0000,0000,0000,!Effect,去死
+Dialogue: Marked=0,0:09:37.20,0:09:38.75,Default,NTP,0000,0000,0000,!Effect,什麼 怎麼搞的
+Dialogue: Marked=0,0:09:58.72,0:09:59.51,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:10:00.75,0:10:04.45,Default,NTP,0000,0000,0000,!Effect,蝙蝠發出的特殊音波\N影響到我們的五感
+Dialogue: Marked=0,0:10:04.49,0:10:07.02,Default,NTP,0000,0000,0000,!Effect,使我們動作總是慢一步
+Dialogue: Marked=0,0:10:07.06,0:10:11.76,Default,NTP,0000,0000,0000,!Effect,竟然想出這種方法利用蝙蝠\N真田忍者群挺厲害的
+Dialogue: Marked=0,0:10:12.36,0:10:15.82,Default,NTP,0000,0000,0000,!Effect,若不是戒太那句話\N我還很難破解這一招呢
+Dialogue: Marked=0,0:10:16.64,0:10:17.93,Default,NTP,0000,0000,0000,!Effect,太感謝你了
+Dialogue: Marked=0,0:10:20.27,0:10:23.30,Default,NTP,0000,0000,0000,!Effect,怎樣都行\N問題是傷口又增加了
+Dialogue: Marked=0,0:10:23.34,0:10:25.24,Default,NTP,0000,0000,0000,!Effect,這樣我怎麼治療都治不完
+Dialogue: Marked=0,0:10:25.28,0:10:26.37,Default,NTP,0000,0000,0000,!Effect,對不起
+Dialogue: Marked=0,0:10:26.41,0:10:29.01,Default,NTP,0000,0000,0000,!Effect,真田忍者很怕醫生哦
+Dialogue: Marked=0,0:10:33.39,0:10:35.48,Default,NTP,0000,0000,0000,!Effect,這邊好像也收拾好了
+Dialogue: Marked=0,0:10:35.52,0:10:36.89,Default,NTP,0000,0000,0000,!Effect,你沒事吧 左之助
+Dialogue: Marked=0,0:10:36.92,0:10:38.48,Default,NTP,0000,0000,0000,!Effect,還好
+Dialogue: Marked=0,0:10:38.52,0:10:41.05,Default,NTP,0000,0000,0000,!Effect,讓由太郎為你治療吧
+Dialogue: Marked=0,0:10:41.09,0:10:43.49,Default,NTP,0000,0000,0000,!Effect,倒是 以後怎麼辦
+Dialogue: Marked=0,0:10:43.53,0:10:47.86,Default,NTP,0000,0000,0000,!Effect,想追上黑騎士團\N卻不知道他們在哪裏
+Dialogue: Marked=0,0:10:48.63,0:10:52.70,Default,NTP,0000,0000,0000,!Effect,逼問這三個人\N估計他們也不會說
+Dialogue: Marked=0,0:10:52.74,0:10:54.21,Default,NTP,0000,0000,0000,!Effect,這個你們放心
+Dialogue: Marked=0,0:10:59.91,0:11:03.91,Default,NTP,0000,0000,0000,!Effect,我記得\N那些蝙蝠是用來通訊的
+Dialogue: Marked=0,0:11:03.95,0:11:04.64,Default,NTP,0000,0000,0000,!Effect,這麼說…
+Dialogue: Marked=0,0:11:04.68,0:11:06.08,Default,NTP,0000,0000,0000,!Effect,沒錯
+Dialogue: Marked=0,0:11:20.30,0:11:21.23,Default,NTP,0000,0000,0000,!Effect,梅爾達斯中尉
+Dialogue: Marked=0,0:11:24.80,0:11:27.10,Default,NTP,0000,0000,0000,!Effect,這是…
+Dialogue: Marked=0,0:11:34.31,0:11:37.48,Default,NTP,0000,0000,0000,!Effect,多美麗的花園啊
+Dialogue: Marked=0,0:11:39.35,0:11:43.22,Default,NTP,0000,0000,0000,!Effect,好像小時候夢中描繪的伊甸園
+Dialogue: Marked=0,0:11:45.49,0:11:49.55,Default,NTP,0000,0000,0000,!Effect,而且還是在陽光照射不到\N生長在地底的地方
+Dialogue: Marked=0,0:11:49.60,0:11:52.29,Default,NTP,0000,0000,0000,!Effect,多麼璀璨的美麗…
+Dialogue: Marked=0,0:11:53.63,0:11:57.40,Default,NTP,0000,0000,0000,!Effect,這正是\N擁用永遠的生命力的證據
+Dialogue: Marked=0,0:12:03.31,0:12:06.37,Default,NTP,0000,0000,0000,!Effect,我終於找到神聖的靈藥了
+Dialogue: Marked=0,0:12:36.78,0:12:39.47,Default,NTP,0000,0000,0000,!Effect,立刻把這些花帶回祖國
+Dialogue: Marked=0,0:12:39.51,0:12:42.38,Default,NTP,0000,0000,0000,!Effect,讓黑騎士團的醫師們分析…
+Dialogue: Marked=0,0:12:44.35,0:12:51.81,Default,NTP,0000,0000,0000,!Effect,完成顛覆過去醫學史的\N特效藥是遲早的事
+Dialogue: Marked=0,0:12:51.86,0:12:59.26,Default,NTP,0000,0000,0000,!Effect,然後我們黑騎士團就可得到\N征服世界的龐大資金了
+Dialogue: Marked=0,0:13:00.47,0:13:05.40,Default,NTP,0000,0000,0000,!Effect,在幾年內築起\N以黑騎士團為典範的新世界
+Dialogue: Marked=0,0:13:06.41,0:13:11.14,Default,NTP,0000,0000,0000,!Effect,我想早點把這個喜訊\N通知麥斯特
+Dialogue: Marked=0,0:13:17.52,0:13:20.92,Default,NTP,0000,0000,0000,!Effect,梅爾達斯中尉\N你應該沒有忘記吧
+Dialogue: Marked=0,0:13:22.05,0:13:25.68,Default,NTP,0000,0000,0000,!Effect,以神聖的靈藥為條件
+Dialogue: Marked=0,0:13:25.72,0:13:29.99,Default,NTP,0000,0000,0000,!Effect,讓我們真田忍者群\N統治日本的那個約定
+Dialogue: Marked=0,0:13:40.61,0:13:45.74,Default,NTP,0000,0000,0000,!Effect,御沙薙 謝謝過去你的協助
+Dialogue: Marked=0,0:13:45.78,0:13:50.15,Default,NTP,0000,0000,0000,!Effect,但是 你們的使命已經結束了
+Dialogue: Marked=0,0:13:56.89,0:13:58.82,Default,NTP,0000,0000,0000,!Effect,這是什麼意思
+Dialogue: Marked=0,0:14:06.90,0:14:07.83,Default,NTP,0000,0000,0000,!Effect,梅爾達斯中尉
+Dialogue: Marked=0,0:14:08.40,0:14:10.96,Default,NTP,0000,0000,0000,!Effect,我們跟御沙薙的約定\N您想爽約嗎
+Dialogue: Marked=0,0:14:12.10,0:14:17.51,Default,NTP,0000,0000,0000,!Effect,修奈特\N約定是地位相同的人在講的
+Dialogue: Marked=0,0:14:17.54,0:14:18.80,Default,NTP,0000,0000,0000,!Effect,這個世界的統治者是
+Dialogue: Marked=0,0:14:18.84,0:14:23.71,Default,NTP,0000,0000,0000,!Effect,以麥斯特為首的我們\N黑騎士團
+Dialogue: Marked=0,0:14:23.75,0:14:26.78,Default,NTP,0000,0000,0000,!Effect,對這些傢伙不必濫施同情
+Dialogue: Marked=0,0:14:26.82,0:14:30.55,Default,NTP,0000,0000,0000,!Effect,您從一開始就打算\N背叛御沙薙了嗎
+Dialogue: Marked=0,0:14:31.09,0:14:35.49,Default,NTP,0000,0000,0000,!Effect,那是為了達到目的\N採取的正當手段
+Dialogue: Marked=0,0:14:35.53,0:14:38.59,Default,NTP,0000,0000,0000,!Effect,被騙的人是傻瓜
+Dialogue: Marked=0,0:14:38.63,0:14:40.33,Default,NTP,0000,0000,0000,!Effect,你要好好記住這點
+Dialogue: Marked=0,0:14:40.37,0:14:41.35,Default,NTP,0000,0000,0000,!Effect,怎麼這樣…
+Dialogue: Marked=0,0:14:49.81,0:14:51.80,Default,NTP,0000,0000,0000,!Effect,跟那些武士一樣
+Dialogue: Marked=0,0:14:51.84,0:14:53.97,Default,NTP,0000,0000,0000,!Effect,你們真田忍者群
+Dialogue: Marked=0,0:14:54.01,0:14:58.51,Default,NTP,0000,0000,0000,!Effect,只是我們\N黑騎士團的帶路人罷了
+Dialogue: Marked=0,0:15:21.41,0:15:24.31,Default,NTP,0000,0000,0000,!Effect,你太看扁我們真田忍者了
+Dialogue: Marked=0,0:15:24.78,0:15:26.24,Default,NTP,0000,0000,0000,!Effect,少自大了…
+Dialogue: Marked=0,0:15:30.62,0:15:35.08,Default,NTP,0000,0000,0000,!Effect,怎麼啦 再動的話\N你的傷口會越來越大的
+Dialogue: Marked=0,0:15:35.12,0:15:36.21,Default,NTP,0000,0000,0000,!Effect,這張臉…
+Dialogue: Marked=0,0:15:37.86,0:15:40.22,Default,NTP,0000,0000,0000,!Effect,我會把你劈成兩半的
+Dialogue: Marked=0,0:16:13.53,0:16:15.19,Default,NTP,0000,0000,0000,!Effect,修、修奈特…
+Dialogue: Marked=0,0:16:23.37,0:16:24.84,Default,NTP,0000,0000,0000,!Effect,你到底在做什麼
+Dialogue: Marked=0,0:16:25.40,0:16:26.39,Default,NTP,0000,0000,0000,!Effect,梅爾達斯中尉
+Dialogue: Marked=0,0:16:26.67,0:16:28.66,Default,NTP,0000,0000,0000,!Effect,不只是劍術
+Dialogue: Marked=0,0:16:28.71,0:16:34.01,Default,NTP,0000,0000,0000,!Effect,我在各方面都視您為老師\N尊敬您 可是…
+Dialogue: Marked=0,0:16:34.51,0:16:38.47,Default,NTP,0000,0000,0000,!Effect,你不聽我的命令嗎 修奈特
+Dialogue: Marked=0,0:16:38.52,0:16:43.22,Default,NTP,0000,0000,0000,!Effect,不 我只是想讓您\N別再做出卑鄙的行為
+Dialogue: Marked=0,0:16:43.82,0:16:46.72,Default,NTP,0000,0000,0000,!Effect,你忘記最重要的一點
+Dialogue: Marked=0,0:16:46.76,0:16:49.92,Default,NTP,0000,0000,0000,!Effect,我們不單純是軍人或劍客
+Dialogue: Marked=0,0:16:49.96,0:16:55.13,Default,NTP,0000,0000,0000,!Effect,我們是對麥斯特誓忠的\N高貴的黑騎士團的一員
+Dialogue: Marked=0,0:16:56.84,0:16:59.27,Default,NTP,0000,0000,0000,!Effect,別胡思亂想了
+Dialogue: Marked=0,0:16:59.30,0:17:03.43,Default,NTP,0000,0000,0000,!Effect,對我們而言\N黑騎士團君臨的新世界
+Dialogue: Marked=0,0:17:03.48,0:17:05.60,Default,NTP,0000,0000,0000,!Effect,才是唯一絕對的目的
+Dialogue: Marked=0,0:17:07.01,0:17:09.91,Default,NTP,0000,0000,0000,!Effect,為此 無論做什麼\N都可以被允許嗎
+Dialogue: Marked=0,0:17:14.09,0:17:16.85,Default,NTP,0000,0000,0000,!Effect,讓開吧 修奈特
+Dialogue: Marked=0,0:17:44.15,0:17:46.64,Default,NTP,0000,0000,0000,!Effect,修奈特 中尉是認真的
+Dialogue: Marked=0,0:17:46.69,0:17:48.74,Default,NTP,0000,0000,0000,!Effect,你想為那個女人丟掉生命嗎
+Dialogue: Marked=0,0:17:49.35,0:17:51.35,Default,NTP,0000,0000,0000,!Effect,你再考慮一下呀 少尉
+Dialogue: Marked=0,0:17:51.99,0:17:52.89,Default,NTP,0000,0000,0000,!Effect,修奈特
+Dialogue: Marked=0,0:18:09.27,0:18:12.18,Default,NTP,0000,0000,0000,!Effect,修奈特…\N如果你是同情與憐憫的話
+Dialogue: Marked=0,0:18:12.21,0:18:12.70,Default,NTP,0000,0000,0000,!Effect,我…
+Dialogue: Marked=0,0:18:12.74,0:18:14.04,Default,NTP,0000,0000,0000,!Effect,這是騎士道
+Dialogue: Marked=0,0:18:15.75,0:18:19.41,Default,NTP,0000,0000,0000,!Effect,梅爾達斯中尉的第一波攻擊\N我一定會擋下來
+Dialogue: Marked=0,0:18:21.09,0:18:25.18,Default,NTP,0000,0000,0000,!Effect,你趁那機會快逃\N以後我就無法保證了
+Dialogue: Marked=0,0:18:25.22,0:18:25.92,Default,NTP,0000,0000,0000,!Effect,可是
+Dialogue: Marked=0,0:18:25.96,0:18:26.95,Default,NTP,0000,0000,0000,!Effect,過來了
+Dialogue: Marked=0,0:18:39.17,0:18:44.61,Default,NTP,0000,0000,0000,!Effect,你的劍術 格鬥術\N全是我教你的
+Dialogue: Marked=0,0:18:44.64,0:18:48.98,Default,NTP,0000,0000,0000,!Effect,你以為你贏得了我嗎\N修奈特
+Dialogue: Marked=0,0:18:50.28,0:18:57.38,Default,NTP,0000,0000,0000,!Effect,過去我只把劍當成殺人道具\N為黑騎士團而揮劍
+Dialogue: Marked=0,0:18:57.42,0:18:59.25,Default,NTP,0000,0000,0000,!Effect,可是 那時候
+Dialogue: Marked=0,0:18:59.29,0:19:01.35,Default,NTP,0000,0000,0000,!Effect,我頭一次知道
+Dialogue: Marked=0,0:19:01.39,0:19:05.23,Default,NTP,0000,0000,0000,!Effect,除了您教我的劍術之外\N世上還有別的劍
+Dialogue: Marked=0,0:19:07.03,0:19:10.16,Default,NTP,0000,0000,0000,!Effect,那個武士的劍\N一點陰影也沒有
+Dialogue: Marked=0,0:19:10.20,0:19:11.57,Default,NTP,0000,0000,0000,!Effect,清澈透明
+Dialogue: Marked=0,0:19:12.64,0:19:17.04,Default,NTP,0000,0000,0000,!Effect,那才是究極的真正的實力
+Dialogue: Marked=0,0:19:26.32,0:19:30.52,Default,NTP,0000,0000,0000,!Effect,從那之後\N那影像一直無法離開我腦海
+Dialogue: Marked=0,0:19:31.69,0:19:36.72,Default,NTP,0000,0000,0000,!Effect,劍絕不光是殺人武器
+Dialogue: Marked=0,0:19:36.76,0:19:42.32,Default,NTP,0000,0000,0000,!Effect,應該還有把自我提升到極限\N保護人的劍
+Dialogue: Marked=0,0:19:42.97,0:19:47.27,Default,NTP,0000,0000,0000,!Effect,那只是毫無用處的\N仁義道德罷了
+Dialogue: Marked=0,0:19:47.31,0:19:48.86,Default,NTP,0000,0000,0000,!Effect,真是這樣嗎
+Dialogue: Marked=0,0:19:49.41,0:19:54.78,Default,NTP,0000,0000,0000,!Effect,不管怎樣 現在我\N反而想要相信你所說的
+Dialogue: Marked=0,0:19:54.81,0:19:56.30,Default,NTP,0000,0000,0000,!Effect,那毫無用處的仁義道德了
+Dialogue: Marked=0,0:19:57.02,0:19:58.35,Default,NTP,0000,0000,0000,!Effect,梅爾達斯中尉
+Dialogue: Marked=0,0:20:05.32,0:20:06.62,Default,NTP,0000,0000,0000,!Effect,這個笨蛋
+Dialogue: Marked=0,0:20:30.12,0:20:33.92,Default,NTP,0000,0000,0000,!Effect,修奈特少尉\N我以黑騎士團之名
+Dialogue: Marked=0,0:20:33.95,0:20:36.58,Default,NTP,0000,0000,0000,!Effect,將要處死你這個叛徒
+Dialogue: Marked=0,0:20:45.60,0:20:46.36,Default,NTP,0000,0000,0000,!Effect,那是…
+Dialogue: Marked=0,0:20:50.60,0:20:52.83,Default,NTP,0000,0000,0000,!Effect,成功了 終於找到了
+Dialogue: Marked=0,0:20:52.87,0:20:55.60,Default,NTP,0000,0000,0000,!Effect,那一定是神聖的靈藥
+Dialogue: Marked=0,0:20:57.14,0:20:58.58,Default,NTP,0000,0000,0000,!Effect,劍心 你看
+Dialogue: Marked=0,0:21:01.85,0:21:04.82,Default,NTP,0000,0000,0000,!Effect,這是怎麼回事\N黑騎士團的人…
+Dialogue: Marked=0,0:21:04.85,0:21:05.98,Default,NTP,0000,0000,0000,!Effect,起內哄了嗎
+Dialogue: Marked=0,0:21:07.65,0:21:11.02,Default,NTP,0000,0000,0000,!Effect,看來得先收拾那些傢伙了
+Dialogue: Marked=0,0:21:16.53,0:21:18.26,Default,NTP,0000,0000,0000,!Effect,頭目 頭目
+Dialogue: Marked=0,0:21:18.30,0:21:20.32,Default,NTP,0000,0000,0000,!Effect,戒太 你還活著…
+Dialogue: Marked=0,0:21:21.37,0:21:25.77,Default,NTP,0000,0000,0000,!Effect,你說的沒錯\N我被黑騎士團背叛了
+Dialogue: Marked=0,0:21:26.40,0:21:29.00,Default,NTP,0000,0000,0000,!Effect,可是修奈特卻想救我…
+Dialogue: Marked=0,0:21:30.78,0:21:32.04,Default,NTP,0000,0000,0000,!Effect,修奈特是…
+Dialogue: Marked=0,0:21:32.08,0:21:34.04,Default,NTP,0000,0000,0000,!Effect,應該是那位青年
+Dialogue: Marked=0,0:21:36.95,0:21:39.54,Default,NTP,0000,0000,0000,!Effect,可惡的黑騎士團\N竟然殺傷漢斯博士
+Dialogue: Marked=0,0:21:39.58,0:21:43.21,Default,NTP,0000,0000,0000,!Effect,來吧 我要替漢斯博士報仇
+Dialogue: Marked=0,0:21:44.12,0:21:48.58,Default,NTP,0000,0000,0000,!Effect,別得寸進尺了 這次的敵人\N可不是你們小鬼能對付的
+Dialogue: Marked=0,0:21:50.16,0:21:51.89,Default,NTP,0000,0000,0000,!Effect,梅爾達斯…
+Dialogue: Marked=0,0:21:51.93,0:21:53.86,Default,NTP,0000,0000,0000,!Effect,黑騎士團的目的
+Dialogue: Marked=0,0:21:53.90,0:21:57.27,Default,NTP,0000,0000,0000,!Effect,我們已經\N從漢斯博士的筆記中知道了
+Dialogue: Marked=0,0:21:57.30,0:22:02.00,Default,NTP,0000,0000,0000,!Effect,所以神聖的靈藥\N絕不能交到你們手中
+

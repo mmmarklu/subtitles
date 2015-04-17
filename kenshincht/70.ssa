@@ -1,0 +1,207 @@
+[Script Info]
+;本字幕檔案用 SrtEdit MPC播放版 Version 5.2 編輯製作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁衛國
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 400
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,simhei,22,&HFFFFEF,&H00FFFF,&HA44A40,&HA44A40,-1,0,1,2,1,2,30,30,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:01:45.10,0:01:47.26,Default,NTP,0000,0000,0000,!Effect,你是我們的敵人
+Dialogue: Marked=0,0:01:47.30,0:01:49.70,Default,NTP,0000,0000,0000,!Effect,放你活著回去\N我們會被全部殺死
+Dialogue: Marked=0,0:01:50.40,0:01:51.42,Default,NTP,0000,0000,0000,!Effect,全部殺死？
+Dialogue: Marked=0,0:01:52.30,0:01:54.40,Default,NTP,0000,0000,0000,!Effect,下地獄去吧
+Dialogue: Marked=0,0:02:08.52,0:02:10.92,Default,NTP,0000,0000,0000,!Effect,我向神聖之名起誓
+Dialogue: Marked=0,0:02:10.95,0:02:15.15,Default,NTP,0000,0000,0000,!Effect,緋村劍心 我要燃盡你的生命
+Dialogue: Marked=0,0:02:15.19,0:02:17.25,Default,NTP,0000,0000,0000,!Effect,今夜將你獻上上祭壇
+Dialogue: Marked=0,0:02:31.31,0:02:32.10,Default,NTP,0000,0000,0000,!Effect,好厲害
+Dialogue: Marked=0,0:02:41.82,0:02:46.62,Default,NTP,0000,0000,0000,!Effect,第七十話\N雷龍閃的衝擊\N劍心被埋藏在黑暗中
+Dialogue: Marked=0,0:02:47.82,0:02:50.82,Default,NTP,0000,0000,0000,!Effect,可怕的殺人鬼 惡魔
+Dialogue: Marked=0,0:02:50.86,0:02:53.39,Default,NTP,0000,0000,0000,!Effect,放你活著回去\N我們會被全部殺死
+Dialogue: Marked=0,0:02:54.33,0:02:56.53,Default,NTP,0000,0000,0000,!Effect,你誤會了
+Dialogue: Marked=0,0:02:56.57,0:02:59.19,Default,NTP,0000,0000,0000,!Effect,我根本無意殺死任何人
+Dialogue: Marked=0,0:02:59.64,0:03:05.47,Default,NTP,0000,0000,0000,!Effect,騙人 傀王說過你的身體裏面\N一滴血也沒有流動
+Dialogue: Marked=0,0:03:06.24,0:03:07.01,Default,NTP,0000,0000,0000,!Effect,傀王？
+Dialogue: Marked=0,0:03:07.91,0:03:12.58,Default,NTP,0000,0000,0000,!Effect,拔刀齊 他是為了殺光我們\N而來這裏的
+Dialogue: Marked=0,0:03:13.05,0:03:15.45,Default,NTP,0000,0000,0000,!Effect,他是地獄的使者 惡魔
+Dialogue: Marked=0,0:03:18.92,0:03:20.18,Default,NTP,0000,0000,0000,!Effect,去死吧 惡魔
+Dialogue: Marked=0,0:03:37.77,0:03:41.14,Default,NTP,0000,0000,0000,!Effect,我決不是來殺人的
+Dialogue: Marked=0,0:03:41.81,0:03:42.64,Default,NTP,0000,0000,0000,!Effect,住口
+Dialogue: Marked=0,0:03:53.62,0:03:54.45,Default,NTP,0000,0000,0000,!Effect,糟了！
+Dialogue: Marked=0,0:04:10.51,0:04:12.03,Default,NTP,0000,0000,0000,!Effect,住手呀 你們
+Dialogue: Marked=0,0:04:17.18,0:04:18.51,Default,NTP,0000,0000,0000,!Effect,抓緊我
+Dialogue: Marked=0,0:04:21.55,0:04:22.38,Default,NTP,0000,0000,0000,!Effect,快點
+Dialogue: Marked=0,0:04:39.57,0:04:42.80,Default,NTP,0000,0000,0000,!Effect,為什麼 為什麼要救我
+Dialogue: Marked=0,0:04:44.61,0:04:47.17,Default,NTP,0000,0000,0000,!Effect,你是惡魔呀 為什麼
+Dialogue: Marked=0,0:04:47.21,0:04:52.55,Default,NTP,0000,0000,0000,!Effect,我說過了 我無意殺任何人
+Dialogue: Marked=0,0:04:52.58,0:04:55.45,Default,NTP,0000,0000,0000,!Effect,還有 我不是惡魔
+Dialogue: Marked=0,0:04:57.49,0:05:00.35,Default,NTP,0000,0000,0000,!Effect,你的傷怎樣了 讓我看看
+Dialogue: Marked=0,0:05:04.59,0:05:09.19,Default,NTP,0000,0000,0000,!Effect,那些狗被餵過藥\N只聽從犬笛的命令
+Dialogue: Marked=0,0:05:09.23,0:05:12.40,Default,NTP,0000,0000,0000,!Effect,沒有笛子的話\N我一點辦法也沒有
+Dialogue: Marked=0,0:05:12.44,0:05:14.80,Default,NTP,0000,0000,0000,!Effect,我真的不知道該怎麼辦
+Dialogue: Marked=0,0:05:15.67,0:05:19.77,Default,NTP,0000,0000,0000,!Effect,不殺死你的話\N我會被傀王大人殺死的
+Dialogue: Marked=0,0:05:19.81,0:05:21.90,Default,NTP,0000,0000,0000,!Effect,可是我無法殺死你
+Dialogue: Marked=0,0:05:22.48,0:05:23.21,Default,NTP,0000,0000,0000,!Effect,為什麼
+Dialogue: Marked=0,0:05:23.98,0:05:29.38,Default,NTP,0000,0000,0000,!Effect,聖母小姐教導過\N善良的人就是朋友
+Dialogue: Marked=0,0:05:33.82,0:05:35.49,Default,NTP,0000,0000,0000,!Effect,對不起 我必需這麼做
+Dialogue: Marked=0,0:05:38.46,0:05:42.99,Default,NTP,0000,0000,0000,!Effect,你在這裏等著\N我去問聖母小姐該怎麼辦才好
+Dialogue: Marked=0,0:05:43.83,0:05:45.83,Default,NTP,0000,0000,0000,!Effect,你等一下呀
+Dialogue: Marked=0,0:06:10.69,0:06:15.79,Default,NTP,0000,0000,0000,!Effect,活該 上不來了吧\N反抗人類就是這下場
+Dialogue: Marked=0,0:06:16.63,0:06:19.19,Default,NTP,0000,0000,0000,!Effect,有辦法上來就來呀\N這些笨狗
+Dialogue: Marked=0,0:06:33.98,0:06:36.71,Default,NTP,0000,0000,0000,!Effect,為什麼我會遇上這種衰事
+Dialogue: Marked=0,0:06:48.87,0:06:52.82,Default,NTP,0000,0000,0000,!Effect,為什麼我要為這東西\N這麼認真呢
+Dialogue: Marked=0,0:07:04.11,0:07:08.18,Default,NTP,0000,0000,0000,!Effect,為什麼會變成這樣！
+Dialogue: Marked=0,0:07:10.12,0:07:13.35,Default,NTP,0000,0000,0000,!Effect,阿薰 阿薰
+Dialogue: Marked=0,0:07:14.12,0:07:15.11,Default,NTP,0000,0000,0000,!Effect,一定出事了
+Dialogue: Marked=0,0:07:15.53,0:07:20.52,Default,NTP,0000,0000,0000,!Effect,可惡 我必須代替劍心\N好好保護阿薰的呀
+Dialogue: Marked=0,0:07:34.71,0:07:36.11,Default,NTP,0000,0000,0000,!Effect,那傢伙是…
+Dialogue: Marked=0,0:07:36.61,0:07:38.48,Default,NTP,0000,0000,0000,!Effect,愛爾思坦領事身旁的人
+Dialogue: Marked=0,0:07:39.38,0:07:41.35,Default,NTP,0000,0000,0000,!Effect,我記得他叫做…山東
+Dialogue: Marked=0,0:07:42.42,0:07:43.78,Default,NTP,0000,0000,0000,!Effect,為什麼他會在這裏
+Dialogue: Marked=0,0:07:52.76,0:07:55.93,Default,NTP,0000,0000,0000,!Effect,傀王大人您來迎接了？
+Dialogue: Marked=0,0:08:11.11,0:08:13.74,Default,NTP,0000,0000,0000,!Effect,你就是天草翔伍吧
+Dialogue: Marked=0,0:08:15.95,0:08:18.85,Default,NTP,0000,0000,0000,!Effect,原來是緋村的女人
+Dialogue: Marked=0,0:08:23.39,0:08:26.69,Default,NTP,0000,0000,0000,!Effect,為什麼 你為什麼想打倒劍心
+Dialogue: Marked=0,0:08:27.56,0:08:28.83,Default,NTP,0000,0000,0000,!Effect,那是命運
+Dialogue: Marked=0,0:08:29.87,0:08:30.89,Default,NTP,0000,0000,0000,!Effect,命運？
+Dialogue: Marked=0,0:08:30.93,0:08:36.27,Default,NTP,0000,0000,0000,!Effect,緋村的天翔龍閃\N是存在這地上的終極之劍
+Dialogue: Marked=0,0:08:36.31,0:08:42.07,Default,NTP,0000,0000,0000,!Effect,但是我把天翔龍閃\N提高成全知全能的天上之劍
+Dialogue: Marked=0,0:08:44.01,0:08:47.88,Default,NTP,0000,0000,0000,!Effect,當天上之劍毀滅地上之劍時
+Dialogue: Marked=0,0:08:47.92,0:08:51.48,Default,NTP,0000,0000,0000,!Effect,超越飛天御劍流\N的真正的御劍流
+Dialogue: Marked=0,0:08:51.52,0:08:53.25,Default,NTP,0000,0000,0000,!Effect,就成為我的了
+Dialogue: Marked=0,0:08:59.56,0:09:01.69,Default,NTP,0000,0000,0000,!Effect,你想說你是全知全能的？
+Dialogue: Marked=0,0:09:05.00,0:09:09.10,Default,NTP,0000,0000,0000,!Effect,騙人 你對劍心的事\N根本什麼都不曉得
+Dialogue: Marked=0,0:09:12.88,0:09:16.94,Default,NTP,0000,0000,0000,!Effect,沒錯 你的劍招確實像神一樣
+Dialogue: Marked=0,0:09:16.98,0:09:22.04,Default,NTP,0000,0000,0000,!Effect,但是你與劍心誰比較強\N我就很難分出了
+Dialogue: Marked=0,0:09:22.09,0:09:26.25,Default,NTP,0000,0000,0000,!Effect,可是我敢肯定的說\N劍心是絕不會輸給你的
+Dialogue: Marked=0,0:09:30.83,0:09:36.79,Default,NTP,0000,0000,0000,!Effect,因為你錯了\N犧牲人命創造神的國度
+Dialogue: Marked=0,0:09:36.83,0:09:38.77,Default,NTP,0000,0000,0000,!Effect,你的靈魂已經毀壞了
+Dialogue: Marked=0,0:09:47.01,0:09:49.84,Default,NTP,0000,0000,0000,!Effect,毀壞掉的是這個國家的歷史
+Dialogue: Marked=0,0:09:50.78,0:09:56.01,Default,NTP,0000,0000,0000,!Effect,三百年間殺死\N數萬無辜的天主教徒
+Dialogue: Marked=0,0:09:56.05,0:09:59.18,Default,NTP,0000,0000,0000,!Effect,為了替他們贖罪\N我才決定洗禮的
+Dialogue: Marked=0,0:09:59.96,0:10:01.45,Default,NTP,0000,0000,0000,!Effect,洗禮？
+Dialogue: Marked=0,0:10:01.49,0:10:06.59,Default,NTP,0000,0000,0000,!Effect,過去神用大洪水\N毀滅地上骯髒的人類
+Dialogue: Marked=0,0:10:06.63,0:10:11.16,Default,NTP,0000,0000,0000,!Effect,然後留下少數人做靈魂的再生
+Dialogue: Marked=0,0:10:12.20,0:10:14.36,Default,NTP,0000,0000,0000,!Effect,明治時代也將發生同樣的事
+Dialogue: Marked=0,0:10:15.14,0:10:20.08,Default,NTP,0000,0000,0000,!Effect,我要以這破壞為名\N的洗祠毀滅骯髒的權力
+Dialogue: Marked=0,0:10:20.11,0:10:23.67,Default,NTP,0000,0000,0000,!Effect,只在這國家\N留下我選擇的子民
+Dialogue: Marked=0,0:10:24.88,0:10:29.18,Default,NTP,0000,0000,0000,!Effect,這…這麼說\N只有你選上的人能活下來
+Dialogue: Marked=0,0:10:31.45,0:10:35.82,Default,NTP,0000,0000,0000,!Effect,劍心他不破壞任何東西\N也不毀滅任何人
+Dialogue: Marked=0,0:10:35.86,0:10:38.56,Default,NTP,0000,0000,0000,!Effect,是用關懷改變大家的心的
+Dialogue: Marked=0,0:10:39.33,0:10:42.03,Default,NTP,0000,0000,0000,!Effect,他跟你不一樣 你比不上他
+Dialogue: Marked=0,0:10:48.37,0:10:51.17,Default,NTP,0000,0000,0000,!Effect,神之子與人之子\N是不能拿來比的
+Dialogue: Marked=0,0:10:57.61,0:10:58.81,Default,NTP,0000,0000,0000,!Effect,為何不錯開眼神
+Dialogue: Marked=0,0:11:00.22,0:11:03.71,Default,NTP,0000,0000,0000,!Effect,因為我不想對自己說謊
+Dialogue: Marked=0,0:11:04.92,0:11:06.35,Default,NTP,0000,0000,0000,!Effect,你也不適合說謊
+Dialogue: Marked=0,0:11:13.46,0:11:16.13,Default,NTP,0000,0000,0000,!Effect,去吧 去轉告緋村
+Dialogue: Marked=0,0:11:16.17,0:11:17.90,Default,NTP,0000,0000,0000,!Effect,說命運的時刻到了
+Dialogue: Marked=0,0:11:21.20,0:11:22.17,Default,NTP,0000,0000,0000,!Effect,你是…
+Dialogue: Marked=0,0:11:23.54,0:11:25.30,Default,NTP,0000,0000,0000,!Effect,我是神谷薰
+Dialogue: Marked=0,0:11:26.18,0:11:27.77,Default,NTP,0000,0000,0000,!Effect,神谷薰
+Dialogue: Marked=0,0:11:29.68,0:11:35.21,Default,NTP,0000,0000,0000,!Effect,翔伍大人 聖母小姐\N我不知該怎麼處置那男人
+Dialogue: Marked=0,0:11:36.12,0:11:37.45,Default,NTP,0000,0000,0000,!Effect,那男人是？
+Dialogue: Marked=0,0:11:37.49,0:11:39.25,Default,NTP,0000,0000,0000,!Effect,緋村拔刀齊呀
+Dialogue: Marked=0,0:11:53.77,0:11:56.60,Default,NTP,0000,0000,0000,!Effect,不能再等了 我擔心左之助
+Dialogue: Marked=0,0:11:57.04,0:12:02.41,Default,NTP,0000,0000,0000,!Effect,但是我不在這裏等的話\N那男人可能會被殺死
+Dialogue: Marked=0,0:12:10.95,0:12:11.65,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:12:12.76,0:12:13.74,Default,NTP,0000,0000,0000,!Effect,阿薰
+Dialogue: Marked=0,0:12:18.23,0:12:24.33,Default,NTP,0000,0000,0000,!Effect,鏈子解脫了\N這樣你還在這裏等我？
+Dialogue: Marked=0,0:12:25.17,0:12:29.87,Default,NTP,0000,0000,0000,!Effect,原來如此 耿直到不背叛人
+Dialogue: Marked=0,0:12:29.91,0:12:34.07,Default,NTP,0000,0000,0000,!Effect,這就是你所說的\N改變人心的關懷嗎
+Dialogue: Marked=0,0:12:36.58,0:12:40.38,Default,NTP,0000,0000,0000,!Effect,可是那個關懷 那個小正義
+Dialogue: Marked=0,0:12:40.42,0:12:44.41,Default,NTP,0000,0000,0000,!Effect,在絕對至上的神的面前\N不過像粒塵埃動了
+Dialogue: Marked=0,0:12:47.29,0:12:50.73,Default,NTP,0000,0000,0000,!Effect,緋村劍心 我要打倒你
+Dialogue: Marked=0,0:12:56.17,0:12:59.97,Default,NTP,0000,0000,0000,!Effect,從知道你是\N飛天御劍流的高手那一刻起
+Dialogue: Marked=0,0:13:00.00,0:13:02.53,Default,NTP,0000,0000,0000,!Effect,我就感覺你我避免不了一戰
+Dialogue: Marked=0,0:13:02.57,0:13:06.51,Default,NTP,0000,0000,0000,!Effect,可是打倒你不是我的目的
+Dialogue: Marked=0,0:13:08.44,0:13:13.25,Default,NTP,0000,0000,0000,!Effect,這一戰\N是為了讓你瞭解為人之道
+Dialogue: Marked=0,0:13:15.82,0:13:18.69,Default,NTP,0000,0000,0000,!Effect,助人 保護人
+Dialogue: Marked=0,0:13:18.72,0:13:22.78,Default,NTP,0000,0000,0000,!Effect,缺乏那個信念而使用\N飛天御劍流是不被允許的
+Dialogue: Marked=0,0:13:23.73,0:13:30.89,Default,NTP,0000,0000,0000,!Effect,那不只是繼承飛天御劍流\N歷任比古清十郎的信念
+Dialogue: Marked=0,0:13:30.93,0:13:35.60,Default,NTP,0000,0000,0000,!Effect,也是將御劍流傳授給你的\N過世的兵衛大人的意思
+Dialogue: Marked=0,0:13:37.87,0:13:43.94,Default,NTP,0000,0000,0000,!Effect,這是放在兵衛大人的庵裏\N寫給你的遺書
+Dialogue: Marked=0,0:13:45.92,0:13:46.81,Default,NTP,0000,0000,0000,!Effect,叔叔的？
+Dialogue: Marked=0,0:13:49.19,0:13:52.12,Default,NTP,0000,0000,0000,!Effect,等你讀完它之後我們再交手
+Dialogue: Marked=0,0:13:52.56,0:14:00.49,Default,NTP,0000,0000,0000,!Effect,沒那必要 我的飛天御劍流\N早遠遠超出你與叔叔的想像
+Dialogue: Marked=0,0:14:00.53,0:14:03.23,Default,NTP,0000,0000,0000,!Effect,超越御劍流的御劍流
+Dialogue: Marked=0,0:14:03.27,0:14:07.70,Default,NTP,0000,0000,0000,!Effect,人的想法對天上之劍來說\N是沒有意義的
+Dialogue: Marked=0,0:14:14.91,0:14:15.84,Default,NTP,0000,0000,0000,!Effect,那麼…
+Dialogue: Marked=0,0:14:16.88,0:14:18.90,Default,NTP,0000,0000,0000,!Effect,我就請兵衛大人在旁觀看了
+Dialogue: Marked=0,0:14:43.07,0:14:47.37,Default,NTP,0000,0000,0000,!Effect,開始了 終於要開始了
+Dialogue: Marked=0,0:14:59.16,0:15:03.25,Default,NTP,0000,0000,0000,!Effect,你要仔細看好\N那獨一無二的天上之劍
+Dialogue: Marked=0,0:15:19.61,0:15:22.27,Default,NTP,0000,0000,0000,!Effect,你這算是龍卷閃嗎
+Dialogue: Marked=0,0:15:22.31,0:15:25.97,Default,NTP,0000,0000,0000,!Effect,那你就看我\N提升到天上的龍卷閃吧
+Dialogue: Marked=0,0:15:29.39,0:15:31.41,Default,NTP,0000,0000,0000,!Effect,這是…\N不會錯 是飛天御劍流
+Dialogue: Marked=0,0:15:31.45,0:15:34.55,Default,NTP,0000,0000,0000,!Effect,而且是超越神速的\N超神的龍卷閃
+Dialogue: Marked=0,0:15:37.63,0:15:39.09,Default,NTP,0000,0000,0000,!Effect,龍卷閃的連擊！？
+Dialogue: Marked=0,0:15:41.50,0:15:42.19,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:15:46.34,0:15:49.00,Default,NTP,0000,0000,0000,!Effect,原來如此 你還能站著啊
+Dialogue: Marked=0,0:15:49.64,0:15:53.27,Default,NTP,0000,0000,0000,!Effect,不愧是被傳頌為\N傳說中的劍客的人物
+Dialogue: Marked=0,0:15:53.31,0:15:57.08,Default,NTP,0000,0000,0000,!Effect,翔伍大人果然是神\N聖母小姐
+Dialogue: Marked=0,0:15:58.72,0:15:59.55,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:16:01.35,0:16:07.19,Default,NTP,0000,0000,0000,!Effect,你超乎我的想像\N比古師父看到或許會吃驚
+Dialogue: Marked=0,0:16:08.29,0:16:11.49,Default,NTP,0000,0000,0000,!Effect,好漂亮的龍卷閃\N與龍卷閃旋的連發攻擊
+Dialogue: Marked=0,0:16:13.70,0:16:15.99,Default,NTP,0000,0000,0000,!Effect,接下來應該是龍槌閃
+Dialogue: Marked=0,0:16:17.03,0:16:20.76,Default,NTP,0000,0000,0000,!Effect,好吧 我想看看你的龍槌閃
+Dialogue: Marked=0,0:16:32.62,0:16:33.58,Default,NTP,0000,0000,0000,!Effect,接招
+Dialogue: Marked=0,0:16:41.59,0:16:42.42,Default,NTP,0000,0000,0000,!Effect,太天真了
+Dialogue: Marked=0,0:16:46.50,0:16:47.33,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:17:02.75,0:17:05.48,Default,NTP,0000,0000,0000,!Effect,劍心一點也沒受到動搖
+Dialogue: Marked=0,0:17:13.19,0:17:16.52,Default,NTP,0000,0000,0000,!Effect,你的力道控制得太好了
+Dialogue: Marked=0,0:17:16.56,0:17:20.72,Default,NTP,0000,0000,0000,!Effect,如果你有殺意\N剛才那一擊就能讓我死了
+Dialogue: Marked=0,0:17:21.60,0:17:24.69,Default,NTP,0000,0000,0000,!Effect,可是你卻留下我的右腕\N故意不傷它
+Dialogue: Marked=0,0:17:25.57,0:17:28.06,Default,NTP,0000,0000,0000,!Effect,現在給你死沒有意思
+Dialogue: Marked=0,0:17:28.10,0:17:33.57,Default,NTP,0000,0000,0000,!Effect,我就是要留你一口氣\N好看看地上的終極之劍
+Dialogue: Marked=0,0:17:36.11,0:17:37.81,Default,NTP,0000,0000,0000,!Effect,是九頭龍閃的架勢
+Dialogue: Marked=0,0:17:41.25,0:17:45.38,Default,NTP,0000,0000,0000,!Effect,他想逼劍心\N使出秘技天翔龍閃！
+Dialogue: Marked=0,0:18:05.31,0:18:10.97,Default,NTP,0000,0000,0000,!Effect,這樣最好 你的天翔龍閃\N應該是一擊必殺的絕招
+Dialogue: Marked=0,0:18:26.20,0:18:28.56,Default,NTP,0000,0000,0000,!Effect,飛天御劍流
+Dialogue: Marked=0,0:18:30.40,0:18:31.56,Default,NTP,0000,0000,0000,!Effect,九頭龍閃
+Dialogue: Marked=0,0:18:32.80,0:18:33.77,Default,NTP,0000,0000,0000,!Effect,接招
+Dialogue: Marked=0,0:18:49.25,0:18:51.31,Default,NTP,0000,0000,0000,!Effect,不是天翔龍閃
+Dialogue: Marked=0,0:18:51.35,0:18:53.62,Default,NTP,0000,0000,0000,!Effect,他用九頭龍閃接下了九頭龍閃
+Dialogue: Marked=0,0:18:59.50,0:19:01.90,Default,NTP,0000,0000,0000,!Effect,他是故意不使出天翔龍閃
+Dialogue: Marked=0,0:19:03.07,0:19:05.33,Default,NTP,0000,0000,0000,!Effect,還是…使不出來呢
+Dialogue: Marked=0,0:19:11.24,0:19:16.30,Default,NTP,0000,0000,0000,!Effect,為何不使出天翔龍閃
+Dialogue: Marked=0,0:19:19.98,0:19:23.54,Default,NTP,0000,0000,0000,!Effect,剛才你的九頭龍閃道出一切
+Dialogue: Marked=0,0:19:25.22,0:19:27.66,Default,NTP,0000,0000,0000,!Effect,我看穿你的心了
+Dialogue: Marked=0,0:19:37.30,0:19:40.79,Default,NTP,0000,0000,0000,!Effect,我要給你比死更深刻的敗北
+Dialogue: Marked=0,0:19:57.19,0:19:59.09,Default,NTP,0000,0000,0000,!Effect,給你永遠的黑暗
+Dialogue: Marked=0,0:20:31.29,0:20:32.25,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:20:39.96,0:20:40.83,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:21:19.17,0:21:20.29,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:21:22.94,0:21:24.06,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:21:38.29,0:21:39.58,Default,NTP,0000,0000,0000,!Effect,劍心…
+Dialogue: Marked=0,0:21:40.66,0:21:42.89,Default,NTP,0000,0000,0000,!Effect,阿薰
+Dialogue: Marked=0,0:21:43.83,0:21:47.82,Default,NTP,0000,0000,0000,!Effect,對不起 讓你擔心了
+Dialogue: Marked=0,0:21:48.46,0:21:51.30,Default,NTP,0000,0000,0000,!Effect,你說這什麼話\N只要你人還活著
+Dialogue: Marked=0,0:21:52.87,0:21:56.20,Default,NTP,0000,0000,0000,!Effect,只要你活著…
+Dialogue: Marked=0,0:21:57.27,0:21:58.21,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:21:59.01,0:22:02.54,Default,NTP,0000,0000,0000,!Effect,禰彥嗎 你沒事
+Dialogue: Marked=0,0:22:03.61,0:22:04.91,Default,NTP,0000,0000,0000,!Effect,太好了
+Dialogue: Marked=0,0:22:12.35,0:22:16.42,Default,NTP,0000,0000,0000,!Effect,我要給你比死更深刻的敗北
+Dialogue: Marked=0,0:22:16.46,0:22:18.02,Default,NTP,0000,0000,0000,!Effect,給你永遠的黑暗
+Dialogue: Marked=0,0:22:21.36,0:22:23.39,Default,NTP,0000,0000,0000,!Effect,雷龍閃
+Dialogue: Marked=0,0:22:24.37,0:22:30.36,Default,NTP,0000,0000,0000,!Effect,從那時候起\N我的眼睛就永遠失去了光明
+Dialogue: Marked=0,0:22:32.68,0:22:35.34,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:22:35.38,0:22:36.54,Default,NTP,0000,0000,0000,!Effect,劍心…
+Dialogue: Marked=0,0:22:37.15,0:22:38.04,Default,NTP,0000,0000,0000,!Effect,劍心
+Dialogue: Marked=0,0:22:39.38,0:22:42.78,Default,NTP,0000,0000,0000,!Effect,你怎麼了 劍心
+
