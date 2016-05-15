@@ -2,14 +2,12 @@ fs = require('fs');
 iconv = require('iconv-lite');
 util = require('util');
 
-
-
 var files = [];
 for (var i = 3; i < process.argv.length; i=i+2){
 	var map = {};
 	map.fn = process.argv[i-1];
 	map.enc = process.argv[i];
-	files.push(map);	
+	files.push(map);
 }
 
 files.forEach(function(e,i,a){
@@ -21,9 +19,6 @@ files.forEach(function(e,i,a){
 	e.count =0;
 	e.max = e.txtarr.length-1;
 });
-
-//console.log(util.inspect(files,{ showHidden: true, depth: null }));
-
 
 while (true){
 
@@ -47,8 +42,8 @@ while (true){
 
 function removeEmpty(){
 	for (var i = 0; i < files.length; i++){
-		if (files[i].count > files[i].max) { 
-			files.splice(i,1); 
+		if (files[i].count > files[i].max) {
+			files.splice(i,1);
 		}
 	}
 }
@@ -60,27 +55,6 @@ function checkBreak(){
 	return true;
 }
 
-/* 
-var file1encoding = process.argv[3];
-var file2encoding = process.argv[5];
-//fs.unlinkSync(process.argv[6]), function(err){ console.log("file " + process.argv[6] + "does not exist	")};
-//console.log(file1encoding + ' ' + file2encoding);
-
-var file1 = fs.readFileSync(process.argv[2]);
-var file2 = fs.readFileSync(process.argv[4]);
-var str1 = iconv.decode(file1, file1encoding);
-var str2 = iconv.decode(file2, file2encoding);
-//str1 = str1.replace("\r", "");
-
-str1 = str1.replace(/(\r\n)/gm,"\n");
-str2 = str2.replace(/(\r\n)/gm,"\n");
-
-var file1array = ParseSRTString(str1);
-var file2array = ParseSRTString(str2);
-*/
-
-//console.log(str1 + str2);
-
 function ParseSSAString(str, deletespace){
 	deletespace = typeof deletespace !== 'undefined' ? deletespace : false;
 	var i = 0;
@@ -88,7 +62,7 @@ function ParseSSAString(str, deletespace){
 	while (i < str.length)
 	{
 	    var j = str.indexOf("\n", i);
-	    if (j == -1)  j = str.length; 
+	    if (j == -1)  j = str.length;
 	    var temp = str.substr(i, j-i);
 	    //console.log(temp);
 
@@ -101,11 +75,11 @@ function ParseSSAString(str, deletespace){
 			var time = (parseInt(result[1]) * 60 * 60 * 1000) +  (parseInt(result[2]) * 60 * 1000) + (parseInt(result[3]) * 1000) +  parseInt(result[4]);
 			//console.log(d);
 
-			var text = RemoveNestedChars(result[5],'{','}'); 
-			text = RemoveNestedChars(text,'<','>'); 
+			var text = RemoveNestedChars(result[5],'{','}');
+			text = RemoveNestedChars(text,'<','>');
 			text = text.replace(/}/, "");
 			if (deletespace) text = text.replace(/ /g,"");
-			var map = {}; map.time = time; map.text = text; 
+			var map = {}; map.time = time; map.text = text;
 			filearray.push(map);
 	    }
 	    i = j+1;
@@ -123,9 +97,9 @@ function ParseSRTString(str){
 	while (i < str.length)
 	{
 	    var j = str.indexOf("\n", i);
-	    if (j == -1)  j = str.length; 
+	    if (j == -1)  j = str.length;
 	    var temp = str.substr(i, j-i);
-	    
+
 	    if  (digitre.test(temp)){
 	    	//console.log("digit: "+ temp);
 	    }
@@ -138,8 +112,8 @@ function ParseSRTString(str){
 	    else if (emptyre.test(temp)){
 	    	//console.log("empty");
 	    	if (map.text && map.time) {
-				map.text = RemoveNestedChars(map.text,'{','}'); 
-				map.text = RemoveNestedChars(map.text,'<','>'); 
+				map.text = RemoveNestedChars(map.text,'{','}');
+				map.text = RemoveNestedChars(map.text,'<','>');
 	    		filearray.push(map);
 	    	}
 			map = {};
@@ -164,7 +138,7 @@ function RemoveNestedChars(s,a,b){
 			count++;
 		}
 		else if (s[i] == b){
-			if(count > 0) { 
+			if(count > 0) {
 				count--;
 			}
 			else {
@@ -172,38 +146,11 @@ function RemoveNestedChars(s,a,b){
 			}
 		}
 		else {
-			if(count == 0) { 
-				out.push(s[i]); 
+			if(count == 0) {
+				out.push(s[i]);
 			}
 		}
 	}
 	if (count == 0)  return out.join('');
 	else return s;
 }
-
-
-//console.log(util.inspect(file1array, {showHidden: false, depth: null}));
-//console.log(util.inspect(file2array, {showHidden: false, depth: null}));
-/*
-i = 0, j = 0;
-var itime = 0; var jtime = 0;
-while (i < file1array.length || j < file2array.length){
-	//console.log(i + ' ' + util.inspect(file1array[i]));
-	//console.log(j + ' ' + util.inspect(file2array[j]));
-	if (i == file1array.length) {itime = Infinity;}
-	else {itime = file1array[i].time;}
-	if (j == file2array.length) {jtime = Infinity;}
-	else {jtime = file2array[j].time;}
-
-	if (itime<jtime){
-		fs.appendFile(process.argv[6], file1array[i].text + '\n');
-		//console.log(file1array[i].time + ': ' + file1array[i].text);
-		i++;
-	}
-	else{
-		fs.appendFile(process.argv[6], file2array[j].text + '\n');
-		//console.log(file2array[j].time + ': ' + file2array[j].text);
-		j++
-	} 
-}
-*/
