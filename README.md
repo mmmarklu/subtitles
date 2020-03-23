@@ -11,4 +11,4 @@ There are multiple ways to invoke the emulator.
 There are multiple ways to invoke the emulator.
 
 
-[test](gcr.io/cloud-spanner-emulator/emulator)
+[test](https://gcr.io/cloud-spanner-emulator/emulator)
