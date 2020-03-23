@@ -9,3 +9,6 @@ There are multiple ways to invoke the emulator.
 ## Features, Known Issues, and Limitations
 
 There are multiple ways to invoke the emulator.
+
+
+[test](gcr.io/cloud-spanner-emulator/emulator)
